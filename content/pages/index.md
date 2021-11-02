@@ -399,7 +399,7 @@ sections:
           vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
           semper.
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: Qué hoteles tienen convenio?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
