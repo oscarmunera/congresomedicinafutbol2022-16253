@@ -14,7 +14,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/hero-background.jpg
+    background_image: /images/medico2.jpeg
     background_image_opacity: 15
     background_image_size: cover
   - type: grid_section
