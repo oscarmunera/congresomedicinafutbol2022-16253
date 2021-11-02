@@ -438,7 +438,7 @@ sections:
   - type: cta_section
     title: Aproveche los precios de 2021.
     actions:
-      - label: Get tickets
+      - label: Inscríbase
         url: /thank-you
         style: primary
         has_icon: true
