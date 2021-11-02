@@ -213,7 +213,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: Mire nuestra galareia multimedia
     subtitle: '2022'
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
