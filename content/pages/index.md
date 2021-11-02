@@ -286,7 +286,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Precios
-    subtitle: Selecciones la entreda de su preferencia
+    subtitle: Selecciones la entrada de su preferencia
     grid_items:
       - title: Estudiantes
         subtitle: Marzo 24-25
