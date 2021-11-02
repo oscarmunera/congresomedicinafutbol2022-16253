@@ -288,7 +288,7 @@ sections:
     title: Precios
     subtitle: Selecciones la entreda de su preferencia
     grid_items:
-      - title: Base Camp Ticket
+      - title: Estudiantes
         subtitle: April 14
         title_align: left
         content: |-
