@@ -246,7 +246,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: What People are Saying
+    title: Qué dijeron los asistentes al congreso anterior.
     subtitle: Opiniones del I Congreso
     grid_items:
       - content: |
