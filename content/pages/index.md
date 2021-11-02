@@ -55,9 +55,9 @@ sections:
   - type: features_section
     title: Viva la mejor experiencia
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: >
+          Participe en el evento de divulgación científica de medicina deportiva
+          de mayor impacto en la región.
         align: center
     feature_padding_vert: medium
     align: center
