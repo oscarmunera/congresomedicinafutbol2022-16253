@@ -386,7 +386,9 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: Frequently Asked Questions
+    title: >-
+      Preguntas frecuentes sobre el II Congreso Internacional de medicina del
+      fútbol
     subtitle: Our vision
     grid_items:
       - title: How can I get to the venue?
