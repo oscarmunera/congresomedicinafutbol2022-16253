@@ -258,8 +258,10 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Been super impressed with developer talks of the Event Conf. Great
-          conference realy enjoy it!
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel.
+
+
 
 
           **Juan Orozco,** *Médico*
