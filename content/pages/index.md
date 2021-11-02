@@ -467,11 +467,11 @@ sections:
 
           Atendemos de 8:00 am a 5:00 pm.
       - title: Síganos
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
+        content: |
+          [Youtube](https://www.youtube.com/)
+          [I](https://medium.com/)nstagram
+          [Facebook](https://www.facebook.com/)
+          [Twitter](https://twitter.com/home)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
