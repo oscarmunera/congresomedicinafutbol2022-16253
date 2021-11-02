@@ -249,12 +249,10 @@ sections:
     title: What People are Saying
     subtitle: Opiniones del I Congreso
     grid_items:
-      - content: >-
-          I've had a wonderful few days at Event Conf. So grateful to have been
-          a part of it.
+      - content: |
+          La acomodación , lamimagen y el sonido fueron impresionates
 
-
-          **Hanson Deck,** *App Developer, Studio*
+          **Carlos Martínez,** Fisioterapeuta
         image: images/hanson-deck.jpg
         image_alt: Hanson Deck
         image_position: left
