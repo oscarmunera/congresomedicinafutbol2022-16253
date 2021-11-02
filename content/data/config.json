@@ -81,7 +81,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Unoycero digital. All rights reserved. <a href=\"https://www.unoycerodigital.com.co/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Todos los derechos reservados</a>. <a href=\"www.unoycerodigital.com.co?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Unoycero digital. <a href=\"https://www.unoycerodigital.com.co/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Todos los derechos reservados</a>. <a href=\"www.unoycerodigital.com.co?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "announcement": {
         "has_anncmnt": true,
