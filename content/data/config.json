@@ -42,7 +42,8 @@
                 "has_icon": true,
                 "icon": "twitter",
                 "icon_position": "center",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "LinkedIn",
