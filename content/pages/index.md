@@ -214,7 +214,7 @@ sections:
     background_color: none
   - type: features_section
     title: Watch Favorite Talks From Past Events
-    subtitle: '2020'
+    subtitle: '2019'
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
         content: >-
