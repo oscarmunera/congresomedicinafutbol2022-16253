@@ -81,7 +81,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Implementado Unoycero digital. <a href=\"https://www.unoycerodigital.com.co/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Todos los derechos reservados</a>. <a href=\"www.unoycerodigital.com.co?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Implementado Unoycero digital. <a href=\"https://www.unoycerodigital.com.co/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Todos los derechos reservados</a>. <a href=\"www.unoycerodigital.com.co?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\"></a>"
     },
     "announcement": {
         "has_anncmnt": true,
