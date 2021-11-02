@@ -334,7 +334,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: VIP
-        subtitle: April 14 - 16
+        subtitle: Marzo 24-25
         title_align: left
         content: |-
           ---
