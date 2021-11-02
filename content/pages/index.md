@@ -291,15 +291,15 @@ sections:
       - title: Estudiantes
         subtitle: Marzo 24-25
         title_align: left
-        content: |-
-          ---
-          ### Free
+        content: |
+          ***
 
-          Watch only access for Base Camp track
+          ### $ US 120
 
-          * Conference Stickers
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
+          Todas las conferencias con acceso virtual
+
+          *   Acceso virtual a todas las conferencias
+          *   Preguntas en la sección de preguntas abiertas
         content_align: left
         actions:
           - label: Registration
