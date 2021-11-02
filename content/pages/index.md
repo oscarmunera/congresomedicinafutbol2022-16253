@@ -336,17 +336,16 @@ sections:
       - title: VIP
         subtitle: Marzo 24-25
         title_align: left
-        content: |-
-          ---
-          ### $139
+        content: |
+          ***
 
-          HD quality for Base camp and Summit tracks
+          ### $ US 180
 
-          * Interactive sessions with speakers
-          * Conference Stickers & more sent to your home
-          * Q&A with speakers
-          * Certificates on Workshops
-          * Technology discussion rooms
+          Acceso VIP a la sala de conferencias
+
+          *   Sesión privada de preguntas con conferencistas.
+          *   Almuerzo privado con ..
+          *
         content_align: left
         actions:
           - label: Order Now
