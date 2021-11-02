@@ -250,7 +250,7 @@ sections:
     subtitle: Opiniones del I Congreso
     grid_items:
       - content: |
-          La acomodación , lamimagen y el sonido fueron impresionates
+          La acomodación, la imagen y el sonido fueron impresionantes
 
           **Carlos Martínez,** Fisioterapeuta
         image: images/hanson-deck.jpg
