@@ -289,7 +289,7 @@ sections:
     subtitle: Selecciones la entreda de su preferencia
     grid_items:
       - title: Estudiantes
-        subtitle: April 14
+        subtitle: Marzo 24-25
         title_align: left
         content: |-
           ---
