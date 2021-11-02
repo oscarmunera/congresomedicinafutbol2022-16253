@@ -455,13 +455,17 @@ sections:
   - type: grid_section
     grid_items:
       - title: Dirección
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
+        content: >
+          Calle 193 9-20
 
-          **Time:** 9:30 AM to 3:30 PM
+          Bogotá
+
+          [6](tel:+12345567890)01 6345230
+
+          [C](mailto:email@example.com)ongresomedicinadeportiva@equidadclubdeportivo.coop
+
+
+          Atendemos de 8:00 am a 5:00 pm.
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
