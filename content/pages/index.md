@@ -7,7 +7,7 @@ sections:
     content: |
       **Marzo 24 - 25, 2022**
     actions:
-      - label: "Obtenga sus entradas hoy\_ mismo!"
+      - label: Regístrese hoy mismo!
         url: /about
         style: primary
     align: center
