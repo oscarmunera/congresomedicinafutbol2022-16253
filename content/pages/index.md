@@ -364,7 +364,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Our Sponsors
-    subtitle: We Are Supported by Awesome Companies
+    subtitle: Nos acompañan empresas reconocidas mundialmente
     align: center
     grid_items:
       - image: images/stackbit.svg
