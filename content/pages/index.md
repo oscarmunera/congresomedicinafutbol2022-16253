@@ -466,7 +466,7 @@ sections:
 
 
           Atendemos de 8:00 am a 5:00 pm.
-      - title: Follow Us
+      - title: Síganos
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
           [Medium](https://medium.com/)<br/>
