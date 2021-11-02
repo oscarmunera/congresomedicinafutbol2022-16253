@@ -28,7 +28,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
-      - title: Capacitaciones en terreno
+      - title: 25 conferencias
         title_align: left
         content: |
           Capacitaciones personalizadas
