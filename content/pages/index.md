@@ -19,7 +19,7 @@ sections:
     background_image_size: cover
   - type: grid_section
     grid_items:
-      - title: 2 Días
+      - title: 2 días
         title_align: left
         content: |
           Durante 2 días tendremos conferencias y capacitaciones privadas
