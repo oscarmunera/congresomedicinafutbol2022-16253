@@ -302,7 +302,7 @@ sections:
           *   Preguntas en la sección de preguntas abiertas
         content_align: left
         actions:
-          - label: Registration
+          - label: Registro
             url: /thank-you
             style: primary
         actions_align: left
