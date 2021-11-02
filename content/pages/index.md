@@ -310,7 +310,7 @@ sections:
       - title: Summit ticket
         subtitle: April 14 - 15
         title_align: left
-        content: |
+        content: |+
           ***
 
           ### $ US 150
@@ -319,6 +319,13 @@ sections:
 
           *   Diploma de asistencia
           *   Escarapela personalizada de ingreso
+
+
+
+
+
+
+
         content_align: left
         actions:
           - label: Registro
