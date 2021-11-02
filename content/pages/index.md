@@ -117,7 +117,7 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     title: Speakers & Instructors
-    subtitle: Fantastic lineup of experts!
+    subtitle: La mejor alineación de conferencistas internacionales!
     grid_items:
       - title: Eric Widget
         subtitle: 'React Awesome, USA'
