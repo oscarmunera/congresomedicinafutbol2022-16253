@@ -310,16 +310,15 @@ sections:
       - title: Summit ticket
         subtitle: April 14 - 15
         title_align: left
-        content: |-
-          ---
-          ### $49
+        content: |
+          ***
 
-          Watch Only access to Summit & Base Camp Tracks
+          ### $ US 150
 
-          * Conference Stickers
-          * Technology discussion rooms
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
+          Acceso físico a las conferencias
+
+          *   Diploma de asistencia
+          *   Escarapela personalizada de ingreso
         content_align: left
         actions:
           - label: Registration
