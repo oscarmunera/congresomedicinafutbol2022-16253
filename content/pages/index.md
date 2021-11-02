@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: II Congreso internacional de medicina del fútbol
     subtitle: De la evidencia científica al mundo real
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **Marzo 24 - 25, 2022**
     actions:
       - label: Get Your Ticket Today!
         url: /about
