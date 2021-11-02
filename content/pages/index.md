@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: II Congreso internacional de medicina del fútbol
-    subtitle: Conference for Creative People
+    subtitle: De la evidencia científica al mundo real
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
