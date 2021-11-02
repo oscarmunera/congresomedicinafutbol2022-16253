@@ -321,7 +321,7 @@ sections:
           *   Escarapela personalizada de ingreso
         content_align: left
         actions:
-          - label: Registration
+          - label: Registro
             url: /thank-you
             style: primary
         actions_align: left
