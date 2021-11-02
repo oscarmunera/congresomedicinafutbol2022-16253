@@ -58,7 +58,7 @@
                 "label": "Instagram",
                 "url": "#",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "center",
                 "new_window": false,
