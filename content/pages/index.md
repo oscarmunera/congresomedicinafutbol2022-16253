@@ -286,7 +286,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Precios
-    subtitle: Pass for the event
+    subtitle: Selecciones la entreda de su preferencia
     grid_items:
       - title: Base Camp Ticket
         subtitle: April 14
