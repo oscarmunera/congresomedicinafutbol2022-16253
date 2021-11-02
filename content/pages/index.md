@@ -101,7 +101,7 @@ sections:
   - type: cta_section
     title: Preinscripciones abiertas
     actions:
-      - label: Get tickets
+      - label: Aparte su cupo
         url: /thank-you
         style: primary
         has_icon: true
