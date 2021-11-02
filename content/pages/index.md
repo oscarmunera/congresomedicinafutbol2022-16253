@@ -21,9 +21,8 @@ sections:
     grid_items:
       - title: 2 Días
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: |
+          Durante 2 días tendremos conferencias y capacitaciones privadas
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
