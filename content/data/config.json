@@ -33,7 +33,7 @@
     "footer": {
         "has_primary_nav": false,
         "has_secondary_nav": false,
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
