@@ -391,7 +391,7 @@ sections:
       fútbol
     subtitle: Our vision
     grid_items:
-      - title: How can I get to the venue?
+      - title: Pregunta frecuente1?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
