@@ -14,7 +14,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About",
+                "label": "Inicio",
                 "url": "/about",
                 "style": "link"
             },
