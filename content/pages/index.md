@@ -116,7 +116,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: grid_section
-    title: Speakers & Instructors
+    title: Conferencistas invitados
     subtitle: La mejor alineación de conferencistas internacionales!
     grid_items:
       - title: Eric Widget
