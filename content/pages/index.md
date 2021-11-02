@@ -333,7 +333,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Full Ticket
+      - title: VIP
         subtitle: April 14 - 16
         title_align: left
         content: |-
