@@ -31,7 +31,7 @@ sections:
         label: Tipo de documento
         default_value: Seleccione su tipo de documento
         options:
-          - lorem-ipsum
+          - Cédula de ciudadanía
         is_required: false
     submit_label: Registrarse
     align_vert: top
