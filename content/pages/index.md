@@ -196,7 +196,7 @@ sections:
         image: /images/Gary O´Driscoll.png
         image_alt: Speaker 7 photo
         image_position: top
-      - title: aker Jeukendrup
+      - title: Asker Jeukendrup
         subtitle: Gran Bretaña
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
