@@ -467,7 +467,7 @@ sections:
           Atendemos de 8:00 am a 5:00 pm.
       - title: Política de tratamiento de datos personales
         content: |
-          ##### Descargue nuestra política de tratamiento de datos aquí
+          ###### Descargue nuestra política de tratamiento de datos aquí
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
