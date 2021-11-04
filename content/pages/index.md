@@ -18,9 +18,6 @@ sections:
     background_image_position: center top
     title: '                '
     subtitle: '                                                                           '
-    image: >-
-      /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px)
-      (1)-ba660d55.png
   - type: grid_section
     grid_items:
       - title: 2 días
