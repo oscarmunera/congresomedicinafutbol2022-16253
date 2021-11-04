@@ -38,7 +38,7 @@ sections:
       - input_type: number
         name: ID
         label: ID
-        default_value: Número de teléfono celular
+        default_value: Número de identificación
         options: []
         is_required: false
     submit_label: Registrarse
