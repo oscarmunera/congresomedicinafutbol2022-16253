@@ -480,7 +480,7 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: Congreso 
+  title: Congreso internacional medicina del fútbol
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
