@@ -8,7 +8,7 @@ sections:
     form_position: top
     form_width: fourty
     form_layout: stacked
-    enable_card: true
+    enable_card: false
     form_id: Registro
     form_fields:
       - input_type: text
