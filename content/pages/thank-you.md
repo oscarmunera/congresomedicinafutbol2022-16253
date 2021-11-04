@@ -15,7 +15,7 @@ sections:
     padding_bottom: large
     background_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Formulario de registro
     subtitle: lorem-ipsum
     title_align: left
     content: >-
