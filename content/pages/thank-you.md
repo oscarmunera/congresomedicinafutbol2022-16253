@@ -30,7 +30,8 @@ sections:
         name: Tipo de documento
         label: Tipo de documento
         default_value: Seleccione su tipo de documento
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
     submit_label: Registrarse
     align_vert: top
