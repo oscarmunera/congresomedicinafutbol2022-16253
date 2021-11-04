@@ -41,6 +41,12 @@ sections:
         default_value: Número de identificación
         options: []
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Registrarse
     align_vert: top
     padding_top: medium
