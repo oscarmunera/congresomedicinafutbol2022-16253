@@ -17,7 +17,6 @@ sections:
     media_position: top
     background_image_repeat: repeat
     media_width: sixty
-    image: /images/Banner prueba.png
     background_image: >-
       /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (2)
       (1)-44608f11.png
