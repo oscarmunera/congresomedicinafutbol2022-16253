@@ -5,8 +5,7 @@ sections:
     content: |
       ****
     actions: []
-    align: center
-    
+    align: center    
     padding_top: large
     padding_bottom: large
     background_color: primary
