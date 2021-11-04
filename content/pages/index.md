@@ -37,7 +37,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
-      - title: 20+ Conferencistas
+      - title: 23 ponentes
         title_align: left
         content: |
           Más de 20 conferencistas internacionales
