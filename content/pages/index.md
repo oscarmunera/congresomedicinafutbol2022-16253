@@ -163,7 +163,7 @@ sections:
         image: /images/Paolo Gaudino.png
         image_alt: Speaker 4 photo
         image_position: top
-      - title: Shequondolisa Bivouac
+      - title: Luis Suárez Arrones
         subtitle: 'Exto, Canada'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
