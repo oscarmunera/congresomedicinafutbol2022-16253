@@ -6,7 +6,7 @@ sections:
       ****
     actions: []
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: large
     background_color: secondary
     background_image_opacity: 100
