@@ -6,7 +6,7 @@ sections:
     subtitle: lorem-ipsum
     title_align: left
     content_align: center
-    form_position: top
+    form_position: bottom
     form_width: fourty
     form_layout: stacked
     enable_card: true
