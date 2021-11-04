@@ -18,7 +18,7 @@ sections:
     title: Formulario de registro
     subtitle: lorem-ipsum
     title_align: left
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: sixty
     form_layout: stacked
