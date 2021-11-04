@@ -50,7 +50,7 @@ sections:
       - input_type: email
         name: email
         label: email
-        default_value: lorem-ipsum
+        default_value: Correo electrónico
         options: []
         is_required: false
     submit_label: Enviar información de registro
