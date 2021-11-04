@@ -19,6 +19,12 @@ sections:
         default_value: Nombre
         options: []
         is_required: false
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Registrarse
     align_vert: top
     padding_top: medium
