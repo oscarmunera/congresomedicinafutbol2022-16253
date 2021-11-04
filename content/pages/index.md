@@ -119,7 +119,7 @@ sections:
     title: Conferencistas invitados
     subtitle: La mejor alineación de conferencistas internacionales!
     grid_items:
-      - title: Eric Widget
+      - title: Carlos Mario Zuluaga
         subtitle: 'React Awesome, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
