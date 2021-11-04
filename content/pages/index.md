@@ -197,7 +197,7 @@ sections:
         image_alt: Speaker 7 photo
         image_position: top
       - title: aker Jeukendrup
-        subtitle: 'ReactEvent, Israel'
+        subtitle: Gran Bretaña
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
