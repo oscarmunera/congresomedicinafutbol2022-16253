@@ -229,10 +229,8 @@ sections:
         media_position: right
         media_width: sixty
       - title: Video de invitación
-        content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
+        content: |
+          Embeber video con la invitación o una charla
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/uSLxKSJjijQ" title="YouTube video
