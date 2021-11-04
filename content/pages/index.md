@@ -18,6 +18,7 @@ sections:
     background_image_position: center top
     title: '                '
     subtitle: '                                                                           '
+    media_position: top
   - type: grid_section
     grid_items:
       - title: 2 días
