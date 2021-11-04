@@ -17,7 +17,7 @@ sections:
     media_position: top
     background_image_repeat: repeat
     media_width: sixty
-    image: /images/bannerCONGRESOEQUIDAD2020.jpg
+    image: /images/Banner prueba.png
   - type: grid_section
     grid_items:
       - title: 2 días
