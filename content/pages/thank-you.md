@@ -49,7 +49,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: lorem-ipsum
+        label: email
         default_value: lorem-ipsum
         options: []
         is_required: false
