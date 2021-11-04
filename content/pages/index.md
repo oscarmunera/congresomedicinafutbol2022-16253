@@ -14,7 +14,7 @@ sections:
     background_color: primary
     background_image: /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (1).png
     background_image_opacity: 90
-    background_image_size: cover
+    background_image_size: auto
     background_image_position: center top
     title: '                '
     subtitle: '                                                                           '
