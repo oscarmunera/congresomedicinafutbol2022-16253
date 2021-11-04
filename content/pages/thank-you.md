@@ -18,8 +18,6 @@ sections:
     title: Formulario de registro
     subtitle: lorem-ipsum
     title_align: left
-    content: |
-      <https://forms.gle/HzSvHrEFQ1iUApyU6>
     content_align: left
     form_position: bottom
     form_width: fifty
