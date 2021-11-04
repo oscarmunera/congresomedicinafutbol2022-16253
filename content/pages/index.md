@@ -163,7 +163,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/Paolo Gaudino.png
+        image: /images/9.png
         image_alt: Speaker 4 photo
         image_position: top
       - title: Luis Suárez Arrones
