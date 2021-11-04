@@ -32,7 +32,7 @@ sections:
         default_value: Seleccione su tipo de documento
         options:
           - Cédula de ciudadanía
-        is_required: false
+        is_required: true
     submit_label: Registrarse
     align_vert: top
     padding_top: medium
