@@ -40,7 +40,7 @@ sections:
       - title: 23 ponentes de 8 países
         title_align: left
         content: |
-          Más de 20 conferencistas internacionales
+          23 conferencistas internacionales
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
