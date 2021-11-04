@@ -40,7 +40,7 @@ sections:
         label: ID
         default_value: Número de identificación
         options: []
-        is_required: false
+        is_required: true
     submit_label: Registrarse
     align_vert: top
     padding_top: medium
