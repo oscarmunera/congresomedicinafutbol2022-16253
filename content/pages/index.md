@@ -171,7 +171,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_5.jpg
+        image: /images/Luis Suárez Arrones.png
         image_alt: Speaker 5 photo
         image_position: top
       - title: Linguina Nettlewater
