@@ -245,45 +245,6 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: Qué dijeron los asistentes al congreso anterior.
-    subtitle: Opiniones del I Congreso
-    grid_items:
-      - content: |
-          La acomodación, la imagen y el sonido fueron impresionantes
-
-          **Carlos Martínez,** Fisioterapeuta
-        image: images/hanson-deck.jpg
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
-
-
-
-
-          **Juan Orozco,** *Médico*
-        image: images/miles-tone.jpg
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
-
-
-          **María García,** Nutricionista
-        image: images/eleanor-carr.jpg
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: none
-  - type: grid_section
     title: Precios
     subtitle: Selecciones la entrada de su preferencia
     grid_items:
