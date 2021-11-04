@@ -37,7 +37,7 @@ sections:
         is_required: true
       - input_type: number
         name: ID
-        label: celular
+        label: ID
         default_value: Número de teléfono celular
         options: []
         is_required: false
