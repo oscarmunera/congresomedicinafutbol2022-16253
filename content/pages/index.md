@@ -141,7 +141,7 @@ sections:
         image: /images/Christian Quiceno.png
         image_alt: Speaker 2 photo
         image_position: top
-      - title: Indigo Violet
+      - title: Robin Thorpe
         subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
