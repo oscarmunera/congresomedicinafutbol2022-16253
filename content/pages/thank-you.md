@@ -25,7 +25,7 @@ sections:
         default_value: Apellidos
         options:
           - lorem-ipsum
-        is_required: false
+        is_required: true
     submit_label: Registrarse
     align_vert: top
     padding_top: medium
