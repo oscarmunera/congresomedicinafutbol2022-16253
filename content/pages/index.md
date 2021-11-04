@@ -274,7 +274,7 @@ sections:
       - title: Básico
         subtitle: Marzo 24-25
         title_align: left
-        content: |+
+        content: |
           ***
 
           ### $ US 150
@@ -283,13 +283,7 @@ sections:
 
           *   Diploma de asistencia
           *   Escarapela personalizada de ingreso
-
-
-
-
-
-
-
+          *
         content_align: left
         actions:
           - label: Registro
