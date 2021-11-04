@@ -52,7 +52,7 @@ sections:
         label: email
         default_value: Correo electrónico
         options: []
-        is_required: false
+        is_required: true
     submit_label: Enviar información de registro
     align_vert: top
     padding_top: medium
