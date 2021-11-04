@@ -22,7 +22,7 @@ sections:
         label: Apellidos
         default_value: Apellidos
         options:
-          - lorem-ipsum
+          
         is_required: true
       - input_type: select
         name: Tipo de documento
