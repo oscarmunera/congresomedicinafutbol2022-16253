@@ -81,7 +81,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
           vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
-        image: /images/medico1.jpeg
+        image: /images/1 (4).png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
