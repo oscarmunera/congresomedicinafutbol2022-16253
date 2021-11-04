@@ -217,10 +217,9 @@ sections:
     subtitle: '2022'
     features:
       - title: Lo mejor de nuestro I Congreso Internacional de Medicina del Fútbol.
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
+        content: >
+          Crhistian Quiceno nos cuenta lo mejor del I congreso internacional de
+          Medicina del Fúbol
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/uSLxKSJjijQ" title="YouTube video
