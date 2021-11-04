@@ -186,7 +186,7 @@ sections:
         image_alt: Speaker 6 photo
         image_position: top
       - title: Gary O´Driscoll
-        subtitle: 'Random CMS, Sweden'
+        subtitle: Gran Bretaña
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
