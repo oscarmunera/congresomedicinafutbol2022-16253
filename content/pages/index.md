@@ -182,7 +182,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_6.jpg
+        image: /images/Juanjo Brau.png
         image_alt: Speaker 6 photo
         image_position: top
       - title: Hugh Millie-Yate
