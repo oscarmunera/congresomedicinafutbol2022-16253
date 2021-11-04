@@ -6,6 +6,7 @@ sections:
       ****
     actions: []
     align: center
+    hei
     padding_top: large
     padding_bottom: large
     background_color: primary
