@@ -1,5 +1,5 @@
 ---
-title: Thank You
+title: Registro
 sections:
   - section_id: Registro
     title: Formulario de registro
