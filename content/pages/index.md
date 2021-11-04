@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: De la evidencia científica al mundo real
     content: |
       **Marzo 24 - 25, 2022**
     actions:
