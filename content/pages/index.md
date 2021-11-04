@@ -120,7 +120,7 @@ sections:
     subtitle: La mejor alineación de conferencistas internacionales!
     grid_items:
       - title: Carlos Mario Zuluaga
-        subtitle: 'Club Deportivo La Equidad Seguros, Colombia'
+        subtitle: Colombia
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
