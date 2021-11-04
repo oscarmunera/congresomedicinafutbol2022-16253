@@ -21,8 +21,7 @@ sections:
         name: Apellidos
         label: Apellidos
         default_value: Apellidos
-        options: []
-          
+        options: []          
         is_required: true
       - input_type: select
         name: Tipo de documento
