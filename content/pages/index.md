@@ -20,7 +20,6 @@ sections:
     background_image: >-
       /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (2)
       (1)-e7462fc6.png
-    image: /images/4.png
   - type: grid_section
     grid_items:
       - title: 2 días
