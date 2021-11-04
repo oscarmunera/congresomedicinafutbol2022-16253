@@ -152,7 +152,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/Robin Thorpe.png
+        image: /images/6 (1).png
         image_alt: Speaker 3 photo
         image_position: top
       - title: Paolo Gaudino
