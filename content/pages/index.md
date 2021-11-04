@@ -21,7 +21,7 @@ sections:
       /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (2)
       (1)-44608f11.png
     section_id: banner
-    has_border: true
+    has_border: f
   - type: grid_section
     grid_items:
       - title: 2 días
