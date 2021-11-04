@@ -1,7 +1,7 @@
 ---
 title: Thank You
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Registro
     title: Formulario de registro
     subtitle: lorem-ipsum
     title_align: left
