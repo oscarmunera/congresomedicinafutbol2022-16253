@@ -17,7 +17,10 @@ sections:
     
     
     '
-    subtitle: '                                                                           '
+    subtitle: '    
+    
+    
+    '
     media_position: top
     background_image_repeat: no-repeat
     media_width: sixty
