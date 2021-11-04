@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: II Congreso internacional de medicina del fútbol
     subtitle: De la evidencia científica al mundo real
     content: |
       **Marzo 24 - 25, 2022**
