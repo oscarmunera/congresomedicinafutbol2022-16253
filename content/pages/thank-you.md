@@ -22,7 +22,7 @@ sections:
       - input_type: text
         name: Apellidos
         label: Apellidos
-        default_value: lorem-ipsum
+        default_value: Apellidos
         options: []
         is_required: false
     submit_label: Registrarse
