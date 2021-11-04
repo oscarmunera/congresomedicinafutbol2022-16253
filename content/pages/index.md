@@ -209,7 +209,7 @@ sections:
         image: /images/3 (1).png
         image_alt: Speaker 8 photo
         image_position: top
-        title: 'Elena '
+        title: Elena Isla
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
