@@ -37,7 +37,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Celular
-        label: lorem-ipsum
+        label: celular
         default_value: lorem-ipsum
         options: []
         is_required: false
