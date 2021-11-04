@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     content: |
       ****
-    actions:
-      - label: Regístrese hoy mismo!
-        url: /about
-        style: primary
+    actions: []
     align: center
     padding_top: large
     padding_bottom: large
