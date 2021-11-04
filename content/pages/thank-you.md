@@ -33,7 +33,7 @@ sections:
         options:
           - Cédula de ciudadanía
           - Pasaporte
-          - lorem-ipsum
+          - Cédula de extrajer
         is_required: true
     submit_label: Registrarse
     align_vert: top
