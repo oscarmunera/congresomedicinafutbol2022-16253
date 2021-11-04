@@ -16,7 +16,7 @@ sections:
     subtitle: '  '
     media_position: top
     background_image_repeat: repeat
-    media_width: sixty
+    media_width: fourty
     image: >-
       /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (2)
       (1)-e7462fc6.png
