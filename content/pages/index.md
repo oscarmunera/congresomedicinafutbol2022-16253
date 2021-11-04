@@ -199,7 +199,7 @@ sections:
         image: /images/2 (5).png
         image_alt: Speaker 7 photo
         image_position: top
-      - title: Asker Jeukendrup
+      - title: Elena Isla
         subtitle: Gran Bretaña
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
