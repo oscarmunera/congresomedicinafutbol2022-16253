@@ -185,7 +185,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/Juanjo Brau.png
+        image: /images/5 (1).png
         image_alt: Speaker 6 photo
         image_position: top
       - title: Gary O´Driscoll
