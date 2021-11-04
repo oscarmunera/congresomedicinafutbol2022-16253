@@ -43,7 +43,7 @@ sections:
         is_required: true
       - input_type: tel
         name: Tel
-        label: lorem-ipsum
+        label: Tel
         default_value: lorem-ipsum
         options: []
         is_required: false
