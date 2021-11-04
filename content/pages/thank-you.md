@@ -28,7 +28,7 @@ sections:
         is_required: true
       - input_type: select
         name: Tipo de documento
-        label: lorem-ipsum
+        label: Tipo de documento
         default_value: lorem-ipsum
         options: []
         is_required: false
