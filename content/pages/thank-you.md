@@ -38,7 +38,7 @@ sections:
       - input_type: tel
         name: Celular
         label: celular
-        default_value: lorem-ipsum
+        default_value: Número de teléfono celular
         options: []
         is_required: false
     submit_label: Registrarse
