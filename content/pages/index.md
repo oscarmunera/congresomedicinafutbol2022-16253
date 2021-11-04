@@ -149,7 +149,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_3.jpg
+        image: /images/Robin Thorpe.png
         image_alt: Speaker 3 photo
         image_position: top
       - title: Penny Tool
