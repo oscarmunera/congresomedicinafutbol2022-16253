@@ -1,19 +1,6 @@
 ---
 title: Thank You
 sections:
-  - type: hero_section
-    title: Gracias
-    subtitle: Thank you for testing the Event theme!
-    actions:
-      - label: Back to homepage
-        url: /
-        style: primary
-        has_icon: true
-        icon: arrow-left
-        icon_position: left
-    align: center
-    padding_bottom: large
-    background_color: none
   - section_id: lorem-ipsum
     title: Formulario de registro
     subtitle: lorem-ipsum
