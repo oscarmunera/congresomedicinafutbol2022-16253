@@ -18,7 +18,7 @@ sections:
         label: Nombre
         default_value: Nombre
         options: []
-        is_required: false
+        is_required: true
       - input_type: text
         name: Apellidos
         label: Apellidos
