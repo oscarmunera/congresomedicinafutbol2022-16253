@@ -465,7 +465,7 @@ sections:
 
 
           Atendemos de 8:00 am a 5:00 pm.
-      - title: Síganos
+      - title: Política de tratamiento de datos personales
         content: |
           [Youtube](https://www.youtube.com/)
           [I](https://medium.com/)nstagram
