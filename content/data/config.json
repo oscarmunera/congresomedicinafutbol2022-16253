@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "Inicio",
-                "url": "/about",
+                "url": "/",
                 "style": "link"
             },
             {
