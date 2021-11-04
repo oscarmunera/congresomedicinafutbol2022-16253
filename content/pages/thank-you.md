@@ -36,7 +36,7 @@ sections:
           - Cédula de extrajería
         is_required: true
       - input_type: number
-        name: Celular
+        name: Número de identificación
         label: celular
         default_value: Número de teléfono celular
         options: []
