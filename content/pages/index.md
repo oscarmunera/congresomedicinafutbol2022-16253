@@ -5,7 +5,7 @@ sections:
     content: |
       ****
     actions: []
-    align: center    
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: primary
@@ -415,7 +415,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/cta-background.png
     background_image_opacity: 15
   - type: grid_section
     grid_items:
