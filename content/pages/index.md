@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      **Marzo 24 - 25, 2022**
+      ****
     actions:
       - label: Regístrese hoy mismo!
         url: /about
