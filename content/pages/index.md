@@ -19,6 +19,7 @@ sections:
     title: '                '
     subtitle: '                                                                           '
     media_position: top
+    background_image_repeat: no-repeat
   - type: grid_section
     grid_items:
       - title: 2 días
