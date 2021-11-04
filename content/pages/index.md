@@ -15,7 +15,7 @@ sections:
     title: '   '
     subtitle: '  '
     media_position: top
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     media_width: sixty
     image: /images/Banner prueba.png
     background_image: >-
