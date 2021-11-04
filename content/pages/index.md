@@ -114,7 +114,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/cta-background.png
-    background_image_opacity: 50
+    background_image_opacity: 15
   - type: grid_section
     title: Conferencistas invitados
     subtitle: La mejor alineación de conferencistas internacionales!
