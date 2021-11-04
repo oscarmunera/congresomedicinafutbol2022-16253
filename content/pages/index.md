@@ -130,7 +130,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/Carlos Mario Zuluaga.png
+        image: /images/8.png
         image_alt: Speaker 1 photo
         image_position: top
       - title: Christian Quiceno
