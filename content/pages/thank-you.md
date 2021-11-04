@@ -9,7 +9,7 @@ sections:
     form_position: top
     form_width: sixty
     form_layout: stacked
-    enable_card: false
+    enable_card: true
     form_id: Registro
     form_action: registro
     form_fields:
