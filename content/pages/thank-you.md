@@ -35,7 +35,7 @@ sections:
           - Pasaporte
           - Cédula de extrajería
         is_required: true
-      - input_type: tel
+      - input_type: number
         name: Celular
         label: celular
         default_value: Número de teléfono celular
