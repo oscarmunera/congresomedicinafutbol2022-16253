@@ -185,7 +185,7 @@ sections:
         image: /images/Juanjo Brau.png
         image_alt: Speaker 6 photo
         image_position: top
-      - title: Hugh Millie-Yate
+      - title: Gary O´Driscoll
         subtitle: 'Random CMS, Sweden'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
