@@ -174,7 +174,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/Luis Suárez Arrones.png
+        image: /images/4.png
         image_alt: Speaker 5 photo
         image_position: top
       - title: Juanjo Brau
