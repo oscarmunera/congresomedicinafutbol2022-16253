@@ -54,7 +54,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    enable_cards: true
+    enable_cards: false
     align: center
     background_color: secondary
   - type: features_section
