@@ -141,7 +141,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/Christian Quiceno.png
+        image: /images/7.png
         image_alt: Speaker 2 photo
         image_position: top
       - title: Robin Thorpe
