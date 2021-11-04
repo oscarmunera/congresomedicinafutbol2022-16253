@@ -37,7 +37,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
-      - title: 23 ponentes
+      - title: 23 ponentes de 8 p
         title_align: left
         content: |
           Más de 20 conferencistas internacionales
@@ -481,7 +481,9 @@ sections:
     background_color: none
 seo:
   title: Congreso internacional medicina del fútbol
-  description: El mejor evento de divukgación científica de medicina del fútbol de la región
+  description: >-
+    El mejor evento de divukgación científica de medicina del fútbol de la
+    región
   extra:
     - name: 'og:type'
       value: website
