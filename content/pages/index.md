@@ -388,7 +388,7 @@ sections:
     title: >-
       Preguntas frecuentes sobre el II Congreso Internacional de medicina del
       fútbol
-    subtitle: Our vision
+    subtitle: Pregunte por más.
     grid_items:
       - title: Pregunta frecuente1?
         title_align: left
