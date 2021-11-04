@@ -33,6 +33,7 @@ sections:
         options:
           - Cédula de ciudadanía
           - Pasaporte
+          - lorem-ipsum
         is_required: true
     submit_label: Registrarse
     align_vert: top
