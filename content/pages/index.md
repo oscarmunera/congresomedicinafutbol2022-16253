@@ -175,7 +175,7 @@ sections:
         image_alt: Speaker 5 photo
         image_position: top
       - title: Juanjo Brau
-        subtitle: 'CSS Rocks, Sweden'
+        subtitle: España
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
