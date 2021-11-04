@@ -47,7 +47,7 @@ sections:
         default_value: Teléfono celular
         options: []
         is_required: true
-    submit_label: E
+    submit_label: Enviar información de registro
     align_vert: top
     padding_top: medium
     padding_bottom: medium
