@@ -174,7 +174,7 @@ sections:
         image: /images/Luis Suárez Arrones.png
         image_alt: Speaker 5 photo
         image_position: top
-      - title: Linguina Nettlewater
+      - title: Juanjo Brau
         subtitle: 'CSS Rocks, Sweden'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
