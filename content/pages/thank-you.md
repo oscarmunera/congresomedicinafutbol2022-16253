@@ -22,7 +22,7 @@ sections:
     form_position: top
     form_width: sixty
     form_layout: stacked
-    enable_card: true
+    enable_card: false
     form_id: Registro
     form_action: lorem-ipsum
     form_fields:
