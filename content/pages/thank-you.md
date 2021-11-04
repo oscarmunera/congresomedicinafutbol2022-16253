@@ -47,7 +47,7 @@ sections:
         default_value: Teléfono celular
         options: []
         is_required: true
-    submit_label: Registrarse
+    submit_label: E
     align_vert: top
     padding_top: medium
     padding_bottom: medium
