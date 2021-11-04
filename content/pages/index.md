@@ -193,7 +193,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_7.jpg
+        image: /images/Gary O´Driscoll.png
         image_alt: Speaker 7 photo
         image_position: top
       - title: Theodore Handle
