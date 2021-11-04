@@ -21,7 +21,7 @@ sections:
         is_required: false
       - input_type: text
         name: Apellidos
-        label: lorem-ipsum
+        label: Apellid
         default_value: lorem-ipsum
         options: []
         is_required: false
