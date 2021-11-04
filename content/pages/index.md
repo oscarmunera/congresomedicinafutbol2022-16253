@@ -481,7 +481,7 @@ sections:
     background_color: none
 seo:
   title: Congreso internacional medicina del fútbol
-  description: The preview of the Event theme
+  description: El mejor evento de divukgación científica de medicina del fútbol de la región
   extra:
     - name: 'og:type'
       value: website
