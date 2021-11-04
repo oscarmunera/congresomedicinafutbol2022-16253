@@ -7,7 +7,7 @@ sections:
     title_align: left
     content_align: center
     form_position: top
-    form_width: sixty
+    form_width: fourty
     form_layout: stacked
     enable_card: true
     form_id: Registro
