@@ -15,7 +15,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image: /images/medico2.jpeg
-    background_image_opacity: 0
+    background_image_opacity: 50
     background_image_size: cover
   - type: grid_section
     grid_items:
