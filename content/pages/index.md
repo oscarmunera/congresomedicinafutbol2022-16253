@@ -131,7 +131,7 @@ sections:
         image_alt: Speaker 1 photo
         image_position: top
       - title: Christian Quiceno
-        subtitle: 'The Studio, Distributed, Estonia'
+        subtitle: 'Director Médico Club Deportivo La Equidad Seguros, Colombia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
