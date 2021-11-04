@@ -155,7 +155,7 @@ sections:
         image: /images/6 (1).png
         image_alt: Speaker 3 photo
         image_position: top
-      - title: Paolo Gaudino
+      - title: José María Villalón
         subtitle: Gran Bretaña
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
