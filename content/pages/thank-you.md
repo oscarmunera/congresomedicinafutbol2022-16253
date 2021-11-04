@@ -35,7 +35,7 @@ sections:
           - Pasaporte
           - Cédula de extrajería
         is_required: true
-      - input_type: text
+      - input_type: tel
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
