@@ -204,7 +204,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_8.jpg
+        image: /images/Asker Jeukendrup.png
         image_alt: Speaker 8 photo
         image_position: top
     grid_cols: four
