@@ -127,7 +127,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_1.jpg
+        image: /images/Carlos Mario Zuluaga.png
         image_alt: Speaker 1 photo
         image_position: top
       - title: Parsley Montana
