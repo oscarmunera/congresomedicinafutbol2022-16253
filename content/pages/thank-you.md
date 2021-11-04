@@ -22,7 +22,7 @@ sections:
     form_position: bottom
     form_width: fifty
     form_layout: stacked
-    enable_card: false
+    enable_card: true
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
