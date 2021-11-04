@@ -104,7 +104,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: Preinscripciones abiertas
+    title: Inscripciones abiertas
     actions:
       - label: Reserve su cupo
         url: /thank-you
