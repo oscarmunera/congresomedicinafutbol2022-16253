@@ -23,7 +23,8 @@ sections:
         name: Apellidos
         label: Apellidos
         default_value: Apellidos
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
     submit_label: Registrarse
     align_vert: top
