@@ -142,7 +142,7 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
       - title: Robin Thorpe
-        subtitle: 'Microsoft, USA'
+        subtitle: USA
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
