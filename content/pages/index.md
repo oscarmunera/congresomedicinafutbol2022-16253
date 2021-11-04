@@ -196,7 +196,7 @@ sections:
         image: /images/Gary O´Driscoll.png
         image_alt: Speaker 7 photo
         image_position: top
-      - title: Theodore Handle
+      - title: aker Jeukendrup
         subtitle: 'ReactEvent, Israel'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
