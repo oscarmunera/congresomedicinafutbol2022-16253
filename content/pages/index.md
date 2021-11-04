@@ -196,7 +196,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/Gary O´Driscoll.png
+        image: /images/2 (5).png
         image_alt: Speaker 7 photo
         image_position: top
       - title: Asker Jeukendrup
