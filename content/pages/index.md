@@ -216,7 +216,7 @@ sections:
     title: Mire nuestra galería multimedia
     subtitle: '2022'
     features:
-      - title: Fast tracks Iconic Nike campaign with the JAMstack
+      - title: Lo mejor de nuestro I Congreso Internacional de Medicina del Fútbol.
         content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
