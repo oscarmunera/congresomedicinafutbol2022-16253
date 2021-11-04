@@ -1,5 +1,5 @@
 ---
-title: Sponsorship
+title: Agenda
 seo:
   title: Sponsorship
   description: This is the sponsorship page
