@@ -312,7 +312,7 @@ sections:
           *
         content_align: left
         actions:
-          - label: Order Now
+          - label: Registro
             url: /thank-you
             style: primary
         actions_align: left
