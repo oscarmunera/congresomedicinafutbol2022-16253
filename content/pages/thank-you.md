@@ -33,7 +33,7 @@ sections:
         options:
           - Cédula de ciudadanía
           - Pasaporte
-          - Cédula de extrajer
+          - Cédula de extrajería
         is_required: true
     submit_label: Registrarse
     align_vert: top
