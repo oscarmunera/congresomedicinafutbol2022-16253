@@ -10,7 +10,6 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: Registro
-    form_action: registro
     form_fields:
       - input_type: text
         name: Nombre
