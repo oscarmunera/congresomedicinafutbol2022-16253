@@ -44,7 +44,7 @@ sections:
       - input_type: tel
         name: Tel
         label: Tel
-        default_value: lorem-ipsum
+        default_value: Teléfono celular
         options: []
         is_required: false
     submit_label: Registrarse
