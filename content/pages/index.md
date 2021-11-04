@@ -14,7 +14,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/medico2.jpeg
+    background_image: /images/Afiche Congreso.png
     background_image_opacity: 25
     background_image_size: cover
   - type: grid_section
