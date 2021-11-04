@@ -29,7 +29,7 @@ sections:
       - input_type: select
         name: Tipo de documento
         label: Tipo de documento
-        default_value: lorem-ipsum
+        default_value: Seleccione su tipo de documento
         options: []
         is_required: false
     submit_label: Registrarse
