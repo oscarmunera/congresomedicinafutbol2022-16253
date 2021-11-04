@@ -11,7 +11,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: Registro
-    form_action: lorem-ipsum
+    form_action: registro
     form_fields:
       - input_type: text
         name: Nombre
