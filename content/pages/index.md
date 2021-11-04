@@ -130,7 +130,7 @@ sections:
         image: /images/Carlos Mario Zuluaga.png
         image_alt: Speaker 1 photo
         image_position: top
-      - title: Parsley Montana
+      - title: Christian Quiceno
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
