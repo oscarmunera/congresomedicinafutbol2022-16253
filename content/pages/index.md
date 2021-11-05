@@ -211,7 +211,7 @@ sections:
     grid_gap_vert: small
     align: center
     background_color: none
-    enable_cards: true
+    enable_cards: false
   - type: features_section
     title: Mire nuestra galería multimedia
     subtitle: '2022'
