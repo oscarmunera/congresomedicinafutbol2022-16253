@@ -399,22 +399,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/19.png
-      - title: Fernando Pastrana
-        subtitle: Colombia
-        title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/20.png
       - title: Alexis García
         subtitle: Colombia
         title_align: left
@@ -431,6 +415,22 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/21.png
+      - title: Fernando Pastrana
+        subtitle: Colombia
+        title_align: left
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/20.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
