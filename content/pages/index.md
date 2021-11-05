@@ -303,7 +303,7 @@ sections:
         image_has_padding: false
         image: /images/5 (2).png
       - title: Mireia Porta
-        subtitle: lorem-ipsum
+        subtitle: España
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
