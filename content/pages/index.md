@@ -234,7 +234,7 @@ sections:
     background_color: none
     enable_cards: false
   - type: features_section
-    title: Mire nuestra galería multimedia
+    title: Galería multimedia
     subtitle: Videos
     features:
       - title: Presentamos el video oficial de invitación
