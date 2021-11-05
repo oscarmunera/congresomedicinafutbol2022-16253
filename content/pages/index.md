@@ -261,7 +261,7 @@ sections:
         image_has_padding: false
         image: /images/4 (1).png
       - title: Daniel Cohen
-        subtitle: lorem-ipsum
+        subtitle: Reino Unido
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
