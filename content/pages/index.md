@@ -452,17 +452,14 @@ sections:
       - title: Fernando Pastrana
         subtitle: Colombia
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
+        content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         content_align: left
         actions: []
         actions_align: left
