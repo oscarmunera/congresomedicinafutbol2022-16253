@@ -227,7 +227,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - title: Video de invitación
+      - title: Recordamos nuestro I Congreso Internacional de Medicina del fútbol
         content: |
           No se pierda el II Congreso Internacional de Medicina del fútbol
         media_position: left
