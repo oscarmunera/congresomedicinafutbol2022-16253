@@ -219,12 +219,6 @@ sections:
         content: >
           Crhistian Quiceno nos cuenta lo mejor del I congreso internacional de
           Medicina del Fúbol
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/uSLxKSJjijQ" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
         media_position: right
         media_width: sixty
       - title: Video de invitación
