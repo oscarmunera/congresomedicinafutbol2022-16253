@@ -221,6 +221,12 @@ sections:
           Medicina del Fúbol
         media_position: right
         media_width: sixty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/kHnBIVsx_BY" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       - title: Video de invitación
         content: |
           No se pierda el II Congreso Internacional de Medicina del fútbol
