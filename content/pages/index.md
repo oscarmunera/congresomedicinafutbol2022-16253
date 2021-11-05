@@ -22,6 +22,11 @@ sections:
       (1)-44608f11.png
     section_id: banner
     has_border: false
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/kHnBIVsx_BY" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     grid_items:
       - title: 2 días
