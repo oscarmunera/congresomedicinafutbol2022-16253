@@ -28,7 +28,7 @@ sections:
         title_align: left
         content: |
           Durante 2 días tendremos conferencias y capacitaciones privadas
-        content_align: left
+        content_align: center
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
