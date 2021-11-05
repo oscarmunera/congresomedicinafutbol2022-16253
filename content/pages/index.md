@@ -206,7 +206,7 @@ sections:
         image_alt: Speaker 8 photo
         image_position: top
         title: Elena Isla
-      - title: Asker
+      - title: Asker Jeukendrup
         subtitle: lorem-ipsum
         title_align: left
         content: >-
