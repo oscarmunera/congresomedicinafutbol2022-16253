@@ -302,7 +302,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/5 (2).png
-      - title: Mir
+      - title: Mireia Porta
         subtitle: lorem-ipsum
         title_align: left
         content: >-
