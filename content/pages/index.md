@@ -428,7 +428,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/18.png
-      - title: lorem-ipsum
+      - title: Hernán Giuria
         subtitle: lorem-ipsum
         title_align: left
         content: >-
