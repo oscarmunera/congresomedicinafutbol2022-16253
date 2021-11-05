@@ -150,7 +150,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/6 (1).png
+        image: /images/12.png
         image_alt: Speaker 3 photo
         image_position: top
       - title: José María Villalón
