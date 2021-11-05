@@ -208,7 +208,7 @@ sections:
         title: Elena Isla
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: large
+    grid_gap_vert: small
     align: center
     background_color: none
   - type: features_section
