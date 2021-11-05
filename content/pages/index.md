@@ -17,7 +17,9 @@ sections:
     media_position: top
     background_image_repeat: no-repeat
     media_width: sixty
-    background_image: /images/Copia de Cooming Soon 1 (1920 x 1080 px) (2).png
+    background_image: >-
+      /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (2)
+      (1).png
     section_id: banner
     has_border: false
   - type: grid_section
