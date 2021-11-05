@@ -44,7 +44,7 @@ sections:
         title_align: center
         content: |
           23 conferencistas internacionales
-        content_align: left
+        content_align: center
         image_alt: Section item 3 icon
         image_position: left
         image_width: twenty-five
