@@ -408,7 +408,7 @@ sections:
         image_has_padding: false
         image: /images/17.png
       - title: Marco Pozzo
-        subtitle: lorem-ipsum
+        subtitle: Italia
         title_align: left
         content: >-
           ## Lorem ipsum
