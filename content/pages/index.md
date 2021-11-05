@@ -183,7 +183,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/5 (1).png
+        image: /images/8 (1).png
         image_alt: Speaker 6 photo
         image_position: top
       - title: Gary O´Driscoll
