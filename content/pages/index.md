@@ -365,7 +365,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/10.png
-      - title: lorem-ipsum
+      - title: Juan Carlos Quiceno
         subtitle: lorem-ipsum
         title_align: left
         content: >-
