@@ -387,7 +387,7 @@ sections:
         image_has_padding: false
         image: /images/13.png
       - title: Javier Mallo
-        subtitle: lorem-ipsum
+        subtitle: España
         title_align: left
         content: >-
           ## Lorem ipsum
