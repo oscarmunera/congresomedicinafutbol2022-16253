@@ -41,7 +41,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - title: 23 ponentes de 8 países
-        title_align: left
+        title_align: center
         content: |
           23 conferencistas internacionales
         content_align: left
