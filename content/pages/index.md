@@ -207,7 +207,7 @@ sections:
         image_position: top
         title: Elena Isla
       - title: Asker Jeukendrup
-        subtitle: lorem-ipsum
+        subtitle: Reino Unido
         title_align: left
         content: >-
           ## Lorem ipsum
