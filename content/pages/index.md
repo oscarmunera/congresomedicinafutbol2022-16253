@@ -128,7 +128,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/8.png
+        image: /images/15.png
         image_alt: Speaker 1 photo
         image_position: top
       - title: Christian Quiceno
