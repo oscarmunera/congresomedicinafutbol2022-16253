@@ -29,7 +29,6 @@ sections:
         content: |
           Durante 2 días tendremos conferencias y capacitaciones privadas
         content_align: left
-        image: images/2-days.svg
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
