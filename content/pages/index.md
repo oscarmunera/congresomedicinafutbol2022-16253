@@ -282,7 +282,7 @@ sections:
         image_has_padding: false
         image: /images/2 (9).png
       - title: Antonio Gómez
-        subtitle: lorem-ipsum
+        subtitle: Polonia
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
