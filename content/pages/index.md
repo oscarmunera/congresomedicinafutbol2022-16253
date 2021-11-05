@@ -139,7 +139,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/7.png
+        image: /images/14.png
         image_alt: Speaker 2 photo
         image_position: top
       - title: Robin Thorpe
