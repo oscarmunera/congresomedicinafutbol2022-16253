@@ -231,7 +231,7 @@ sections:
         media_width: sixty
       - title: Video de invitación
         content: |
-          Embeber video con la invitación o una charla
+          No se pierda el II Congreso Internacional de Medicina del fútbol
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/kHnBIVsx_BY" title="YouTube video
