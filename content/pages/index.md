@@ -386,7 +386,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/13.png
-      - title: lorem-ipsum
+      - title: Javier Mallo
         subtitle: lorem-ipsum
         title_align: left
         content: >-
