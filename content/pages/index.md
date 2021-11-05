@@ -235,7 +235,7 @@ sections:
     enable_cards: false
   - type: features_section
     title: Mire nuestra galería multimedia
-    subtitle: '2022'
+    subtitle: Videos
     features:
       - title: Presentamos el video oficial de invitación
         content: >
