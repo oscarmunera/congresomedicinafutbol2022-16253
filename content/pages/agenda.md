@@ -7,9 +7,18 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+## Medicina Deportiva
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+GARY O'DRISCOLL
+ARSENAL F.C.
 
-- Lorem ipsum
-- dolor sit amet
+JOSÉ MARÍA VILLALÓN
+CLUB ATLÉTICO DE MADRID
+
+JUAN CARLOS QUICENO
+COMITÉ OLÍMPICO PARAGUAYO
+
+ELENA ISLA
+DIRECTOR MÉDICO
+
+
