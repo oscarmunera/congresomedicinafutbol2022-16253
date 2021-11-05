@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Agenda
 sections: []
 seo:
   title: ''
