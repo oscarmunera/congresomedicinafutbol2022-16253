@@ -448,7 +448,7 @@ sections:
         image_has_padding: false
         image: /images/22.png
       - title: Astrid Quinchia
-        subtitle: lorem-ipsum
+        subtitle: Colombia
         title_align: left
         content: >-
           ## Lorem ipsum
