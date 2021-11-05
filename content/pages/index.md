@@ -194,7 +194,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/2 (5).png
+        image: /images/3 (3).png
         image_alt: Speaker 7 photo
         image_position: top
       - subtitle: España
