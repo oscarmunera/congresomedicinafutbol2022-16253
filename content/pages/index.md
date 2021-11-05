@@ -463,7 +463,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/23 (1).png
-      - title: lorem-ipsum
+      - title: Pedro Alcaraz
         subtitle: lorem-ipsum
         title_align: left
         content: >-
