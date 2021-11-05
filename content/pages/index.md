@@ -215,7 +215,7 @@ sections:
     title: Mire nuestra galería multimedia
     subtitle: '2022'
     features:
-      - title: Lo mejor de nuestro I Congreso Internacional de Medicina del Fútbol.
+      - title: Presentamos el video oficial de invitación
         content: >
           Crhistian Quiceno nos cuenta lo mejor del I congreso internacional de
           Medicina del Fúbol
