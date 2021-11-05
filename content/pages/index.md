@@ -161,7 +161,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/9.png
+        image: /images/16.png
         image_alt: Speaker 4 photo
         image_position: top
       - title: Luis Suárez Arrones
