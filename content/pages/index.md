@@ -8,7 +8,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
     background_image_opacity: 120
     background_image_size: contain
     background_image_position: center top
