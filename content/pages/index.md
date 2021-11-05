@@ -429,7 +429,7 @@ sections:
         image_has_padding: false
         image: /images/18.png
       - title: Hernán Giuria
-        subtitle: lorem-ipsum
+        subtitle: Argentina
         title_align: left
         content: >-
           ## Lorem ipsum
