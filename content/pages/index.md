@@ -450,7 +450,7 @@ sections:
         image_has_padding: false
         image: /images/19.png
       - title: Fernando Pastrana
-        subtitle: lorem-ipsum
+        subtitle: Colombia
         title_align: left
         content: >-
           ## Lorem ipsum
