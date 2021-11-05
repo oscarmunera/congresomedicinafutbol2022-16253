@@ -33,7 +33,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - title: "20+\_ conferencias"
-        title_align: left
+        title_align: center
         content: |
           Capacitaciones personalizadas
         content_align: left
