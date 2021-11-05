@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      ***
+      ######                               
     actions: []
     align: center
     padding_top: large
