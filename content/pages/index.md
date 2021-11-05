@@ -324,7 +324,7 @@ sections:
         image_has_padding: false
         image: /images/11.png
       - title: Paolo Gaudino
-        subtitle: lorem-ipsum
+        subtitle: Reino Unido
         title_align: left
         content: >-
           ## Lorem ipsum
