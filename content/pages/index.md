@@ -260,7 +260,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/4 (1).png
-      - title: lorem-ipsum
+      - title: Daniel Cohen
         subtitle: lorem-ipsum
         title_align: left
         content: >-
