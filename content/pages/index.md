@@ -447,7 +447,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/22.png
-      - title: lorem-ipsum
+      - title: Astrid Quinchia
         subtitle: lorem-ipsum
         title_align: left
         content: >-
