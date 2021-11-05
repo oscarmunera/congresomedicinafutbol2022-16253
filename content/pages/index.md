@@ -366,7 +366,7 @@ sections:
         image_has_padding: false
         image: /images/10.png
       - title: Juan Carlos Quiceno
-        subtitle: lorem-ipsum
+        subtitle: Paraguay
         title_align: left
         content: >-
           ## Lorem ipsum
