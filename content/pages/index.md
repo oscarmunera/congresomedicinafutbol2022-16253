@@ -217,8 +217,8 @@ sections:
     features:
       - title: Presentamos el video oficial de invitación
         content: >
-          Crhistian Quiceno nos cuenta lo mejor del I congreso internacional de
-          Medicina del Fúbol
+          Presentamos el video oficial del II Congreso Internacional de Medicina
+          del Fútbol.
         media_position: right
         media_width: sixty
         video_embed_html: >-
