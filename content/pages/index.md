@@ -345,7 +345,7 @@ sections:
         image_has_padding: false
         image: /images/1 (5).png
       - title: Ángel Áceña
-        subtitle: lorem-ipsum
+        subtitle: Reino Unido
         title_align: left
         content: >-
           ## Lorem ipsum
