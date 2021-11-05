@@ -449,7 +449,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/19.png
-      - title: lorem-ipsum
+      - title: Fernando Pastrana
         subtitle: lorem-ipsum
         title_align: left
         content: >-
