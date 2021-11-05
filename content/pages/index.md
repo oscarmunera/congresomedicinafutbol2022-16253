@@ -281,7 +281,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/2 (9).png
-      - title: lorem-ipsum
+      - title: Antonio Gómez
         subtitle: lorem-ipsum
         title_align: left
         content: >-
