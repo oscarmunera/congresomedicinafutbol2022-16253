@@ -45,7 +45,6 @@ sections:
         content: |
           23 conferencistas internacionales
         content_align: left
-        image: images/20-speakers.svg
         image_alt: Section item 3 icon
         image_position: left
         image_width: twenty-five
