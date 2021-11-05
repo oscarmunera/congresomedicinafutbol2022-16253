@@ -228,8 +228,9 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       - title: Recordamos nuestro I Congreso Internacional de Medicina del fútbol
-        content: |
-          No se pierda el II Congreso Internacional de Medicina del fútbol
+        content: >
+          Christian Quiceno, director de Equidad Sport Medicine nos cuenta lo
+          mejor del primer congreso realizado en el 2019.
         media_position: left
         media_width: sixty
         video_embed_html: >-
