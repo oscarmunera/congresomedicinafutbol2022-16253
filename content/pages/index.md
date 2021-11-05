@@ -464,7 +464,7 @@ sections:
         image_has_padding: false
         image: /images/23 (1).png
       - title: Pedro Alcaraz
-        subtitle: lorem-ipsum
+        subtitle: España
         title_align: left
         content: >-
           ## Lorem ipsum
