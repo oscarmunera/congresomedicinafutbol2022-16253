@@ -362,8 +362,12 @@ sections:
         subtitle: España
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Doctor en Ciencias de la Actividad física y deporte & Diplomado en
+          Fisioterapia. Master en Alto Rendimiento Deportivo. Preparador Físico
+          de Fútbol en equipos profesionales élite (España- Inglaterra ).Autor
+          de varios libros y artículos de investigación sobre el entrenamiento
+          en el fútbol y deportes de equipo. Ponente en congresos
+          Internacionales.
         content_align: left
         actions: []
         actions_align: left
