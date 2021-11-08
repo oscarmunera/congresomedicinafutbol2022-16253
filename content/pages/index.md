@@ -189,12 +189,12 @@ sections:
         image_position: top
       - title: José María Villalón
         subtitle: España
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
+        content: >
+          ###### Licenciado en medicina y Cirugía por la universidad Complutense
+          de Madrid. Doctor en medicina física y rehabilitación por la
+          universidad complutense de Madrid. MSc en Traumatología y Medicina del
+          deporte. Director de los servicios médicos del Club Atlético de
+          Madrid.
         image: /images/16.png
         image_alt: Speaker 4 photo
         image_position: top
