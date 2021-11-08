@@ -246,11 +246,15 @@ sections:
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
-        content: >
+        content: >+
           ###### Nutricionista deportivo y Fisiólogo del ejercicio Birmingham
           University UK. Director My Sport Science UK.Ex-Director de Gatorade
           Sports Science Institute. Múltiples publicaciones en las principales
           revistas de nutrición deportiva y libros a nivel mundial.
+
+
+          ****[**Twitter**](https://twitter.com/Jeukendrup)
+
         content_align: left
         actions: []
         actions_align: left
