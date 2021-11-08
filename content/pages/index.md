@@ -268,8 +268,11 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Doctor en ciencias del deporte. Investigador con más de 50
+          publicaciones sobre fuerza y potencia. Asesor de equipos de premier
+          league, Liga española, NFL, NBA. Cofundador y diseñador de las
+          plataformas Forcedecks, plataformas más utilizadas en el alto
+          rendimiento.
         content_align: left
         actions: []
         actions_align: left
