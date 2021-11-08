@@ -285,11 +285,18 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Doctor en ciencias del deporte. Investigador con más de 50
-          publicaciones sobre fuerza y potencia. Asesor de equipos de premier
-          league, Liga española, NFL, NBA. Cofundador y diseñador de las
-          plataformas Forcedecks, plataformas más utilizadas en el alto
-          rendimiento.
+          ###### Doctor en ciencias del deporte. 
+
+
+          ###### Investigador con más de 50 publicaciones sobre fuerza y
+          potencia. 
+
+
+          ###### Asesor de equipos de premier league, Liga española, NFL, NBA. 
+
+
+          ###### Cofundador y diseñador de las plataformas Forcedecks,
+          plataformas más utilizadas en el alto rendimiento.
 
 
           [**Twitter**](https://twitter.com/danielcohen1971)
