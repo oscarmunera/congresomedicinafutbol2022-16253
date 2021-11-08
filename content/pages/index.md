@@ -151,6 +151,17 @@ sections:
     title: Conferencistas invitados
     subtitle: La mejor alineación de conferencistas internacionales!
     grid_items:
+      - title: Gary O´Driscoll
+        subtitle: Gran Bretaña
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: /images/3 (3).png
+        image_alt: Speaker 7 photo
+        image_position: top
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -238,17 +249,6 @@ sections:
           **[Twitter](https://twitter.com/)**
         image: /images/8 (1).png
         image_alt: Speaker 6 photo
-        image_position: top
-      - title: Gary O´Driscoll
-        subtitle: Gran Bretaña
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
-        image: /images/3 (3).png
-        image_alt: Speaker 7 photo
         image_position: top
       - subtitle: España
         content: >
