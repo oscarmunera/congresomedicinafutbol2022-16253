@@ -362,6 +362,9 @@ sections:
           cirujano de la Universidad de Antioquia. Especialista en medicina
           aplicada a la actividad física y el deporte Universidad de Antioquia.
           Ex Director médico Coldeportes y comité olímpico colombiano
+
+
+          ****[**Twitter**](https://twitter.com/juancq09)
         content_align: left
         actions: []
         actions_align: left
