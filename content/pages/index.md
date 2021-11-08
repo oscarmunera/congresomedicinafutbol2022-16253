@@ -233,7 +233,7 @@ sections:
           *   Responsable Área Médica de la Federación Española de Baloncesto.
 
 
-          *   Médico de selecciones femeninas de fútbol madrileño y español. 
+          *   Médico de selecciones femeninas de fútbol madrileño y español.
 
 
           *   Selección Absoluta Fútbol Sala Femenino
