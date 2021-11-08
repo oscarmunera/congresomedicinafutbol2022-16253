@@ -151,27 +151,6 @@ sections:
     title: Conferencistas invitados
     subtitle: La mejor alineación de conferencistas internacionales!
     grid_items:
-      - title: Juan Carlos Quiceno
-        subtitle: Paraguay
-        title_align: left
-        content: >
-          ###### Director médico del comité olímpico Paraguayo. Médico y
-          cirujano de la Universidad de Antioquia. Especialista en medicina
-          aplicada a la actividad física y el deporte Universidad de Antioquia.
-          Ex Director médico Coldeportes y comité olímpico colombiano
-
-
-          [**Twitter**](https://twitter.com/juancq09)
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/13.png
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
         content: >-
@@ -387,6 +366,27 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/11.png
+      - title: Juan Carlos Quiceno
+        subtitle: Paraguay
+        title_align: left
+        content: >
+          ###### Director médico del comité olímpico Paraguayo. Médico y
+          cirujano de la Universidad de Antioquia. Especialista en medicina
+          aplicada a la actividad física y el deporte Universidad de Antioquia.
+          Ex Director médico Coldeportes y comité olímpico colombiano
+
+
+          [**Twitter**](https://twitter.com/juancq09)
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/13.png
       - title: Ángel Áceña
         subtitle: Reino Unido
         title_align: left
