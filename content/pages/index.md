@@ -406,6 +406,26 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/18.png
+      - title: Javier Mallo
+        subtitle: España
+        title_align: left
+        content: >
+          ###### Doctor en Ciencias de la Actividad física y deporte & Diplomado
+          en Fisioterapia. Máster en Alto Rendimiento Deportivo. Preparador
+          Físico de Fútbol en equipos profesionales élite (España-Inglaterra ).
+          Autor de varios libros y artículos de investigación sobre el
+          entrenamiento en el fútbol y deportes de equipo. Ponente en congresos
+          Internacionales.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/17.png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -454,26 +474,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/11.png
-      - title: Javier Mallo
-        subtitle: España
-        title_align: left
-        content: >
-          ###### Doctor en Ciencias de la Actividad física y deporte & Diplomado
-          en Fisioterapia. Máster en Alto Rendimiento Deportivo. Preparador
-          Físico de Fútbol en equipos profesionales élite (España-Inglaterra ).
-          Autor de varios libros y artículos de investigación sobre el
-          entrenamiento en el fútbol y deportes de equipo. Ponente en congresos
-          Internacionales.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/17.png
       - title: Alexis García
         subtitle: Colombia
         title_align: left
