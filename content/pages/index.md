@@ -206,6 +206,22 @@ sections:
         image: /images/6 (2).png
         image_alt: Speaker 5 photo
         image_position: top
+      - title: Paolo Gaudino
+        subtitle: Reino Unido
+        title_align: left
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/1 (5).png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -350,22 +366,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/11.png
-      - title: Paolo Gaudino
-        subtitle: Reino Unido
-        title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/1 (5).png
       - title: Ángel Áceña
         subtitle: Reino Unido
         title_align: left
