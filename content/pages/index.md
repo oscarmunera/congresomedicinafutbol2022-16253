@@ -364,7 +364,7 @@ sections:
           Ex Director médico Coldeportes y comité olímpico colombiano
 
 
-          ****[**Twitter**](https://twitter.com/juancq09)
+          [**Twitter**](https://twitter.com/juancq09)
         content_align: left
         actions: []
         actions_align: left
