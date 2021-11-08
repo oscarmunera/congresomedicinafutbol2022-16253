@@ -442,8 +442,10 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ###### Director MEDSPORT COLOMBIA. Médico Especialista en Ortopedia y
+          Traumatología Deportiva miembro de ISAKOS (Internacional Society of
+          Arthroscopy, Knee Surgery and Orthopaedics Sports Medicine).
+          Especialista en cirugía de rodilla Clínica el Country.
         content_align: left
         actions: []
         actions_align: left
