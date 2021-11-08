@@ -162,6 +162,17 @@ sections:
         image: /images/3 (3).png
         image_alt: Speaker 7 photo
         image_position: top
+      - title: José María Villalón
+        subtitle: España
+        content: >
+          ###### Licenciado en medicina y Cirugía por la universidad Complutense
+          de Madrid. Doctor en medicina física y rehabilitación por la
+          universidad complutense de Madrid. MSc en Traumatología y Medicina del
+          deporte. Director de los servicios médicos del Club Atlético de
+          Madrid.
+        image: /images/16.png
+        image_alt: Speaker 4 photo
+        image_position: top
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -215,17 +226,6 @@ sections:
           [**Twitter**](https://twitter.com/DrRobinThorpe)
         image: /images/12.png
         image_alt: Speaker 3 photo
-        image_position: top
-      - title: José María Villalón
-        subtitle: España
-        content: >
-          ###### Licenciado en medicina y Cirugía por la universidad Complutense
-          de Madrid. Doctor en medicina física y rehabilitación por la
-          universidad complutense de Madrid. MSc en Traumatología y Medicina del
-          deporte. Director de los servicios médicos del Club Atlético de
-          Madrid.
-        image: /images/16.png
-        image_alt: Speaker 4 photo
         image_position: top
       - title: Luis Suárez Arrones
         subtitle: Suiza
