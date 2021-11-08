@@ -166,10 +166,17 @@ sections:
         subtitle: España
         content: >
           ###### Licenciado en medicina y Cirugía por la universidad Complutense
-          de Madrid. Doctor en medicina física y rehabilitación por la
-          universidad complutense de Madrid. MSc en Traumatología y Medicina del
-          deporte. Director de los servicios médicos del Club Atlético de
-          Madrid.
+          de Madrid. 
+
+
+          ###### Doctor en medicina física y rehabilitación por la universidad
+          complutense de Madrid. 
+
+
+          ###### MSc en Traumatología y Medicina del deporte. 
+
+
+          ###### Director de los servicios médicos del Club Atlético de Madrid.
         image: /images/16.png
         image_alt: Speaker 4 photo
         image_position: top
