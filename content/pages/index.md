@@ -151,6 +151,26 @@ sections:
     title: Conferencistas invitados
     subtitle: La mejor alineación de conferencistas internacionales!
     grid_items:
+      - title: Christian Quiceno
+        subtitle: Colombia
+        content: >
+          ###### Director Médico del Club deportivo la Equidad Seguros.
+
+
+          ###### Médico y cirujano de la Universidad de Antioquia.
+
+
+          ###### Especialista en medicina aplicada a la actividad física y el
+          deporte Universidad de Antioquia.
+
+
+          ###### Asesor en medicina deportiva a nivel nacional e internacional.
+
+
+          [**Twitter**](https://twitter.com/cristianmdsport)
+        image: /images/14.png
+        image_alt: Speaker 2 photo
+        image_position: top
       - title: Luis Suárez Arrones
         subtitle: Suiza
         content: |
@@ -232,26 +252,6 @@ sections:
           **[Twitter](https://twitter.com/)**
         image: /images/15.png
         image_alt: Speaker 1 photo
-        image_position: top
-      - title: Christian Quiceno
-        subtitle: Colombia
-        content: >
-          ###### Director Médico del Club deportivo la Equidad Seguros.
-
-
-          ###### Médico y cirujano de la Universidad de Antioquia.
-
-
-          ###### Especialista en medicina aplicada a la actividad física y el
-          deporte Universidad de Antioquia.
-
-
-          ###### Asesor en medicina deportiva a nivel nacional e internacional.
-
-
-          [**Twitter**](https://twitter.com/cristianmdsport)
-        image: /images/14.png
-        image_alt: Speaker 2 photo
         image_position: top
       - title: Robin Thorpe
         subtitle: USA
