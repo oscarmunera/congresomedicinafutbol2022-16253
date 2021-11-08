@@ -200,6 +200,17 @@ sections:
         image: /images/16.png
         image_alt: Speaker 4 photo
         image_position: top
+      - title: Juanjo Brau
+        subtitle: España
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: /images/8 (1).png
+        image_alt: Speaker 6 photo
+        image_position: top
       - title: Luis Suárez Arrones
         subtitle: Suiza
         content: |
@@ -214,17 +225,6 @@ sections:
           [**Twitter**](https://twitter.com/LSuarez_Arrones)
         image: /images/6 (2).png
         image_alt: Speaker 5 photo
-        image_position: top
-      - title: Juanjo Brau
-        subtitle: España
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
-        image: /images/8 (1).png
-        image_alt: Speaker 6 photo
         image_position: top
       - title: Paolo Gaudino
         subtitle: Reino Unido
