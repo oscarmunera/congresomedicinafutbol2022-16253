@@ -350,6 +350,22 @@ sections:
         image_alt: Speaker 8 photo
         image_position: top
         title: Elena Isla
+      - title: Hernán Giuria
+        subtitle: Argentina
+        title_align: left
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/19.png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -458,22 +474,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/18.png
-      - title: Hernán Giuria
-        subtitle: Argentina
-        title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/19.png
       - title: Alexis García
         subtitle: Colombia
         title_align: left
