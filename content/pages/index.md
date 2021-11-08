@@ -479,6 +479,24 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/22.png
+      - title: Fernando Pastrana
+        subtitle: Colombia
+        title_align: left
+        content: >
+          ###### Director MEDSPORT COLOMBIA. Médico Especialista en Ortopedia y
+          Traumatología Deportiva miembro de ISAKOS (Internacional Society of
+          Arthroscopy, Knee Surgery and Orthopaedics Sports Medicine).
+          Especialista en cirugía de rodilla Clínica el Country.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/20.png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -506,24 +524,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/21.png
-      - title: Fernando Pastrana
-        subtitle: Colombia
-        title_align: left
-        content: >
-          ###### Director MEDSPORT COLOMBIA. Médico Especialista en Ortopedia y
-          Traumatología Deportiva miembro de ISAKOS (Internacional Society of
-          Arthroscopy, Knee Surgery and Orthopaedics Sports Medicine).
-          Especialista en cirugía de rodilla Clínica el Country.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/20.png
       - title: Astrid Quinchia
         subtitle: Colombia
         title_align: left
