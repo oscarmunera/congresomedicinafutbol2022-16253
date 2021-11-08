@@ -242,6 +242,22 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/1 (5).png
+      - title: Pedro Alcaraz
+        subtitle: España
+        title_align: left
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/Agregar un título (3).png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -528,22 +544,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/23 (1).png
-      - title: Pedro Alcaraz
-        subtitle: España
-        title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Agregar un título (3).png
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
