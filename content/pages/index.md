@@ -426,17 +426,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/17.png
-      - title: Carlos Mario Zuluaga
-        subtitle: Colombia
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
-        image: /images/15.png
-        image_alt: Speaker 1 photo
-        image_position: top
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
@@ -458,6 +447,17 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/4 (1).png
+      - title: Carlos Mario Zuluaga
+        subtitle: Colombia
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: /images/15.png
+        image_alt: Speaker 1 photo
+        image_position: top
       - title: Mireia Porta
         subtitle: España
         title_align: left
