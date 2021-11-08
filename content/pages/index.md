@@ -258,17 +258,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Agregar un título (3).png
-      - title: Carlos Mario Zuluaga
-        subtitle: Colombia
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
-        image: /images/15.png
-        image_alt: Speaker 1 photo
-        image_position: top
       - title: Robin Thorpe
         subtitle: USA
         content: >
@@ -291,6 +280,17 @@ sections:
           [**Twitter**](https://twitter.com/DrRobinThorpe)
         image: /images/12.png
         image_alt: Speaker 3 photo
+        image_position: top
+      - title: Carlos Mario Zuluaga
+        subtitle: Colombia
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+
+
+          **[Twitter](https://twitter.com/)**
+        image: /images/15.png
+        image_alt: Speaker 1 photo
         image_position: top
       - subtitle: España
         content: >
