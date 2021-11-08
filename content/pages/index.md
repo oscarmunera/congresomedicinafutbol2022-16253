@@ -402,8 +402,11 @@ sections:
         subtitle: Italia
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ###### Ingeniero electrónico del Politecnico di Torino, Italia.
+          Fundador de la empresa SmartCoach Europe, tecnología de punta para
+          valoración de la fuerza.&#xA;Ex Director departamento de fisiología,
+          Instituto Karolinska, Suecia. Autor de 22 publicaciones científicas
+          internacionales y 4 capítulos de libros.
         content_align: left
         actions: []
         actions_align: left
