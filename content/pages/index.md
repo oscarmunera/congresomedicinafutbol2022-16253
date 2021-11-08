@@ -476,8 +476,12 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ###### Nutricionista y dietista de la universidad nacional de
+          Colombia.MSc en deporte y actividad física de la Universidad
+          Nacional.Ex-Coordinadora del área de nutrición del centro de ciencias
+          del deporte del departamento administrativo del deporte, recreación,
+          la actividad física aprovechamiento del tiempo libre. Coldeportes,
+          Colombia.
         content_align: left
         actions: []
         actions_align: left
