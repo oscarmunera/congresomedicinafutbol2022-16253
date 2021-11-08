@@ -232,10 +232,7 @@ sections:
         content: >
           ###### Responsable Área Médica de la Federación Española de
           Baloncesto. Médico de selecciones femeninas de fútbol madrileño y
-          español.
-
-
-          ###### Selección Absoluta Fútbol Sala Femenino
+          español. Selección Absoluta Fútbol Sala Femenino
           [RFEF](https://www.rfef.es/). Servicios Médicos Cantera Masculina y
           Femenina clubes de fútbol español.  Docente escuela de entrenadores
           [RFFM](https://www.rffm.es/) y [FEB](https://www.feb.es/inicio.aspx).
