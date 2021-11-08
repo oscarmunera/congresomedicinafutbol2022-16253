@@ -388,10 +388,17 @@ sections:
         subtitle: Paraguay
         title_align: left
         content: >
-          ###### Director médico del comité olímpico Paraguayo. Médico y
-          cirujano de la Universidad de Antioquia. Especialista en medicina
-          aplicada a la actividad física y el deporte Universidad de Antioquia.
-          Ex Director médico Coldeportes y comité olímpico colombiano
+          ###### Director médico del comité olímpico Paraguayo. 
+
+
+          ###### Médico y cirujano de la Universidad de Antioquia. 
+
+
+          ###### Especialista en medicina aplicada a la actividad física y el
+          deporte Universidad de Antioquia. 
+
+
+          ###### Ex Director médico Coldeportes y comité olímpico colombiano
 
 
           [**Twitter**](https://twitter.com/juancq09)
