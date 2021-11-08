@@ -319,6 +319,22 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/5 (2).png
+      - title: Ángel Áceña
+        subtitle: Reino Unido
+        title_align: left
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/10.png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -403,22 +419,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/13.png
-      - title: Ángel Áceña
-        subtitle: Reino Unido
-        title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/10.png
       - title: Javier Mallo
         subtitle: España
         title_align: left
