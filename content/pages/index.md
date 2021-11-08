@@ -281,6 +281,28 @@ sections:
         image: /images/12.png
         image_alt: Speaker 3 photo
         image_position: top
+      - title: Daniel Cohen
+        subtitle: Reino Unido
+        title_align: left
+        content: >
+          ###### Doctor en ciencias del deporte. Investigador con más de 50
+          publicaciones sobre fuerza y potencia. Asesor de equipos de premier
+          league, Liga española, NFL, NBA. Cofundador y diseñador de las
+          plataformas Forcedecks, plataformas más utilizadas en el alto
+          rendimiento.
+
+
+          [**Twitter**](https://twitter.com/danielcohen1971)
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/2 (9).png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -328,28 +350,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/4 (1).png
-      - title: Daniel Cohen
-        subtitle: Reino Unido
-        title_align: left
-        content: >
-          ###### Doctor en ciencias del deporte. Investigador con más de 50
-          publicaciones sobre fuerza y potencia. Asesor de equipos de premier
-          league, Liga española, NFL, NBA. Cofundador y diseñador de las
-          plataformas Forcedecks, plataformas más utilizadas en el alto
-          rendimiento.
-
-
-          [**Twitter**](https://twitter.com/danielcohen1971)
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/2 (9).png
       - title: Antonio Gómez
         subtitle: Polonia
         title_align: left
