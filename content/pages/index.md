@@ -273,6 +273,9 @@ sections:
           league, Liga española, NFL, NBA. Cofundador y diseñador de las
           plataformas Forcedecks, plataformas más utilizadas en el alto
           rendimiento.
+
+
+          [**Twitter**](https://twitter.com/danielcohen1971)
         content_align: left
         actions: []
         actions_align: left
