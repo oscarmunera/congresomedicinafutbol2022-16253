@@ -151,6 +151,21 @@ sections:
     title: Conferencistas invitados
     subtitle: La mejor alineación de conferencistas internacionales!
     grid_items:
+      - title: Luis Suárez Arrones
+        subtitle: Suiza
+        content: |
+          ###### Preparador físico FC Basel, Suiza. 
+
+          ###### Doctor en alto rendimiento deportivo. 
+
+          ###### Profesor de la universidad Pablo de Olavide.
+
+          ###### Ex Fiorentina FC, Selección nacional de Qatar.
+
+          [**Twitter**](https://twitter.com/LSuarez_Arrones)
+        image: /images/6 (2).png
+        image_alt: Speaker 5 photo
+        image_position: top
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
         content: >-
@@ -190,21 +205,6 @@ sections:
           **[Twitter](https://twitter.com/)**
         image: /images/8 (1).png
         image_alt: Speaker 6 photo
-        image_position: top
-      - title: Luis Suárez Arrones
-        subtitle: Suiza
-        content: |
-          ###### Preparador físico FC Basel, Suiza. 
-
-          ###### Doctor en alto rendimiento deportivo. 
-
-          ###### Profesor de la universidad Pablo de Olavide.
-
-          ###### Ex Fiorentina FC, Selección nacional de Qatar.
-
-          [**Twitter**](https://twitter.com/LSuarez_Arrones)
-        image: /images/6 (2).png
-        image_alt: Speaker 5 photo
         image_position: top
       - title: Paolo Gaudino
         subtitle: Reino Unido
