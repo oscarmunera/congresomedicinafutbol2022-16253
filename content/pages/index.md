@@ -186,19 +186,10 @@ sections:
         subtitle: USA
         content: >
           ###### Director de rendimiento y preparación física del Manchester
-          United FC, UK. 
-
-
-          ###### Líder en investigación sobre manejo de la fatiga, recuperación
-          y regeneración.
-
-
-          ###### Doctor en ciencias del deporte, PhD Liverpool John Mores
-          University. 
-
-
-          ###### Múltiples publicaciones en las principales revistas de medicina
-          deportiva.
+          United FC, UK.&#xA;Líder en investigación sobre manejo de la fatiga,
+          recuperación y regeneración.&#xA;Doctor en ciencias del deporte, PhD
+          Liverpool John Mores University.&#xA;Múltiples publicaciones en las
+          principales revistas de medicina deportiva.
 
 
           [**Twitter**](https://twitter.com/DrRobinThorpe)
