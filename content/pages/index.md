@@ -497,6 +497,26 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/20.png
+      - title: Astrid Quinchia
+        subtitle: Colombia
+        title_align: left
+        content: >
+          ###### Nutricionista y dietista de la universidad nacional de
+          Colombia.MSc en deporte y actividad física de la Universidad
+          Nacional.Ex-Coordinadora del área de nutrición del centro de ciencias
+          del deporte del departamento administrativo del deporte, recreación,
+          la actividad física aprovechamiento del tiempo libre. Coldeportes,
+          Colombia.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/23 (1).png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >-
@@ -524,26 +544,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/21.png
-      - title: Astrid Quinchia
-        subtitle: Colombia
-        title_align: left
-        content: >
-          ###### Nutricionista y dietista de la universidad nacional de
-          Colombia.MSc en deporte y actividad física de la Universidad
-          Nacional.Ex-Coordinadora del área de nutrición del centro de ciencias
-          del deporte del departamento administrativo del deporte, recreación,
-          la actividad física aprovechamiento del tiempo libre. Coldeportes,
-          Colombia.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/23 (1).png
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
