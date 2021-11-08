@@ -473,10 +473,18 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Nutricionista deportivo y Fisiólogo del ejercicio Birmingham
-          University UK. Director My Sport Science UK.Ex-Director de Gatorade
-          Sports Science Institute. Múltiples publicaciones en las principales
-          revistas de nutrición deportiva y libros a nivel mundial.
+          ###### Nutricionista deportivo y fisiólogo del ejercicio Birmingham
+          University UK. 
+
+
+          ###### Director My Sport Science UK.
+
+
+          ###### Ex-Director de Gatorade Sports Science Institute. 
+
+
+          ###### Múltiples publicaciones en las principales revistas de
+          nutrición deportiva y libros a nivel mundial.
 
 
           [**Twitter**](https://twitter.com/Jeukendrup)
