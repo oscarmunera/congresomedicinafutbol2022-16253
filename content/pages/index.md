@@ -557,9 +557,14 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
-          ###### Nutricionista y dietista de la universidad nacional de
-          Colombia.MSc en deporte y actividad física de la Universidad
-          Nacional.Ex-Coordinadora del área de nutrición del centro de ciencias
+          ###### Nutricionista y dietista de la Universidad Nacional de
+          Colombia.
+
+
+          ###### MSc en deporte y actividad física de la Universidad Nacional.
+
+
+          ###### Ex-Coordinadora del área de nutrición del centro de ciencias
           del deporte del departamento administrativo del deporte, recreación,
           la actividad física aprovechamiento del tiempo libre. Coldeportes,
           Colombia.
