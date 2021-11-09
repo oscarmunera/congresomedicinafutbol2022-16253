@@ -648,9 +648,7 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: |
-          ***
-
-          ### $ US 150
+          #### $ US 160 ($ COP 600.000)
 
           Acceso físico a las conferencias
 
