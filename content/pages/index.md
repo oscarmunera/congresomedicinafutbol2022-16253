@@ -623,7 +623,7 @@ sections:
     enable_cards: false
   - type: grid_section
     title: Precios
-    subtitle: Selecciones la entrada de su preferencia
+    subtitle: Tenemos precios diferenciales para estudiantes y profesionales
     grid_items:
       - title: Estudiantes
         subtitle: Marzo 24-25
