@@ -625,7 +625,7 @@ sections:
     title: Precios
     subtitle: Tenemos precios diferenciales para estudiantes y profesionales
     grid_items:
-      - title: Estudiantes
+      - title: Estudiantes (10% descuento antes de dic 31 2021)
         subtitle: Marzo 24-25
         title_align: left
         content: |
