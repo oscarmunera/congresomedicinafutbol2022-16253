@@ -631,7 +631,7 @@ sections:
         content: |
           ***
 
-          ### $ US 120($ COP 460.000)
+          #### $ US 120($ COP 460.000)
 
           Estudiantes con certificación o carné vigente
 
