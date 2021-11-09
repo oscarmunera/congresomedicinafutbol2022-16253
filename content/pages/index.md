@@ -635,7 +635,7 @@ sections:
           Estudiantes con certificación o carné vigente
 
 
-          *   Cupos limitados
+          *   Cupo limitado.
 
           *   Se aceptan inscripciones para estudiantes solo hasta enero 31 de
           2022.
