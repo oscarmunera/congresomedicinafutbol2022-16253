@@ -658,7 +658,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: VIP
+      - title: Descuento
         subtitle: Marzo 24-25
         title_align: left
         content: |
