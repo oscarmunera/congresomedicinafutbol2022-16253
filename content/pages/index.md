@@ -658,26 +658,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Descuento
-        subtitle: Marzo 24-25
-        title_align: left
-        content: |
-          ***
-
-          ### $ US 180
-
-          Acceso VIP a la sala de conferencias
-
-          *   Sesión privada de preguntas con conferencistas.
-          *   Almuerzo privado con ..
-          *
-        content_align: left
-        actions:
-          - label: Registro
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
