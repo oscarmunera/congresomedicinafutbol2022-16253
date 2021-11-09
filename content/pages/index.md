@@ -610,7 +610,7 @@ sections:
           ###### Máster en derecho deportivo universidad de Lleida España.
 
 
-          ###### [**Twitter**](https://twitter.com/)
+          ###### [**Twitter**](https://twitter.com/CarlosZu14)
         image: /images/15.png
         image_alt: Speaker 1 photo
         image_position: top
