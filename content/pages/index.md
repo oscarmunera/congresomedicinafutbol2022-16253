@@ -648,12 +648,13 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: |
-          #### $ US 160 ($ COP 600.000)
+          ####
 
-          Acceso físico a las conferencias
+          $ US 160 ($ COP 600.000)
 
-          *   Diploma de asistencia
-          *   Escarapela personalizada de ingreso
+          Profesionales e independientes
+
+          *   Acceso completo a todas las charlas y conferencias.
         content_align: left
         actions:
           - label: Registro
