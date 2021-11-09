@@ -666,7 +666,7 @@ sections:
     padding_bottom: medium
     background_color: primary
     background_image_opacity: 10
-    align: right
+    align: center
   - type: grid_section
     title: Nuestros patrocinadores
     subtitle: Nos acompañan empresas reconocidas mundialmente
