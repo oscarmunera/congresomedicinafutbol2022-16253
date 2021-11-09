@@ -596,12 +596,16 @@ sections:
         image: /images/21.png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+        content: |
+          Presidente Ejecutivo Club Deportivo La Equidad Seguros.
 
 
-          **[Twitter](https://twitter.com/)**
+          Administrador de empresas,  Universidad Cooperativa de Colombia.
+
+          Abogado de la universidad Católica de Colombia.
+          Máster en derecho deportivo universidad de Lleida España.
+
+          [**Twitter**](https://twitter.com/)
         image: /images/15.png
         image_alt: Speaker 1 photo
         image_position: top
