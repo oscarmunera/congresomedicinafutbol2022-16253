@@ -654,6 +654,7 @@ sections:
 
           Profesionales e independientes
 
+          *   Cupo limitado.
           *   Acceso completo a todas las charlas y conferencias.
         content_align: left
         actions:
