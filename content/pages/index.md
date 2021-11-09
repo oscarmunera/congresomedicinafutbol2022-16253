@@ -600,8 +600,8 @@ sections:
         media_width: sixty
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/kHnBIVsx_BY" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
+          src="https://www.youtube.com/embed/kHnBIVsx_BY?start=4" title="YouTube
+          video player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
       - title: Recordamos nuestro I Congreso Internacional de Medicina del fútbol
