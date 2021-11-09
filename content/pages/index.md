@@ -656,7 +656,6 @@ sections:
 
           *   Diploma de asistencia
           *   Escarapela personalizada de ingreso
-          *
         content_align: left
         actions:
           - label: Registro
