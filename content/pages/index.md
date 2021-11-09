@@ -629,8 +629,6 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: |
-          ***
-
           #### $ US 120($ COP 460.000)
 
           Estudiantes con certificación o carné vigente
