@@ -631,12 +631,12 @@ sections:
         content: |
           ***
 
-          ### $ US 120
+          ### $ US 120($ COP 460.000)
 
-          Todas las conferencias con acceso virtual
+          Estudiantes con certificación o carné vigente
 
-          *   Acceso virtual a todas las conferencias
-          *   Preguntas en la sección de preguntas abiertas
+          *   Cupos limitados
+          *   Se aceptan inscripciones solo hasta enero 31 de 2022.
         content_align: left
         actions:
           - label: Registro
