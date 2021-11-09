@@ -646,9 +646,7 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: |
-          ####
-
-          $ US 160 ($ COP 600.000)
+          #### $ US 160 ($ COP 600.000)
 
           Profesionales e independientes
 
