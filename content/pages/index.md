@@ -83,10 +83,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: Sede del congreso
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: >
+          Nuestra completa y moderna sede, una vez más abre sus puertas para
+          este magnífico evento, demostrando porque es una de las mejores de
+          nuestro país.
         image: /images/sede club equidad seguros.png
         image_alt: Feature 2 placeholder image
         media_position: left
