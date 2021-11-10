@@ -33,7 +33,7 @@ sections:
             new_window: true
             no_follow: true
           - label: ' '
-            url: '#'
+            url: 'https://www.instagram.com/christianquiceno/'
             style: primary
             has_icon: false
             icon: instagram
