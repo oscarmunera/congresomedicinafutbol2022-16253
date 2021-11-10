@@ -204,25 +204,6 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content_align: center
-        actions:
-          - label: Visite
-            url: www.laequidadseguros.coop
-            style: primary
-            has_icon: false
-            icon: twitter
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: sixty
-        image_align: left
-        image_has_padding: false
-        image: /images/3 (4).png
-      - title_align: left
         content_align: left
         actions: []
         actions_align: left
