@@ -414,7 +414,7 @@ sections:
           nutrition
 
 
-          ###### &#xA;antropometrista isak III - international society for the
+          ###### &#xA;Antropometrista isak III - international society for the
           advancement of kinanthropometry
         content_align: left
         actions: []
