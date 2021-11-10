@@ -46,8 +46,9 @@ sections:
         title: Duración
       - title: 23 ponentes de 8 países
         title_align: center
-        content: |
-          23 conferencistas internacionales
+        content: >
+          Más de 30 conferencias de los mejores conferencistas nacionales e
+          internacionales.
         content_align: center
         image_alt: Section item 3 icon
         image_position: left
