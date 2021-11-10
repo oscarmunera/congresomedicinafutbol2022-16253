@@ -1,43 +1,6 @@
 ---
 title: ponentes
 sections:
-  - type: grid_section
-    grid_items:
-      - title_align: center
-        content: >
-          Sede Deportiva Club Equidad Seguros.
-
-
-          [Calle 193 9-20](https://goo.gl/maps/P9sasMqJXiNySeqc9)
-          Bogotá-Colombia.
-        content_align: center
-        image_alt: Section item 1 icon
-        image_position: left
-        image_width: twenty-five
-        title: Lugar
-      - title_align: center
-        content: |
-          2 Días compartiendo ciencia; jueves 24 y viernes 25 de marzo de 2022.
-        content_align: center
-        image_alt: Section item 2 icon
-        image_position: left
-        image_width: twenty-five
-        title: Duración
-      - title: 23 ponentes de 8 países
-        title_align: center
-        content: >
-          Más de 30 conferencias de los mejores conferencistas nacionales e
-          internacionales.
-        content_align: center
-        image_alt: Section item 3 icon
-        image_position: left
-        image_width: twenty-five
-    grid_cols: three
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    align: center
-    background_color: secondary
   - type: features_section
     title: Viva la mejor experiencia en medicina deportiva
     features:
