@@ -29,11 +29,6 @@
                 "no_follow": false
             },
             {
-                "label": "Agenda",
-                "url": "/sponsorship",
-                "style": "link"
-            },
-            {
                 "label": "Ponentes",
                 "url": "/ponentes",
                 "style": "link",
@@ -42,6 +37,11 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Agenda",
+                "url": "/sponsorship",
+                "style": "link"
             },
             {
                 "label": "Inscripciones",
