@@ -43,6 +43,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
+        title: Duración
       - title: 23 ponentes de 8 países
         title_align: center
         content: |
