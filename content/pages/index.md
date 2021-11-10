@@ -71,6 +71,20 @@ sections:
     background_color: none
   - type: features_section
     features:
+      - title: 'I Congreso medicina del Fútbol '
+        content: >
+          Nuestro primer evento fue todo un éxito, contamos con los mejores
+          ponentes quienes compartieron todo su conocimiento y experiencia con
+          los asistentes.
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        image: /images/2 (8).png
       - title: Workshops para grupos limitados
         content: |
           *   *Taller de Nutrición*
@@ -101,20 +115,6 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-      - title: 'I Congreso medicina del Fútbol '
-        content: >
-          Nuestro primer evento fue todo un éxito, contamos con los mejores
-          ponentes quienes compartieron todo su conocimiento y experiencia con
-          los asistentes.
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
-        media_width: fifty
-        align: left
-        image: /images/2 (8).png
     feature_padding_vert: large
     align: center
     padding_top: none
