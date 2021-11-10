@@ -62,6 +62,7 @@ sections:
             icon_position: center
             new_window: false
             no_follow: false
+        actions_align: center
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
