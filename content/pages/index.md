@@ -87,7 +87,7 @@ sections:
           Nuestra completa y moderna sede, una vez más abre sus puertas para
           este magnífico evento, demostrando porque es una de las mejores de
           nuestro país.
-        image: /images/sede club equidad seguros.png
+        image: /images/sede club equidad seguros (3).png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
