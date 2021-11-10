@@ -25,6 +25,15 @@ sections:
         image: /images/14.png
         image_alt: Speaker 2 photo
         image_position: top
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
         content: >-
