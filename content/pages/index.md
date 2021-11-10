@@ -23,8 +23,12 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: center
-        content: |
-          Durante 2 días tendremos conferencias y capacitaciones privadas
+        content: >
+          Sede Deportiva Club Equidad Seguros.
+
+
+          [Calle 193 9-20](https://goo.gl/maps/cepKGjaXmAnW7Jda7)
+          Bogotá-Colombia.
         content_align: center
         image_alt: Section item 1 icon
         image_position: left
