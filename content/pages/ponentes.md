@@ -1,22 +1,6 @@
 ---
 title: ponentes
 sections:
-  - type: cta_section
-    title: Inscripciones abiertas
-    actions:
-      - label: Reserve su cupo
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image_opacity: 15
   - type: grid_section
     title: Conferencistas invitados
     subtitle: La mejor alineación de conferencistas internacionales!
