@@ -19,6 +19,16 @@
                 "style": "link"
             },
             {
+                "label": "Bienvenida",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Agenda",
                 "url": "/sponsorship",
                 "style": "link"
@@ -37,16 +47,6 @@
                 "label": "Inscripciones",
                 "url": "/thank-you",
                 "style": "primary"
-            },
-            {
-                "label": "Bienvenida",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "primary_nav_links": []
