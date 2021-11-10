@@ -93,15 +93,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Sede del congreso
-        content: >
-          Nuestra completa y moderna sede, una vez más abre sus puertas para
-          este magnífico evento, demostrando porque es una de las mejores de
-          nuestro país.
-        image: /images/sede club equidad seguros (3).png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: sixty
       - title: Presentación de tecnología y maquinaria para entrenamiento deportivo.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
@@ -111,6 +102,15 @@ sections:
         image: /images/2 (7).png
         image_alt: Feature 3 placeholder image
         media_position: right
+        media_width: sixty
+      - title: Sede del congreso
+        content: >
+          Nuestra completa y moderna sede, una vez más abre sus puertas para
+          este magnífico evento, demostrando porque es una de las mejores de
+          nuestro país.
+        image: /images/sede club equidad seguros (3).png
+        image_alt: Feature 2 placeholder image
+        media_position: left
         media_width: sixty
     feature_padding_vert: large
     align: center
