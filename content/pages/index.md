@@ -34,7 +34,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: Lugar
-      - title: "20+\_ conferencias"
+      - title: Duración
         title_align: center
         content: |
           Capacitaciones personalizadas
