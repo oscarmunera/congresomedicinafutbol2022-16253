@@ -293,7 +293,6 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     title: Nuestros Patrocinadores
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
