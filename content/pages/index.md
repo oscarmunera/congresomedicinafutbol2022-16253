@@ -73,11 +73,11 @@ sections:
     features:
       - title: Workshops para grupos limitados
         content: |
-          ###### Taller de Nutrición
+          ###### *Taller de Nutrición*
 
-          ###### Taller de evaluación de la fuerza
+          ###### *Taller de evaluación de la fuerza*
 
-          ###### Taller de medicina regenerativa
+          ###### *Taller de medicina regenerativa*
         image: /images/2 (8).png
         image_alt: Feature 1 placeholder image
         media_position: right
