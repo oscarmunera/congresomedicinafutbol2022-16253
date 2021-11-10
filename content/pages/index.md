@@ -206,7 +206,7 @@ sections:
       - title_align: left
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Visite
             url: www.laequidadseguros.coop
             style: link
             has_icon: false
