@@ -3,7 +3,7 @@ title: ponentes
 sections:
   - type: grid_section
     title: Conferencistas invitados
-    subtitle: La mejor alineación de conferencistas internacionales!
+    subtitle: La mejor alineación de conferencistas nacionales e internacionales!
     grid_items:
       - title: Christian Quiceno
         subtitle: Colombia
