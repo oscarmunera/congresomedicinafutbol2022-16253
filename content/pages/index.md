@@ -78,7 +78,7 @@ sections:
           los asistentes.
         actions: []
         image_alt: foto grupal del Primer congreso
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         image: /images/2 (8).png
