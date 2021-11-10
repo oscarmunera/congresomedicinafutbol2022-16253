@@ -2,18 +2,6 @@
 title: ponentes
 sections:
   - type: features_section
-    title: Viva la mejor experiencia en medicina deportiva
-    features:
-      - content: >
-          ### ***Participe en el evento de divulgación científica de medicina
-          deportiva de mayor impacto en la región.***
-        align: center
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
-  - type: features_section
     features:
       - title: Workshops para grupos pequeños
         content: >-
