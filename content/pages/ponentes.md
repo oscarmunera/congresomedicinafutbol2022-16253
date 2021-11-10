@@ -367,9 +367,14 @@ sections:
         title_align: left
         content: >
           ###### Dietista- Nutricionista y Tecnóloga Alimentaria por la UB
-          (Universidad de Barcelona)&#xA;Profesora Asociada de la UAB
-          (Universidad  Autónoma de Barcelona)&#xA;Antropometrista ISAK
-          3&#xA;Vocal de ADNEFE (Asociación de Dietistas Nutricionistas de
+          (Universidad de Barcelona)
+
+
+          ###### &#xA;Profesora Asociada de la UAB (Universidad  Autónoma de
+          Barcelona)&#xA;Antropometrista ISAK 3
+
+
+          ###### &#xA;Vocal de ADNEFE (Asociación de Dietistas Nutricionistas de
           Equipos de Fútbol Español)&#xA;&#xA;
         content_align: left
         actions: []
