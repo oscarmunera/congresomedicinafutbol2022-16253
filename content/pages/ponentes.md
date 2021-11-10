@@ -33,7 +33,7 @@ sections:
             icon: twitter
             icon_position: right
             new_window: false
-            no_follow: false
+            no_follow: true
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
         content: >-
