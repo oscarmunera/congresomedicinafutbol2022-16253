@@ -28,7 +28,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: '#'
-            style: link
+            style: primary
             has_icon: false
             icon: twitter
             icon_position: right
