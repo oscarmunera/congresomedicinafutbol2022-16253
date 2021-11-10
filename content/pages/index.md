@@ -33,7 +33,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
-        title: Ubicación
+        title: Lugar
       - title: "20+\_ conferencias"
         title_align: center
         content: |
