@@ -94,11 +94,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: Presentación de tecnología y maquinaria para entrenamiento deportivo.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Rueda comercial de negocios en donde las marcas patrocinadoras
+          contarán con stands en los cuales podrán interactuar con los
+          asistentes del evento.
         image: /images/2 (7).png
         image_alt: Feature 3 placeholder image
         media_position: right
