@@ -28,7 +28,7 @@ sections:
         actions:
           - label: ' '
             url: '#'
-            style: primary
+            style: link
             has_icon: true
             icon: twitter
             icon_position: right
