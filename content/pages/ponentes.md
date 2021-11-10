@@ -471,7 +471,7 @@ sections:
         image_position: top
     grid_cols: three
     grid_gap_horiz: small
-    grid_gap_vert: small
+    grid_gap_vert: large
     align: center
     background_color: none
     enable_cards: false
