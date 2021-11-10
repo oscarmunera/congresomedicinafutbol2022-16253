@@ -100,7 +100,7 @@ sections:
           asistentes del evento.
         image: /images/2 (7).png
         image_alt: Feature 3 placeholder image
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: Sede del congreso
         content: >
