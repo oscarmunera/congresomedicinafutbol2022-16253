@@ -77,7 +77,7 @@ sections:
           ponentes quienes compartieron todo su conocimiento y experiencia con
           los asistentes.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: Primer congreso
         media_position: top
         media_width: fifty
         align: left
