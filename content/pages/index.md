@@ -207,7 +207,7 @@ sections:
         content_align: center
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: www.laequidadseguros.coop
             style: link
             has_icon: false
             icon: arrow-left
