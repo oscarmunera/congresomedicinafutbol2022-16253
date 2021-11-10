@@ -491,39 +491,6 @@ sections:
     align: center
     background_color: none
     enable_cards: false
-  - type: features_section
-    title: Galería multimedia
-    subtitle: Videos
-    features:
-      - title: Presentamos el video oficial de invitación
-        content: >
-          Presentamos el video oficial del II Congreso Internacional de Medicina
-          del Fútbol.
-        media_position: right
-        media_width: sixty
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/kHnBIVsx_BY?start=4" title="YouTube
-          video player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-      - title: Recordamos nuestro I Congreso Internacional de Medicina del fútbol
-        content: >
-          Christian Quiceno, director de Equidad Sport Medicine nos cuenta lo
-          mejor del primer congreso realizado en el 2019.
-        media_position: left
-        media_width: sixty
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/uSLxKSJjijQ" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-    feature_padding_vert: large
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - type: grid_section
     title: Precios (10% de descuento si paga antes de diciembre 31 de 2021).
     subtitle: Tenemos precios diferenciales para estudiantes y profesionales
