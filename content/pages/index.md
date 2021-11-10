@@ -61,7 +61,7 @@ sections:
     title: Viva la mejor experiencia en medicina deportiva
     features:
       - content: >
-          ### ***Participe en el evento de divulgación científica de medicina
+          > ***Participe en el evento de divulgación científica de medicina
           deportiva de mayor impacto en la región.***
         align: center
     feature_padding_vert: medium
