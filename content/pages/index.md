@@ -34,8 +34,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: Lugar
-      - title: Duración
-        title_align: center
+      - title_align: center
         content: |
 
 
