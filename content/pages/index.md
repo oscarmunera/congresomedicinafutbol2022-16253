@@ -37,6 +37,8 @@ sections:
       - title: Duración
         title_align: center
         content: |
+
+
           Capacitaciones personalizadas
         content_align: center
         image_alt: Section item 2 icon
