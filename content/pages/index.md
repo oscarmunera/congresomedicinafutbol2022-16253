@@ -45,7 +45,7 @@ sections:
       - title: 23 ponentes de 8 países
         title_align: center
         content: >
-          Más de 30 conferencias de los mejores conferencistas nacionales e
+          Más de 30 conferencias con los mejores conferencistas nacionales e
           internacionales.
         content_align: center
         image_alt: Section item 3 icon
