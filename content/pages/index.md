@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ponentes
 sections:
   - type: hero_section
     content: |
