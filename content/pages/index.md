@@ -42,7 +42,6 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
-        image: /images/2-days.svg
       - title: 23 ponentes de 8 países
         title_align: center
         content: |
