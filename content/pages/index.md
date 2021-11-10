@@ -35,7 +35,7 @@ sections:
         image_width: twenty-five
         title: Lugar
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: '#'
             style: link
             has_icon: false
