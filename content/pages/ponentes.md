@@ -35,7 +35,7 @@ sections:
           - label: ' '
             url: 'https://www.instagram.com/christianquiceno/'
             style: primary
-            has_icon: false
+            has_icon: true
             icon: instagram
             icon_position: left
             new_window: false
