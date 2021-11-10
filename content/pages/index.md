@@ -208,7 +208,7 @@ sections:
         actions:
           - label: Visite
             url: www.laequidadseguros.coop
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-left
             icon_position: right
