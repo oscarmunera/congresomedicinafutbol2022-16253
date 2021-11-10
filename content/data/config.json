@@ -29,7 +29,7 @@
                 "style": "primary"
             },
             {
-                "label": "ponentes",
+                "label": "Ponentes",
                 "url": "/ponentes",
                 "style": "link",
                 "has_icon": false,
