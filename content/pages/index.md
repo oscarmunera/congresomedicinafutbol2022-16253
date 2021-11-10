@@ -214,6 +214,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/3 (4).png
+        title: Equidad
       - title_align: left
         content_align: left
         actions: []
