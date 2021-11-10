@@ -469,7 +469,7 @@ sections:
         image: /images/15.png
         image_alt: Speaker 1 photo
         image_position: top
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
     align: center
