@@ -102,7 +102,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: 'I Congreso medicina del Fútbol '
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
