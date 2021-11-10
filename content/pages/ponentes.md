@@ -84,8 +84,21 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ######
+
+
+          ###### Sport Science y fitness coach desde 2011 hasta el 2018.
+
+
+          ###### Readaptador y preparador físico desde el 2018-Actual Manchester
+          United.
+
+
+          ###### PhD en Sport Science en la universidad de Milán, Italia.
+
+
+          ###### Diferentes publicaciones científicas en revistas de ciencia y
+          medicina del deporte
         content_align: left
         actions: []
         actions_align: left
