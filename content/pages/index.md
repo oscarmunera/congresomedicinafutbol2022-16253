@@ -78,7 +78,7 @@ sections:
           *   *Taller de evaluación de la fuerza*
 
           *   *Taller de medicina regenerativa*
-        image: /images/2 (8).png
+        image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
