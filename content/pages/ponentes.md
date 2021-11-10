@@ -492,29 +492,6 @@ sections:
     background_color: none
     enable_cards: false
   - type: grid_section
-    title: Nuestros patrocinadores
-    subtitle: Nos acompañan empresas reconocidas mundialmente
-    align: center
-    grid_items:
-      - image: images/stackbit.svg
-        image_alt: Stackbit logo
-        image_align: center
-      - image: images/netlify.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: /images/M.A Sport Medicine Verde 3.png
-        image_alt: GitHub logo
-        image_align: center
-      - image: images/sticker-mule.svg
-        image_alt: Sticker Mule logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-  - type: grid_section
     title: >-
       Preguntas frecuentes sobre el II Congreso Internacional de medicina del
       fútbol
