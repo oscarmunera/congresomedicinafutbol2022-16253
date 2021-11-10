@@ -37,7 +37,7 @@ sections:
             style: link
             has_icon: true
             icon: instagram
-            icon_position: left
+            icon_position: right
             new_window: false
             no_follow: false
         actions_width: auto
