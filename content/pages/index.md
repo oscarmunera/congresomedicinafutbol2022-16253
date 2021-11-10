@@ -58,7 +58,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: Viva la mejor experiencia en medicina deportiva
+    title: Vive la mejor experiencia el mayor evento en medicina deportiva del fútbol
     features:
       - content: >
           ### ***Participe en el evento de divulgación científica de medicina
