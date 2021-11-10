@@ -700,7 +700,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    enable_cards: true
+    enable_cards: false
   - type: grid_section
     title: >-
       Preguntas frecuentes sobre el II Congreso Internacional de medicina del
