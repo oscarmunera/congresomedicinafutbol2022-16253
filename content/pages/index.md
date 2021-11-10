@@ -209,7 +209,7 @@ sections:
           - label: Visite
             url: www.laequidadseguros.coop
             style: primary
-            has_icon: true
+            has_icon: false
             icon: twitter
             icon_position: right
             new_window: false
