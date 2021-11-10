@@ -491,56 +491,6 @@ sections:
     align: center
     background_color: none
     enable_cards: false
-  - type: grid_section
-    title: >-
-      Preguntas frecuentes sobre el II Congreso Internacional de medicina del
-      fútbol
-    subtitle: Pregunte por más.
-    grid_items:
-      - title: Pregunta frecuente1?
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
-        content_align: left
-      - title: Qué hoteles tienen convenio?
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
-        content_align: left
-      - title: Fechas y medios de pago?
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
-        content_align: left
-      - title: Tienen descuentos para grupos?
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
-        content_align: left
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: small
-    enable_cards: false
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    background_image: images/faq-background.svg
-    background_image_repeat: repeat
-    background_image_size: auto
-    background_image_opacity: 15
   - type: cta_section
     title: Aproveche los precios de 2021.
     actions:
