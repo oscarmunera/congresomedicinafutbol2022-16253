@@ -213,7 +213,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/2 (10).png
+        image: /images/3 (4).png
       - title_align: left
         content_align: left
         actions: []
@@ -224,7 +224,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/3 (4).png
+        image: /images/2 (10).png
       - title_align: left
         content_align: left
         actions: []
