@@ -552,7 +552,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
-    enable_cards: true
+    enable_cards: false
   - type: cta_section
     title: Aproveche los precios de 2021.
     actions:
