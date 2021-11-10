@@ -291,7 +291,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - section_id: lorem-ipsum
+  - section_id: patrocinadores
     title: Nuestros Patrocinadores
     actions: []
     grid_items:
