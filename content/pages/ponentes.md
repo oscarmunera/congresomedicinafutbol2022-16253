@@ -7,7 +7,7 @@ sections:
     grid_items:
       - title: Christian Quiceno
         subtitle: Colombia
-        content: >
+        content: >+
           ###### Director Médico del Club deportivo la Equidad Seguros.
 
 
@@ -20,8 +20,6 @@ sections:
 
           ###### Asesor en medicina deportiva a nivel nacional e internacional.
 
-
-          [**Twitter**](https://twitter.com/cristianmdsport)
         image: /images/14.png
         image_alt: Speaker 2 photo
         image_position: top
