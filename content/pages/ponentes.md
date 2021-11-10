@@ -40,7 +40,7 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-        actions_width: full-width
+        actions_width: auto
         actions_align: left
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
