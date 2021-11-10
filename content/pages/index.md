@@ -98,7 +98,7 @@ sections:
           Rueda comercial de negocios en donde las marcas patrocinadoras
           contarán con stands en los cuales podrán interactuar con los
           asistentes del evento.
-        image: /images/2 (7).png
+        image: /images/sede club equidad seguros (1).png
         image_alt: Feature 3 placeholder image
         media_position: left
         media_width: sixty
