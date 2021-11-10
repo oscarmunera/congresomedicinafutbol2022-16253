@@ -27,7 +27,7 @@ sections:
         image_position: top
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://twitter.com/cristianmdsport'
             style: link
             has_icon: true
             icon: twitter
