@@ -36,9 +36,7 @@ sections:
         title: Lugar
       - title_align: center
         content: |
-
-
-          Capacitaciones personalizadas
+          2 Días compartiendo ciencia; jueves 24 y viernes 25 de marzo de 2022.
         content_align: center
         image_alt: Section item 2 icon
         image_position: left
