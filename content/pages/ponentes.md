@@ -32,7 +32,7 @@ sections:
             has_icon: true
             icon: twitter
             icon_position: center
-            new_window: false
+            new_window: true
             no_follow: true
         actions_width: full-width
         actions_align: center
