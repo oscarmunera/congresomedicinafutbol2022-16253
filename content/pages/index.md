@@ -688,7 +688,7 @@ sections:
       - image: images/netlify.svg
         image_alt: Netlify logo
         image_align: center
-      - image: images/github.svg
+      - image: /images/M.A Sport Medicine Verde 3.png
         image_alt: GitHub logo
         image_align: center
       - image: images/sticker-mule.svg
