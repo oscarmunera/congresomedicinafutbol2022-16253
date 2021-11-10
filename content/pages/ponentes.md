@@ -177,9 +177,16 @@ sections:
       - title: Antonio Gómez
         subtitle: Polonia
         title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: |
+          ###### Doctor en Ciencias de la Actividad Física y el Deporte.
+
+          ###### &#xA;Preparador Físico Selección Nacional Polonia.
+
+          ###### &#xA;Máster Alto Rendimiento Deportes de Equipo.
+
+          ###### &#xA;Máster Alto Rendimiento Deportes Cíclicos.
+
+          ###### &#xA;ENTRENADOR Futbol Nivel 3.
         content_align: left
         actions: []
         actions_align: left
