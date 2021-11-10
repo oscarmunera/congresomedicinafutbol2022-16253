@@ -1,40 +1,6 @@
 ---
 title: ponentes
 sections:
-  - type: features_section
-    features:
-      - title: Workshops para grupos pequeños
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
-        image: /images/2 (8).png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
-      - title: Sede del congreso
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
-        image: /images/1 (4).png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: sixty
-      - title: Presentación de tecnología y maquinaria para entrenamiento deportivo.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
-        image: /images/2 (7).png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: none
-    background_color: none
   - type: cta_section
     title: Inscripciones abiertas
     actions:
