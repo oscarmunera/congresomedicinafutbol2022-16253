@@ -28,7 +28,7 @@ sections:
         actions:
           - label: ' '
             url: 'https://twitter.com/cristianmdsport'
-            style: link
+            style: primary
             has_icon: true
             icon: twitter
             icon_position: center
