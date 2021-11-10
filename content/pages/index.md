@@ -114,6 +114,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/2 (8).png
     feature_padding_vert: large
     align: center
     padding_top: none
