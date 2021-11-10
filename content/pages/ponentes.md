@@ -201,39 +201,7 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Readaptador Fútbol en Futbol No Profesional (FFCM)&#xA;2015-
-          2017- Readaptador Sevilla FC.
-
-
-          ###### UEFA: Subcampeón Supercopa UEFA 2015, Campeón UEFA Europa
-          League 2016, Subcampeón Supercopa UEFA 2016.
-
-
-          ###### Finalista: Copa SM El Rey 2016, Subcampeón de la Supercopa de
-          España 2016.
-
-
-          ###### 2018- Preparador físico Selección Nacional de Costa Rica -
-          Mundial de la FIFA Rusia 2018 (2018).
-
-
-          ###### 2018- Preparador Físico Vitesse (Eredivise Holanda) 2018.
-
-
-          ###### 2019- Preparador Físico Selección Nacional de Zambia Sub 23
-          -Copa de África 2019 (Egipto).
-
-
-          ###### 2019- Preparador Físico Qatar SC (Qatar Stars League ).
-
-
-          ###### 2020- Preparador Físico Albacete Balompié.
-
-
-          ###### 2020-2021- Preparador Físico CD Badajoz.
-
-
-          ###### 2021-…Head Rehab Fitness Coach Wattford.
+          ###### Head Rehab Fitness Coach Wattford.
 
 
           ###### Profesor Posgrados / Master / Títulos Propios.
