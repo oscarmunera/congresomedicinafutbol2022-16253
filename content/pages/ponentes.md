@@ -84,9 +84,6 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ######
-
-
           ###### Sport Science y fitness coach desde 2011 hasta el 2018.
 
 
