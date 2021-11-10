@@ -54,7 +54,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: Descargue programa aquí
+          - label: Descargue programa de ponencias aquí
             url: '#'
             style: primary
             has_icon: false
