@@ -292,7 +292,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - section_id: lorem-ipsum
-    title: Nuestros Pa
+    title: Nuestros Patrocinadores
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
