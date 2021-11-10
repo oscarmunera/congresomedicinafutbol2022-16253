@@ -26,7 +26,7 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: '#'
             style: primary
             has_icon: true
