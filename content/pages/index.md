@@ -71,7 +71,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Workshops para grupos pequeños
+      - title: Workshops para grupos limitados
         content: |
           Taller de Nutrición
           Taller de evaluación de la fuerza
