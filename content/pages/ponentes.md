@@ -492,57 +492,6 @@ sections:
     background_color: none
     enable_cards: false
   - type: grid_section
-    title: Precios (10% de descuento si paga antes de diciembre 31 de 2021).
-    subtitle: Tenemos precios diferenciales para estudiantes y profesionales
-    grid_items:
-      - title: Estudiantes
-        subtitle: Marzo 24-25
-        title_align: left
-        content: >
-          ###### $ US 120($ COP 460.000) -10% antes de 31/12/2021
-
-
-          Estudiantes con certificación o carné vigente
-
-
-          *   Cupo limitado.
-
-          *   Se aceptan inscripciones para estudiantes solo hasta enero 31 de
-          2022.
-        content_align: left
-        actions:
-          - label: Registro
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: Profesionales
-        subtitle: Marzo 24-25
-        title_align: left
-        content: |
-          ###### $ US 160 ($ COP 600.000)**-10% si paga de 31/12/2021**
-
-          Profesionales e independientes
-
-          *   Cupo limitado.
-          *   Acceso completo a todas las charlas y conferencias.
-        content_align: left
-        actions:
-          - label: Registro
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-    grid_cols: two
-    grid_gap_horiz: large
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    background_color: primary
-    background_image_opacity: 10
-    align: center
-  - type: grid_section
     title: Nuestros patrocinadores
     subtitle: Nos acompañan empresas reconocidas mundialmente
     align: center
