@@ -212,6 +212,10 @@ sections:
 
 
           ###### Publicaciones científicas, libros, capítulos, congresos.
+
+
+          ###### UEFA: Subcampeón Supercopa UEFA 2015, Campeón UEFA Europa
+          League 2016, Subcampeón Supercopa UEFA 2016
         content_align: left
         actions: []
         actions_align: left
