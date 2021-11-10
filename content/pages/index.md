@@ -101,7 +101,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-      - title: lorem-ipsum
+      - title: 'I Congreso medicina del Fútbol '
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
