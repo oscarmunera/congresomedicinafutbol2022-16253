@@ -58,7 +58,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: Viva la mejor experiencia
+    title: Viva la mejor experiencia en medicina deportiva
     features:
       - content: >
           ### **Participe en el evento de divulgación científica de medicina
