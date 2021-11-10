@@ -1,25 +1,6 @@
 ---
 title: ponentes
 sections:
-  - type: hero_section
-    content: |
-      ######                               
-    actions: []
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    background_image_opacity: 120
-    background_image_size: contain
-    background_image_position: center top
-    title: '   '
-    subtitle: '  '
-    media_position: top
-    background_image_repeat: no-repeat
-    media_width: sixty
-    background_image: /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (3).png
-    section_id: banner
-    has_border: false
   - type: grid_section
     grid_items:
       - title_align: center
