@@ -27,7 +27,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/_MG_6528.jpg
+        image: /images/_MG_6489.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -38,7 +38,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/_MG_6489.jpg
+        image: /images/_MG_6528.jpg
       - title_align: left
         content_align: left
         actions: []
