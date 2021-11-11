@@ -258,7 +258,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/_MG_7082.jpg
+        image: /images/_MG_7088.jpg
       - title_align: left
         content_align: left
         actions: []
@@ -269,7 +269,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/_MG_7088.jpg
+        image: /images/_MG_7082.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
