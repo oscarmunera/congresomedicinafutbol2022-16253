@@ -141,7 +141,7 @@ sections:
           asistentes del evento.
         image: /images/sede club equidad seguros (1).png
         image_alt: Feature 3 placeholder image
-        media_position: left
+        media_position: right
         media_width: sixty
       - title: Sede del congreso
         content: >
