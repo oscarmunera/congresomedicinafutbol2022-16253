@@ -20,7 +20,7 @@
             },
             {
                 "label": "Bienvenida",
-                "url": "/",
+                "url": "/bienvenida",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
