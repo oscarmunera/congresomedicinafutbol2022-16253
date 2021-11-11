@@ -37,7 +37,7 @@ sections:
         actions:
           - label: Vaya a la ubicación aquí
             url: 'https://goo.gl/maps/P9sasMqJXiNySeqc9'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
