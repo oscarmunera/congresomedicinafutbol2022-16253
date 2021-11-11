@@ -36,7 +36,7 @@ sections:
         title: Lugar
         actions:
           - label: Vaya a la ubicación aquí
-            url: '#'
+            url: 'https://goo.gl/maps/P9sasMqJXiNySeqc9'
             style: link
             has_icon: false
             icon: arrow-left
