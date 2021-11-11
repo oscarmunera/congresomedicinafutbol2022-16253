@@ -98,6 +98,7 @@ sections:
           ### ***Comparte conocimiento con líderes mundiales de opinión en
           ciencias del deporte.***
         align: center
+        image: /images/Temática Congreso (1920 x 1080 px) (5).png
     feature_padding_vert: medium
     align: center
     padding_top: medium
