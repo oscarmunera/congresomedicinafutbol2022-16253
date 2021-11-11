@@ -203,6 +203,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/_MG_6953.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
