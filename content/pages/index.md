@@ -68,7 +68,6 @@ sections:
         title_align: center
         content: >
 
-
           Más de 30 ponencias con los mejores conferencistas nacionales e
           internacionales.
         content_align: center
