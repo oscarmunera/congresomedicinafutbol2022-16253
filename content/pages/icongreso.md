@@ -2,7 +2,7 @@
 title: I congreso
 sections:
   - section_id: lorem-ipsum
-    title: Mejores momento de nuestro I Con
+    title: Mejores momento de nuestro I Congreso Internacional Medicina del fútbol
     subtitle: lorem-ipsum
     actions: []
     grid_items:
