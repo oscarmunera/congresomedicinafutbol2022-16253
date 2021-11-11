@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Video oficial II Congreso Internacional Medicina del fútbol
     subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
