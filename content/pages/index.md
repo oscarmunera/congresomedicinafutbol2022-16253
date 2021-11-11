@@ -59,6 +59,7 @@ sections:
             icon_position: center
             new_window: false
             no_follow: false
+        actions_align: center
       - title: 23 ponentes de 8 países
         title_align: center
         content: >
