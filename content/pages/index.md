@@ -23,12 +23,10 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: center
-        content: >
+        content: |
           Sede Deportiva Club Equidad Seguros.
 
-
-          [Calle 193 9-20](https://goo.gl/maps/P9sasMqJXiNySeqc9)
-          Bogotá-Colombia.
+          Calle 193 9-20 Bogotá-Colombia.
         content_align: center
         image_alt: Section item 1 icon
         image_position: left
