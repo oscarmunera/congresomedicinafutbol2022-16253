@@ -96,14 +96,7 @@ sections:
     features:
       - content: >
           ### ***Comparte conocimiento con líderes mundiales de opinión en
-          ciencias del deporte.***
-
-
-          ***
-
-
-          ### ***Contaremos con ponentes de primer orden mundial quienes
-          compartirán toda su experiencia.***
+          ciencias del deporte quienes compartirán toda su experiencia.***
         align: center
         image: /images/Temática Congreso (1920 x 1080 px) (5).png
         media_width: fourty
