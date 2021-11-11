@@ -91,6 +91,7 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
+    padding_top: small
   - type: features_section
     title: >-
       Vive la mejor experiencia en el mayor evento de medicina deportiva del
