@@ -51,6 +51,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: /images/DOC 2.png
 seo:
   title: ''
   description: ''
