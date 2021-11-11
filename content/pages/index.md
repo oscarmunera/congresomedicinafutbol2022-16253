@@ -90,7 +90,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: secondary
+    background_color: primary
     padding_top: small
     padding_bottom: small
     has_border: false
