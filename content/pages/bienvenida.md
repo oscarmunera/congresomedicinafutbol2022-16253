@@ -25,6 +25,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/DOC 2-ce0b68dd.png
     feature_padding_vert: large
     align: center
     padding_top: medium
