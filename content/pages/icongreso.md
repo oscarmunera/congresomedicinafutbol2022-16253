@@ -280,6 +280,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/_MG_7231.jpg
       - title_align: left
         content_align: left
         actions: []
