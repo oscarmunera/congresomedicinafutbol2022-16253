@@ -28,8 +28,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/_MG_6528.jpg
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
