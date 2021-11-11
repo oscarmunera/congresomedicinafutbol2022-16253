@@ -33,7 +33,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/firma doc.png
-        subtitle: Director II Congresp I
+        subtitle: Director II Congreso Internacional Medicina del Fútbol
     feature_padding_vert: large
     align: center
     padding_top: medium
