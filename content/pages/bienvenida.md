@@ -24,17 +24,6 @@ sections:
         align: left
         image: /images/DOC 2-ce0b68dd.png
       - title: DR. Christian Quiceno
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
