@@ -107,17 +107,6 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: 'I Congreso medicina del Fútbol '
-        content: >
-          Nuestro primer evento fue todo un éxito, contamos con los mejores
-          ponentes quienes compartieron todo su conocimiento y experiencia con
-          los asistentes.
-        actions: []
-        image_alt: foto grupal del Primer congreso
-        media_position: left
-        media_width: fifty
-        align: left
-        image: /images/2 (8).png
       - title: Workshops para grupos limitados
         content: |
           *   *Taller de Nutrición*
@@ -129,6 +118,17 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
+      - title: 'I Congreso medicina del Fútbol '
+        content: >
+          Nuestro primer evento fue todo un éxito, contamos con los mejores
+          ponentes quienes compartieron todo su conocimiento y experiencia con
+          los asistentes.
+        actions: []
+        image_alt: foto grupal del Primer congreso
+        media_position: left
+        media_width: fifty
+        align: left
+        image: /images/2 (8).png
       - title: Presentación de tecnología y maquinaria para entrenamiento deportivo.
         content: >
           Rueda comercial de negocios en donde las marcas patrocinadoras
