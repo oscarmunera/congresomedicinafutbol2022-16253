@@ -96,10 +96,10 @@ sections:
     features:
       - content: >
           ### ***Comparte conocimiento con líderes mundiales de opinión en
-          ciencias del deporte. ***
+          ciencias del deporte.***
 
 
-          ******
+          ***
 
 
           ### ***Contaremos con ponentes de primer orden mundial quienes
