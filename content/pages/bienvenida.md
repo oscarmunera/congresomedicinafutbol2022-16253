@@ -1,7 +1,7 @@
 ---
 title: bienvenida
 sections:
-  - section_id: lorem-ipsum
+  - section_id: bienvenida
     title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
