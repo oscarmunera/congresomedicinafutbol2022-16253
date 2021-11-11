@@ -33,7 +33,7 @@ sections:
         image_width: twenty-five
         title: Lugar
         actions:
-          - label: Vaya a la ubicación aquí
+          - label: Ver ubicación aquí
             url: 'https://goo.gl/maps/P9sasMqJXiNySeqc9'
             style: primary
             has_icon: false
