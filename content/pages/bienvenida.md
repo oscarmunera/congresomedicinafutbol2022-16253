@@ -24,7 +24,6 @@ sections:
         align: left
         image: /images/DOC 2-ce0b68dd.png
       - title: DR. Christian Quiceno
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
