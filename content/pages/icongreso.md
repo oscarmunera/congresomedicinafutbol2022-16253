@@ -2,7 +2,6 @@
 title: I congreso
 sections:
   - title: Videos
-    subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
