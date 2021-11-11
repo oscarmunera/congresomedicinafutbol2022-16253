@@ -64,11 +64,6 @@
                 "no_follow": false
             },
             {
-                "label": "Inscripciones",
-                "url": "/thank-you",
-                "style": "primary"
-            },
-            {
                 "label": "Políticas Covid 19",
                 "url": "#",
                 "style": "link",
@@ -77,6 +72,11 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Inscripciones",
+                "url": "/thank-you",
+                "style": "primary"
             }
         ],
         "primary_nav_links": []
