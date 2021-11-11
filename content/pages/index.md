@@ -120,7 +120,7 @@ sections:
 
 
           *   *Taller de medicina regenerativa (Dirigida por Hernán Giuria/José
-          María Villalón/Christian Quiceno)*
+          María Villalón/Christian Quiceno/Fernando Pastrana)*
         image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
         media_position: right
