@@ -2,7 +2,7 @@
 title: bienvenida
 sections:
   - section_id: lorem-ipsum
-    title: "Bienvenidos\_ al II Congreso Internacional de medicina del fútbol"
+    title: Bienvenidos al II Congreso Internacional de medicina del fútbol
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
