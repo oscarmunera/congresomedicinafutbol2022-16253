@@ -55,7 +55,7 @@
             },
             {
                 "label": "I Congreso",
-                "url": "#",
+                "url": "/icongreso",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
