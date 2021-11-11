@@ -155,18 +155,6 @@ sections:
     title: Galería multimedia
     subtitle: Videos
     features:
-      - title: Presentamos el video oficial de invitación
-        content: >
-          Presentamos el video oficial del II Congreso Internacional de Medicina
-          del Fútbol.
-        media_position: right
-        media_width: sixty
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/kHnBIVsx_BY?start=4" title="YouTube
-          video player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
       - title: Recordamos nuestro I Congreso Internacional de Medicina del fútbol
         content: >
           Christian Quiceno, director de Equidad Sport Medicine nos cuenta lo
