@@ -134,7 +134,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/2 (8).png
-      - title: Presentación de tecnología y maquinaria para entrenamiento deportivo.
+      - title: ¿Estás interesado en qué tu marca
         content: >
           Rueda comercial de negocios en donde las marcas patrocinadoras
           contarán con stands en los cuales podrán interactuar con los
