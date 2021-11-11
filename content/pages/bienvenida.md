@@ -35,7 +35,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: "Bienvenidos\_ al II Congreso Internacional de medicina del fútbol"
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
