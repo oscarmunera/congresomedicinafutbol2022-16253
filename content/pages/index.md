@@ -95,8 +95,8 @@ sections:
       fútbol
     features:
       - content: >
-          ### ***Participe en el evento de divulgación científica de medicina
-          deportiva de mayor impacto en la región.***
+          ### ***Comparte conocimiento con líderes mundiales de opinión en
+          ciencias del deporte.***
         align: center
     feature_padding_vert: medium
     align: center
