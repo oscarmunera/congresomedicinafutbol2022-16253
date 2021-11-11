@@ -43,14 +43,17 @@ sections:
             no_follow: false
         actions_align: center
       - title_align: center
-        content: |
+        content: |+
+
+
           2 Días compartiendo ciencia; jueves 24 y viernes 25 de marzo de 2022.
 
 
 
 
 
-            
+
+
         content_align: center
         image_alt: Section item 2 icon
         image_position: left
