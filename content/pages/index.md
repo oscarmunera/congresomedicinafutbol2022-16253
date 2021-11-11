@@ -55,7 +55,7 @@ sections:
         image_width: twenty-five
         title: Duración
         actions:
-          - label: lorem-ipsum
+          - label: Descarga programa aquí
             url: '#'
             style: primary
             has_icon: false
