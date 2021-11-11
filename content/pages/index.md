@@ -118,12 +118,12 @@ sections:
           Jeukendrup/Mireia Porta)*
 
 
-          *   *Taller de evaluación de la fuerza (Daniel Cohen/Luis Suárez
-          Arrones/Marco Pozzo)*
+          *   *Taller de evaluación de la fuerza (Dirigida por Daniel Cohen/Luis
+          Suárez Arrones/Marco Pozzo)*
 
 
-          *   *Taller de medicina regenerativa (Hernán Giuria/José María
-          Villalón/Christian Quiceno)*
+          *   *Taller de medicina regenerativa (Dirigida por Hernán Giuria/José
+          María Villalón/Christian Quiceno)*
         image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
         media_position: right
