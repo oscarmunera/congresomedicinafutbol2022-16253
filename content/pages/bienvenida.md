@@ -17,7 +17,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - section_id: bienvenida
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
