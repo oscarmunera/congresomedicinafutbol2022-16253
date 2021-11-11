@@ -35,7 +35,7 @@ sections:
         image_width: twenty-five
         title: Lugar
         actions:
-          - label: Vi
+          - label: Vaya a la ubicación aquí
             url: '#'
             style: link
             has_icon: false
