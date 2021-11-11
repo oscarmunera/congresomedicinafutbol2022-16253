@@ -41,7 +41,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/_MG_6528.jpg
-    grid_cols: four
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
