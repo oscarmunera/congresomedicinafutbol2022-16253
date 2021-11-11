@@ -23,7 +23,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/DOC 2-ce0b68dd.png
-      - title: DR. Christian Quiceno
+      - title: Dr. Christian Quiceno
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
