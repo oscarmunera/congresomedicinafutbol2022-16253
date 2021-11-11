@@ -108,12 +108,17 @@ sections:
   - type: features_section
     features:
       - title: Workshops para grupos limitados
-        content: |
-          *   *Taller de Nutrición*
+        content: >
+          *   *Taller de Nutrición deportiva (Dirigida por Asker
+          Jeukendrup/Mireia Porta)*
 
-          *   *Taller de evaluación de la fuerza*
 
-          *   *Taller de medicina regenerativa*
+          *   *Taller de evaluación de la fuerza (Daniel Cohen/Luis Suárez
+          Arrones/Marco Pozzo)*
+
+
+          *   *Taller de medicina regenerativa (Hernán Giuria/José María
+          Villalón/Christian Quiceno)*
         image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
         media_position: right
