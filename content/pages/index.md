@@ -91,7 +91,7 @@ sections:
     background_color: secondary
   - type: features_section
     title: >-
-      Vive la mejor experiencia en el mayor evento en medicina deportiva del
+      Vive la mejor experiencia en el mayor evento de medicina deportiva del
       fútbol
     features:
       - content: >
