@@ -50,6 +50,15 @@ sections:
         image_position: left
         image_width: twenty-five
         title: Duración
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: 23 ponentes de 8 países
         title_align: center
         content: >
