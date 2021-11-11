@@ -74,7 +74,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: Descargue afiche de ponentes aquí
+          - label: Descarga afiche de ponentes aquí
             url: '#'
             style: primary
             has_icon: false
