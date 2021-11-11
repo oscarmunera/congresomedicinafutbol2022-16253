@@ -23,7 +23,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/DOC 2-ce0b68dd.png
-      - title: lorem-ipsum
+      - title: 'DR. '
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
