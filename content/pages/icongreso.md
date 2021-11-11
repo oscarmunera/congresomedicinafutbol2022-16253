@@ -16,6 +16,17 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/_MG_6567.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
         image: /images/_MG_6489.jpg
       - title_align: left
         content_align: left
@@ -39,17 +50,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/_MG_6562.jpg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/_MG_6567.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
