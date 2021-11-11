@@ -1,8 +1,7 @@
 ---
 title: I congreso
 sections:
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
