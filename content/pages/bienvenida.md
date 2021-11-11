@@ -44,6 +44,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/firma doc.png
     feature_padding_vert: large
     align: center
     padding_top: medium
