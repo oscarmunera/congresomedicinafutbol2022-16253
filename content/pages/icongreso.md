@@ -38,6 +38,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/_MG_6562.jpg
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
