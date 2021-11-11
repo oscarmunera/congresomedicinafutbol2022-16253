@@ -25,7 +25,7 @@ sections:
     media_position: top
     media_width: sixty
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
