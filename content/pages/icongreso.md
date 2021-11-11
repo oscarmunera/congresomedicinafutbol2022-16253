@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: I congreso
 sections: []
 seo:
   title: ''
