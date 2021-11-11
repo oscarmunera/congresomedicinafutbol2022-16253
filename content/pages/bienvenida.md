@@ -25,7 +25,7 @@ sections:
         image: /images/DOC 2-ce0b68dd.png
       - title: Dr. Christian Quiceno
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: FIRMA
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
