@@ -99,6 +99,7 @@ sections:
           ciencias del deporte.***
         align: center
         image: /images/Temática Congreso (1920 x 1080 px) (5).png
+        media_width: fourty
     feature_padding_vert: medium
     align: center
     padding_top: medium
