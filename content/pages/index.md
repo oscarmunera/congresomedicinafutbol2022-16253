@@ -40,7 +40,7 @@ sections:
             style: primary
             has_icon: false
             icon: arrow-left
-            icon_position: right
+            icon_position: center
             new_window: false
             no_follow: false
       - title_align: center
