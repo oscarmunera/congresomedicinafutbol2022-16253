@@ -45,7 +45,7 @@ sections:
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
         content: |
-          ###### GARY ODRISCOLL&#xA;Director médico y rendimiento ARSENAL FC
+          ###### Director médico y rendimiento ARSENAL FC
         image: /images/3 (3).png
         image_alt: Speaker 7 photo
         image_position: top
