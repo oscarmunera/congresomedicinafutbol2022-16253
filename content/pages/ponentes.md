@@ -266,22 +266,19 @@ sections:
           Baloncesto.
 
 
-          ###### Médico de selecciones femeninas de fútbol madrileño y español. 
+          ###### Médico de selecciones femeninas de fútbol madrileño y español.
 
 
           ###### Selección Absoluta Fútbol Sala Femenino
-          [RFEF](https://www.rfef.es/). 
+          [RFEF](https://www.rfef.es/).
 
 
           ###### Servicios Médicos Cantera Masculina y Femenina clubes de fútbol
-          español.  
+          español.
 
 
           ###### Docente escuela de entrenadores [RFFM](https://www.rffm.es/) y
           [FEB](https://www.feb.es/inicio.aspx).
-
-
-          [**Twitter**](https://twitter.com/islandwalls)
         image: /images/7 (3).png
         image_alt: Speaker 8 photo
         image_position: top
