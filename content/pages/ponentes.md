@@ -361,8 +361,8 @@ sections:
           ###### Máster en Alto Rendimiento Deportivo.
 
 
-          ###### Preparador Físico de Fútbol en equipos profesionales élite
-          (España-Inglaterra).
+          ###### Preparador físico de fútbol en equipos profesionales élite de
+          España e Inglaterra.
 
 
           ###### Autor de varios libros y artículos de investigación sobre el
