@@ -362,7 +362,7 @@ sections:
             url: 'https://www.instagram.com/hgiuria/'
             style: primary
             has_icon: false
-            icon: arrow-left
+            icon: instagram
             icon_position: right
             new_window: false
             no_follow: false
