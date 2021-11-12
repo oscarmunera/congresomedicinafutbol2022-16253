@@ -566,6 +566,15 @@ sections:
         image: /images/15.png
         image_alt: Speaker 1 photo
         image_position: top
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
