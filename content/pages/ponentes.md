@@ -555,14 +555,12 @@ sections:
           ###### Presidente Ejecutivo Club Deportivo La Equidad Seguros.
 
 
-          ###### Administrador de empresas,  Universidad Cooperativa de
-          Colombia.
+          ###### Máster en Derecho Deportivo Universidad de Lleida
+          España.&#xA;&#xA;Administrador de empresas,  Universidad Cooperativa
+          de Colombia.
 
 
           ###### Abogado de la Universidad Católica de Colombia.
-
-
-          ###### Máster en derecho deportivo universidad de Lleida España.
 
 
           ###### [**Twitter**](https://twitter.com/CarlosZu14)
