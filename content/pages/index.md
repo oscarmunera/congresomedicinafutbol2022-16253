@@ -410,7 +410,12 @@ sections:
       - title: Política de tratamiento de datos personales
         content: |
           ###### Descargue nuestra política de tratamiento de datos aquí
-      - title: lorem-ipsum
+      - title: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/fVZvQQEhFOQ" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         subtitle: lorem-ipsum
         title_align: left
         content: >-
