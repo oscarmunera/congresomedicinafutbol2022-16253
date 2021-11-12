@@ -7,7 +7,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/8agoIEv-mt4?start=4" title="YouTube
+          src="https://www.youtube.com/embed/dD0AfeaPV6o?start=4" title="YouTube
           video player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
@@ -18,7 +18,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/dD0AfeaPV6o?start=4" title="YouTube
+          src="https://www.youtube.com/embed/8agoIEv-mt4?start=4" title="YouTube
           video player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
