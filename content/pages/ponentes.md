@@ -754,31 +754,6 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image_opacity: 15
-  - type: grid_section
-    grid_items:
-      - title: Dirección
-        content: >
-          Calle 193 9-20
-
-          Bogotá
-
-          [6](tel:+12345567890)01 6345230
-
-          [C](mailto:email@example.com)ongresomedicinadeportiva@equidadclubdeportivo.coop
-
-
-          Atendemos de 8:00 am a 5:00 pm.
-      - title: Política de tratamiento de datos personales
-        content: |
-          ###### Descargue nuestra política de tratamiento de datos aquí
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
 seo:
   title: Congreso internacional medicina del fútbol
   description: >-
