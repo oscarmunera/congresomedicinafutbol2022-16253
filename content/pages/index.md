@@ -382,7 +382,7 @@ sections:
       - label: Descargue documento aquí
         url: >-
           https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Politicas.pdf
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-right
         icon_position: right
