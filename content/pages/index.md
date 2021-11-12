@@ -433,7 +433,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
     enable_cards: false
