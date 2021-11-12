@@ -387,6 +387,7 @@ sections:
         icon: arrow-right
         icon_position: right
         no_follow: false
+        new_window: true
     actions_position: right
     actions_width: fourty
     align: left
