@@ -392,7 +392,7 @@ sections:
     actions_width: fourty
     align: left
     padding_top: none
-    padding_bottom: large
+    padding_bottom: none
     background_color: primary
     background_image_opacity: 15
   - type: grid_section
