@@ -283,6 +283,15 @@ sections:
         image_alt: Speaker 8 photo
         image_position: top
         title: Elena Isla
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: Hernán Giuria
         subtitle: Argentina
         title_align: left
