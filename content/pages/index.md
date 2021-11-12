@@ -443,7 +443,7 @@ sections:
     padding_top: none
     padding_bottom: medium
     background_color: none
-    has_border: true
+    has_border: false
 seo:
   title: Congreso internacional medicina del fútbol
   description: >-
