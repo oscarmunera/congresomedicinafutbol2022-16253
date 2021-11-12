@@ -402,6 +402,18 @@ sections:
           mercadeo@equidadclubdeportivo.coop*
 
           *Atendemos de 8:00 am a 5:00 pm.*
+      - title: Tratamiento de datos personales
+        content_align: center
+        title_align: center
+        actions:
+          - label: Política de tratamiento de datos aquí
+            url: '#'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title_align: center
         content_align: left
         actions:
@@ -422,18 +434,6 @@ sections:
         image_align: left
         image_has_padding: false
         title: Consideraciones COVID 19
-      - title: Tratamiento de datos personales
-        content_align: center
-        title_align: center
-        actions:
-          - label: Política de tratamiento de datos aquí
-            url: '#'
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
