@@ -237,7 +237,7 @@ sections:
           - label: Registro
             url: /thank-you
             style: primary
-        actions_align: left
+        actions_align: center
         actions_width: full-width
     grid_cols: two
     grid_gap_horiz: large
