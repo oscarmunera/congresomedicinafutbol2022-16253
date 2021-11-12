@@ -6,7 +6,7 @@ sections:
     features:
       - title: 'Queridos amigos:'
         content: >
-          ## Desde la casa del Club Deportivo La Equidad Seguros S.A. reciban
+          #### Desde la casa del Club Deportivo La Equidad Seguros S.A. reciban
           un&#xA;cordial saludo.
 
 
