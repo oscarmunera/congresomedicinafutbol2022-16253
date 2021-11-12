@@ -191,7 +191,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        title: Hi
+        title: High
     feature_padding_vert: large
     align: center
     padding_top: large
