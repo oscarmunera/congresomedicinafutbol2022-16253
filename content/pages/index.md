@@ -91,7 +91,7 @@ sections:
     background_color: none
     padding_top: none
     padding_bottom: small
-    has_border: true
+    has_border: false
   - type: features_section
     title: >-
       Vive la mejor experiencia en el mayor evento de medicina deportiva del
