@@ -4,7 +4,7 @@ sections:
   - section_id: lorem-ipsum
     title: Bienvenidos al II Congreso Internacional de medicina del fútbol
     features:
-      - title: lorem-ipsum
+      - title: Queridos amigos
         subtitle: lorem-ipsum
         content: >
           ## Desde la casa del Club Deportivo La Equidad Seguros S.A. reciban
