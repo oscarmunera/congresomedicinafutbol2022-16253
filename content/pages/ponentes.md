@@ -328,6 +328,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: center
       - title: Hernán Giuria
         subtitle: Argentina
