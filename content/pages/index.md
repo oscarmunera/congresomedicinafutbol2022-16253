@@ -409,7 +409,7 @@ sections:
         content_align: center
         title_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Descargue nuestra política de tratamiento de datos aquí
             url: '#'
             style: link
             has_icon: false
