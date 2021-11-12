@@ -349,7 +349,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/18.png
+        image: /images/19 (1).png
       - title: Javier Mallo
         subtitle: España
         title_align: left
