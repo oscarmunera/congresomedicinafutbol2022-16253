@@ -576,6 +576,7 @@ sections:
             new_window: false
             no_follow: false
         content_align: left
+        actions_align: center
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
