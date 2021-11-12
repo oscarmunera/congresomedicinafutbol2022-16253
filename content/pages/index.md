@@ -188,7 +188,7 @@ sections:
           video player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         title: Highlights I Congreso Internacional Medicina del Fútbol 2019.
