@@ -377,7 +377,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: 'Importante: Descargue consideraciones'
+    title: 'Importante: Descargue consideraciones COVID19'
     actions:
       - label: Inscríbase
         url: /thank-you
