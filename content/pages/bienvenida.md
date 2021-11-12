@@ -1,7 +1,7 @@
 ---
 title: bienvenida
 sections:
-  - section_id: lorem-ipsum
+  - section_id: carta
     title: Bienvenidos al II Congreso Internacional Medicina del Fútbol
     features:
       - title: 'Queridos amigos:'
