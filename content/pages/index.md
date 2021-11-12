@@ -158,7 +158,7 @@ sections:
           nuestras puertas para recibirlos cordialmente.
         image: /images/sede club equidad seguros (3).png
         image_alt: Feature 2 placeholder image
-        media_position: right
+        media_position: left
         media_width: sixty
     feature_padding_vert: large
     align: center
