@@ -44,12 +44,10 @@ sections:
         actions_align: center
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+        content: |+
+          GARY ODRISCOLL
+          Director médico y rendimiento ARSENAL FC
 
-
-          **[Twitter](https://twitter.com/)**
         image: /images/3 (3).png
         image_alt: Speaker 7 photo
         image_position: top
