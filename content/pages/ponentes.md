@@ -346,7 +346,7 @@ sections:
             icon: twitter
             icon_position: center
             new_window: true
-            no_follow: false
+            no_follow: true
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
