@@ -377,7 +377,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Aproveche los precios de 2021.
+    title: 'Importante: Descargue consideraciones'
     actions:
       - label: Inscríbase
         url: /thank-you
