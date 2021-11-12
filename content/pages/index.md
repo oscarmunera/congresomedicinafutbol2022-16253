@@ -217,7 +217,7 @@ sections:
           2022.
         content_align: left
         actions:
-          - label: Registro
+          - label: Regístr
             url: /thank-you
             style: primary
         actions_align: left
