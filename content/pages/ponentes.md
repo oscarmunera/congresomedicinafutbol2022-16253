@@ -270,8 +270,21 @@ sections:
         subtitle: Argentina
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ###### Staff sanatorio Mapaci.
+
+
+          ###### Rosario Medicina y Traumatología del Deporte Experto en
+          Medicina regenerativa y Terapias Biológicas.
+
+
+          ###### Ex médico futbol profesional Club Atlético Rosario Central.
+
+
+          ###### Miembro comision medica Liga Profesional de Futbol Argentina.
+
+
+          ###### Junta directiva Asociación Argentina Traumatología del
+          Deporte.&#xA;&#xA;
         content_align: left
         actions: []
         actions_align: left
