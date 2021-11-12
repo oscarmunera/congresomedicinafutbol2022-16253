@@ -358,15 +358,15 @@ sections:
           en Fisioterapia.
 
 
-          ###### Máster en Alto Rendimiento Deportivo. 
+          ###### Máster en Alto Rendimiento Deportivo.
 
 
           ###### Preparador Físico de Fútbol en equipos profesionales élite
-          (España-Inglaterra ). 
+          (España-Inglaterra).
 
 
           ###### Autor de varios libros y artículos de investigación sobre el
-          entrenamiento en el fútbol y deportes de equipo. 
+          entrenamiento en el fútbol y deportes de equipo.
 
 
           ###### Ponente en congresos Internacionales.
