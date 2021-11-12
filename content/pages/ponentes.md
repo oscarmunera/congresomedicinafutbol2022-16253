@@ -575,7 +575,7 @@ sections:
             icon_position: center
             new_window: false
             no_follow: false
-        content_align: center
+        content_align: left
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
