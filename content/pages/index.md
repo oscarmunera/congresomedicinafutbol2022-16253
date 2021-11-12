@@ -403,7 +403,7 @@ sections:
           mercadeo@equidadclubdeportivo.coop*
 
           *Atendemos de 8:00 am a 5:00 pm.*
-      - title: Tratamiento de datos personales
+      - title: Política de tatamiento de datos personales
         content_align: center
         title_align: center
         actions:
