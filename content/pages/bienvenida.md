@@ -81,7 +81,7 @@ sections:
           No queda más que darles la bienvenida a este, el II Congreso
           Internacional
 
-          de Medicina del Fútbol, un espacio donde la ciencia y el deporte
+          Medicina del Fútbol, un espacio donde la ciencia y el deporte
           convergen para
 
           lograr una experiencia única, llevando la práctica al mundo real de la
