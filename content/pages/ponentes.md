@@ -166,7 +166,7 @@ sections:
         image_position: top
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://twitter.com/DrRobinThorpe'
             style: link
             has_icon: false
             icon: arrow-left
