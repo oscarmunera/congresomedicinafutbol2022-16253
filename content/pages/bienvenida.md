@@ -94,6 +94,14 @@ sections:
 
 
           ¡Bienvenidos!
+
+
+
+
+          Christian Quiceno. MD.
+
+
+          Director científico II Congreso Internacional Medicina del Fútbol.
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
