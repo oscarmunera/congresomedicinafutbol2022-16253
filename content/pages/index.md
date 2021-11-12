@@ -429,7 +429,7 @@ sections:
         image_has_padding: false
         title: Consideraciones COVID 19
     grid_cols: three
-    grid_gap_horiz: medium
+    grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: false
     align: center
