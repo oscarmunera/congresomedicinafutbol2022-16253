@@ -341,7 +341,7 @@ sections:
         actions:
           - label: ' '
             url: 'https://twitter.com/juancq09'
-            style: link
+            style: primary
             has_icon: true
             icon: twitter
             icon_position: right
