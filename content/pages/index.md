@@ -65,9 +65,9 @@ sections:
       - title: 23 ponentes de 9 países.
         title_align: center
         content: |
-          Más de 30 conferencias académicas 
+          Más de 30 conferencias académicas
 
-          destacados ponentes nacionales e internacionales.
+          de destacados ponentes nacionales e internacionales.
         content_align: center
         image_alt: Section item 3 icon
         image_position: left
