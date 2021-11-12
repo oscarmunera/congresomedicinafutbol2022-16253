@@ -385,13 +385,13 @@ sections:
         title_align: left
         content: >
           ###### Nutricionista deportivo y fisiólogo del ejercicio Birmingham
-          University UK. 
+          University-Inglaterra.
 
 
-          ###### Director My Sport Science UK.
+          ###### Director My Sport Science Inglaterra.
 
 
-          ###### Ex-Director de Gatorade Sports Science Institute. 
+          ###### Ex-Director de Gatorade Sports Science Institute.
 
 
           ###### Múltiples publicaciones en las principales revistas de
