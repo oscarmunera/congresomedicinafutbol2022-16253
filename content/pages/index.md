@@ -388,7 +388,7 @@ sections:
         icon_position: right
         no_follow: false
         new_window: true
-    actions_position: bottom
+    actions_position: left
     actions_width: fourty
     align: left
     padding_top: large
