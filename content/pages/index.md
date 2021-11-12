@@ -407,6 +407,7 @@ sections:
         content: |
           ###### Descargue nuestra política de tratamiento de datos aquí
         content_align: center
+        title_align: center
       - title_align: center
         content_align: left
         actions:
