@@ -225,13 +225,17 @@ sections:
       - title: Profesionales
         subtitle: Marzo 24-25
         title_align: left
-        content: |
+        content: >
           ###### $ US 160 ($ COP 600.000) **-10% antes del 31/12/2021**
+
 
           Profesionales de todas las áreas de ciencias del deporte.
 
+
           *   Cupo limitado.
-          *   Acceso completo a todas las charlas y conferencias.
+
+          *   Acceso completo a todas las charlas, conferencias y rueda
+          comercial
         content_align: left
         actions:
           - label: Regístrese aquí
