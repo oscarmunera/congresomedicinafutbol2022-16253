@@ -407,17 +407,6 @@ sections:
         content: |
           ###### Descargue nuestra política de tratamiento de datos aquí
       - title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions:
           - label: Descargue consideraciones covid19 aquí
