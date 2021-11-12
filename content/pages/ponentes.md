@@ -53,15 +53,15 @@ sections:
       - title: José María Villalón
         subtitle: España
         content: >
-          ###### Licenciado en medicina y Cirugía por la universidad Complutense
-          de Madrid. 
+          ###### Licenciado en medicina y cirugía por la Universidad Complutense
+          de Madrid.
 
 
           ###### Doctor en medicina física y rehabilitación por la universidad
-          complutense de Madrid. 
+          complutense de Madrid.
 
 
-          ###### MSc en Traumatología y Medicina del deporte. 
+          ###### MSc en Traumatología y Medicina del deporte.
 
 
           ###### Director de los servicios médicos del Club Atlético de Madrid.
