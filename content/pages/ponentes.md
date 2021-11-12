@@ -105,7 +105,7 @@ sections:
           United.
 
 
-          ###### PhD en Sport Science en la universidad de Milán, Italia.
+          ###### PhD en Sport Science en la Universidad de Milán, Italia.
 
 
           ###### Diferentes publicaciones científicas en revistas de ciencia y
