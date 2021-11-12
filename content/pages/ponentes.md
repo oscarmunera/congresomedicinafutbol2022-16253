@@ -340,7 +340,7 @@ sections:
         content_align: left
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://twitter.com/juancq09'
             style: link
             has_icon: false
             icon: arrow-left
