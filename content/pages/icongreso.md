@@ -32,17 +32,6 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/8agoIEv-mt4?start=4" title="YouTube
-          video player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: top
-        media_width: fifty
-        align: left
-      - actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aL37Bw_Xcn4?start=4" title="YouTube
           video player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -77,6 +66,17 @@ sections:
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/xrV6_wvPtPA?start=4" title="YouTube
+          video player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: top
+        media_width: fifty
+        align: left
+      - actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/8agoIEv-mt4?start=4" title="YouTube
           video player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
