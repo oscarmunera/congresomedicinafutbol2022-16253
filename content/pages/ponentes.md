@@ -140,7 +140,7 @@ sections:
         subtitle: USA
         content: >
           ###### Director de rendimiento y preparación física del Manchester
-          United FC, UK. 
+          United FC-Inglaterra.
 
 
           ###### Líder en investigación sobre manejo de la fatiga, recuperación
