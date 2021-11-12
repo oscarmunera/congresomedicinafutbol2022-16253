@@ -6,9 +6,9 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >+
-          ## Queridos amigos&#xA;&#xA;Desde la casa del Club Deportivo La
-          Equidad Seguros S.A. reciban un&#xA;cordial saludo.
+        content: >
+          ## Desde la casa del Club Deportivo La Equidad Seguros S.A. reciban
+          un&#xA;cordial saludo.
 
 
           La capacidad del mundo para readaptarse no fue ajena a la dinámica del
@@ -95,7 +95,6 @@ sections:
 
 
           ¡Bienvenidos!
-
         actions: []
         image_alt: lorem-ipsum
         media_position: top
