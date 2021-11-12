@@ -432,7 +432,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        title: Consideraciones COVID II Congreso Inter Medicina del Fútbol
+        title: Consideraciones COVID 19
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
