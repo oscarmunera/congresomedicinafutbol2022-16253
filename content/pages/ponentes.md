@@ -284,7 +284,7 @@ sections:
         image_position: top
         title: Elena Isla
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: 'https://twitter.com/islandwalls'
             style: link
             has_icon: false
