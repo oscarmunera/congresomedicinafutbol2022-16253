@@ -568,7 +568,7 @@ sections:
         image_position: top
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://twitter.com/CarlosZu14'
             style: link
             has_icon: false
             icon: arrow-left
