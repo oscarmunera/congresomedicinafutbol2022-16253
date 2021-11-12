@@ -434,7 +434,7 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: false
