@@ -410,7 +410,7 @@ sections:
       - title: Política de tratamiento de datos personales
         content: |
           ###### Descargue nuestra política de tratamiento de datos aquí
-      - title_align: left
+      - title_align: center
         content: >-
           ## Lorem ipsum
 
