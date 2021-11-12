@@ -165,7 +165,7 @@ sections:
         image_alt: Speaker 3 photo
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: 'https://twitter.com/DrRobinThorpe'
             style: link
             has_icon: false
