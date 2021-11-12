@@ -397,11 +397,11 @@ sections:
     grid_items:
       - title: Contacto
         content: |
-          Calle 193 9-20 Bogotá
-          [6](tel:+12345567890)01 6345230
-          mercadeo@equidadclubdeportivo.coop
+          *Calle 193 9-20 Bogotá
+          Teléfono 601 6345230
+          mercadeo@equidadclubdeportivo.coop*
 
-          Atendemos de 8:00 am a 5:00 pm.
+          *Atendemos de 8:00 am a 5:00 pm.*
       - title: Tratamiento de datos personales
         content_align: center
         title_align: center
