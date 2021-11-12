@@ -409,7 +409,7 @@ sections:
         content_align: center
         title_align: center
         actions:
-          - label: Descargue nuestra política de tratamiento de datos aquí
+          - label: Descargue política de tratamiento de datos aquí
             url: '#'
             style: primary
             has_icon: false
