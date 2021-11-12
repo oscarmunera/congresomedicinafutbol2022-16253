@@ -570,7 +570,7 @@ sections:
           - label: ' '
             url: 'https://twitter.com/CarlosZu14'
             style: primary
-            has_icon: false
+            has_icon: true
             icon: twitter
             icon_position: right
             new_window: false
