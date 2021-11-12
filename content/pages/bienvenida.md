@@ -96,7 +96,7 @@ sections:
           ¡Bienvenidos!
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: bottom
         media_width: fifty
         align: left
         image: /images/DOC 2-ce0b68dd.png
