@@ -410,8 +410,7 @@ sections:
       - title: Política de tratamiento de datos personales
         content: |
           ###### Descargue nuestra política de tratamiento de datos aquí
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
