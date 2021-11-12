@@ -335,7 +335,7 @@ sections:
             icon: instagram
             icon_position: center
             new_window: true
-            no_follow: false
+            no_follow: true
         actions_align: center
       - title: Hernán Giuria
         subtitle: Argentina
