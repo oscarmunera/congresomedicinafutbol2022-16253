@@ -245,7 +245,7 @@ sections:
         actions:
           - label: ' '
             url: 'https://www.instagram.com/antoniogomez008/'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
