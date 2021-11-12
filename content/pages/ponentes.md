@@ -163,14 +163,14 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Doctor en ciencias del deporte. 
+          ###### Doctor en ciencias del deporte.
 
 
           ###### Investigador con más de 50 publicaciones sobre fuerza y
-          potencia. 
+          potencia.
 
 
-          ###### Asesor de equipos de premier league, Liga española, NFL, NBA. 
+          ###### Asesor de equipos de Premier League, Liga Española, NFL, NBA.
 
 
           ###### Cofundador y diseñador de las plataformas Forcedecks,
