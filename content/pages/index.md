@@ -228,7 +228,7 @@ sections:
         content: |
           ###### $ US 160 ($ COP 600.000)**-10% si paga de 31/12/2021**
 
-          Profesionales e independientes
+          Profesionales de todas las áreas de Ciencias del deporte.
 
           *   Cupo limitado.
           *   Acceso completo a todas las charlas y conferencias.
