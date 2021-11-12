@@ -406,6 +406,7 @@ sections:
 
           *Atendemos de 8:00 am a 5:00 pm.*
         title_align: center
+        content_align: center
       - title: Política de tratamiento de datos personales
         content_align: center
         title_align: center
