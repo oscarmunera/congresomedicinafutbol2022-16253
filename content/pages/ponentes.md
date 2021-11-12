@@ -289,7 +289,7 @@ sections:
             style: primary
             has_icon: true
             icon: twitter
-            icon_position: right
+            icon_position: center
             new_window: false
             no_follow: false
       - title: Hernán Giuria
