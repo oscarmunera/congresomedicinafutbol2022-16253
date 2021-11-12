@@ -395,7 +395,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 15
-    has_border: true
+    has_border: false
   - type: grid_section
     grid_items:
       - title: Contacto
