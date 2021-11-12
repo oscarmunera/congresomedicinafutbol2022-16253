@@ -106,7 +106,7 @@ sections:
             new_window: false
             no_follow: false
           - label: ' '
-            url: '#'
+            url: 'https://www.instagram.com/lsuarez_arrones/'
             style: link
             has_icon: false
             icon: arrow-left
