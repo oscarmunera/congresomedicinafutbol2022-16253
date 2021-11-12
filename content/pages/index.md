@@ -191,7 +191,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        title: Highlights I Congreso Internacional Medicina del fútbol
+        title: Highlights I Congreso Internacional Medicina del fútbol 2019
     feature_padding_vert: large
     align: center
     padding_top: large
