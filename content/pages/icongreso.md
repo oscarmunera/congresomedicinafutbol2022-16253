@@ -94,7 +94,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    subtitle: Mejores momentos de nuestro I Congreso Internacional Medicina del fútbol
+    subtitle: Mejorede nuestro I Congreso Internacional Medicina del fútbol
   - section_id: galeria
     title: Galería fotográfica
     actions: []
