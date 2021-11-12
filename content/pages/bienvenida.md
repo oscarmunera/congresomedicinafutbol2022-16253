@@ -40,14 +40,10 @@ sections:
           Confiados en que el panorama será mucho mejor el año que viene,
           Equidad
 
-          Sports Medicine se honra en invitarlos al II Congreso Internacional de
+          Sports Medicine se honra en invitarlos al II Congreso Internacional
           Medicina
 
-          del Fútbol, un evento ya adopta la referencia de los grandes eventos
-          de las
-
-          ciencias del deporte, contando con ponentes de primera categoría,
-          quienes han
+          del Fútbol, contando con ponentes de primera categoría, quienes han
 
           desarrollado y consolidado trabajos importantes para el crecimiento
           del fútbol
