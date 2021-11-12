@@ -73,6 +73,15 @@ sections:
         image: /images/8 (1).png
         image_alt: Speaker 6 photo
         image_position: top
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: Luis Suárez Arrones
         subtitle: Suiza
         content: |
