@@ -100,7 +100,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/DOC 2-ce0b68dd.png
-      - title: Dr. Christian Quiceno
+      - title: Dr. Christian Quiceno.
         actions: []
         image_alt: FIRMA
         media_position: top
