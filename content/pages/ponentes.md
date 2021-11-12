@@ -7,8 +7,9 @@ sections:
     grid_items:
       - title: Christian Quiceno
         subtitle: Colombia
-        content: >+
-          ###### Director Médico del Club deportivo la Equidad Seguros.
+        content: >
+          ###### Director Médico y Científico del Club Deportivo La Equidad
+          Seguros.
 
 
           ###### Médico y cirujano de la Universidad de Antioquia.
@@ -18,8 +19,8 @@ sections:
           deporte Universidad de Antioquia.
 
 
-          ###### Asesor en medicina deportiva a nivel nacional e internacional.
-
+          ###### Ponente y asesor en medicina deportiva a nivel nacional e
+          internacional.
         image: /images/14.png
         image_alt: Speaker 2 photo
         image_position: top
