@@ -654,7 +654,7 @@ sections:
           Colombia.
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
