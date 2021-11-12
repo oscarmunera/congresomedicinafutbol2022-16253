@@ -359,7 +359,7 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://www.instagram.com/hgiuria/'
             style: link
             has_icon: false
             icon: arrow-left
