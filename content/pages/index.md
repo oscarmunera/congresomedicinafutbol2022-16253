@@ -396,15 +396,11 @@ sections:
   - type: grid_section
     grid_items:
       - title: Contacto
-        content: >
+        content: |
           Calle 193 9-20
-
           Bogotá
-
           [6](tel:+12345567890)01 6345230
-
-          [C](mailto:email@example.com)ongresomedicinadeportiva@equidadclubdeportivo.coop
-
+          mercadeo@equidadclubdeportivo.coop
 
           Atendemos de 8:00 am a 5:00 pm.
       - title: Política de tratamiento de datos personales
