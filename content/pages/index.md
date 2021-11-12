@@ -154,7 +154,7 @@ sections:
         content: >
           El Club Deportivo La Equidad Seguros, cuenta con una de las mejores
           instalaciones del fútbol profesional colombiano, conformada por una
-          sede administrativa y deportiva de primer nivel. Una vez más abrimos
+          sede administrativa y deportiva a la vanguardia. Una vez más abrimos
           nuestras puertas para recibirlos cordialmente.
         image: /images/sede club equidad seguros (3).png
         image_alt: Feature 2 placeholder image
