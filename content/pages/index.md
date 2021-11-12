@@ -97,8 +97,8 @@ sections:
       fútbol
     features:
       - content: >
-          ### ***Comparte conocimiento con líderes mundiales de opinión en
-          ciencias del deporte quienes compartirán toda su experiencia.***
+          ### ***Comparte conocimiento con los líderes mundiales de opinión en
+          ciencias del deporte.***
         align: center
         image: /images/Temática Congreso (1920 x 1080 px) (5).png
         media_width: fourty
