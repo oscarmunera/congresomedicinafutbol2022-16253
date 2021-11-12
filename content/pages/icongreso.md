@@ -3,8 +3,7 @@ title: I congreso
 sections:
   - title: Videos
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
