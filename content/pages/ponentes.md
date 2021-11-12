@@ -173,6 +173,7 @@ sections:
             icon_position: center
             new_window: true
             no_follow: false
+        actions_align: center
       - title: Daniel Cohen
         subtitle: Reino Unido
         title_align: left
