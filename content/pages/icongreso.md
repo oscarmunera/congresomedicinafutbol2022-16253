@@ -80,6 +80,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    subtitle: Mejores momentos de nuestro I Congreso Internacional Medicina del fútbol
   - section_id: lorem-ipsum
     title: Mejores momentos de nuestro I Congreso Internacional Medicina del fútbol
     actions: []
