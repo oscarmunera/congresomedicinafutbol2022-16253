@@ -415,7 +415,7 @@ sections:
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
-        content: >
+        content: >+
           ###### Nutricionista deportivo y fisiólogo del ejercicio Birmingham
           University-Inglaterra.
 
@@ -429,8 +429,6 @@ sections:
           ###### Múltiples publicaciones en las principales revistas de
           nutrición deportiva y libros a nivel mundial.
 
-
-          [**Twitter**](https://twitter.com/Jeukendrup)
         content_align: left
         actions: []
         actions_align: left
