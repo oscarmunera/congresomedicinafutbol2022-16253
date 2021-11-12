@@ -425,7 +425,8 @@ sections:
         content_align: left
         actions:
           - label: Descargue consideraciones covid19 aquí
-            url: '#'
+            url: >-
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Politicas.pdf
             style: primary
             has_icon: false
             icon: arrow-left
