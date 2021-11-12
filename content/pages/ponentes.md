@@ -81,7 +81,7 @@ sections:
             icon: instagram
             icon_position: center
             new_window: true
-            no_follow: false
+            no_follow: true
       - title: Luis Suárez Arrones
         subtitle: Suiza
         content: |
