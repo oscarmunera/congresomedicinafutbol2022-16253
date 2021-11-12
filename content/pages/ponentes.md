@@ -567,7 +567,7 @@ sections:
         image_alt: Speaker 1 photo
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: '#'
             style: link
             has_icon: false
