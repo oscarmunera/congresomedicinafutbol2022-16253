@@ -200,7 +200,7 @@ sections:
             icon_position: center
             new_window: false
             no_follow: false
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
