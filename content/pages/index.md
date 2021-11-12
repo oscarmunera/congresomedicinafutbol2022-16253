@@ -410,10 +410,7 @@ sections:
       - title: Política de tratamiento de datos personales
         content: |
           ###### Descargue nuestra política de tratamiento de datos aquí
-      - title: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/fVZvQQEhFOQ" title="YouTube vid
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
