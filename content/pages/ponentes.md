@@ -262,7 +262,7 @@ sections:
 
 
           [**Twitter**](https://twitter.com/islandwalls)
-        image: /images/7 (1).png
+        image: /images/7 (3).png
         image_alt: Speaker 8 photo
         image_position: top
         title: Elena Isla
