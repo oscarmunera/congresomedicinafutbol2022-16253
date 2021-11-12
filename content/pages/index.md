@@ -432,7 +432,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        title: Consideraciones COVID II Congreso de Medicina del Fútbol
+        title: Consideraciones COVID II Congreso Intenc Medicina del Fútbol
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
