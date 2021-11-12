@@ -7,7 +7,7 @@ sections:
       - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          <iframe width="960" height="515"
+          <iframe width="960" height="715"
           src="https://www.youtube.com/embed/EPXw6bcByJk?start=1" title="YouTube
           video player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
