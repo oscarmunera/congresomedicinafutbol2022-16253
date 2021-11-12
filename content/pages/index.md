@@ -85,7 +85,7 @@ sections:
         image_align: center
     grid_cols: three
     grid_gap_horiz: large
-    grid_gap_vert: small
+    grid_gap_vert: medium
     enable_cards: true
     align: center
     background_color: none
