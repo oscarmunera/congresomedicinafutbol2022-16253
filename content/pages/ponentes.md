@@ -161,9 +161,6 @@ sections:
 
           ###### Múltiples publicaciones en las principales revistas de medicina
           deportiva.
-
-
-          [**Twitter**](https://twitter.com/DrRobinThorpe)
         image: /images/12.png
         image_alt: Speaker 3 photo
         image_position: top
