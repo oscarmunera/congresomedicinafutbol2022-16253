@@ -112,12 +112,12 @@ sections:
     features:
       - title: Workshops para grupos limitados
         content: >
-          *   *Taller de Nutrición deportiva (Dirigida por Asker
-          Jeukendrup/Mireia Porta)*
+          *   *Taller de Nutrición deportiva Patrocinado por MySportScience
+          (Dirigida por Asker Jeukendrup/Mireia Porta)*
 
 
           *   *Taller de evaluación de la fuerza (Dirigida por Daniel Cohen/Luis
-          Suárez Arrones/Marco Pozzo)*
+          Suárez Arrones/Marco Pozzo/Ángel Aceña)*
 
 
           *   *Taller de medicina regenerativa (Dirigida por Hernán Giuria/José
