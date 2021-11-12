@@ -73,7 +73,8 @@ sections:
         image_width: twenty-five
         actions:
           - label: Descarga afiche de ponentes aquí
-            url: '#'
+            url: >-
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Tematica-Congreso-5.pdf
             style: primary
             has_icon: false
             icon: arrow-left
