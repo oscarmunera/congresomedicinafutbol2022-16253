@@ -65,8 +65,8 @@ sections:
       - title: 23 ponentes de 9 países.
         title_align: center
         content: >
-          Más de 30 ponencias de destacados conferencistas nacionales e
-          internacionales.
+          Más de 30 ponencias sobre medicina del fútbol de destacados
+          conferencistas nacionales e internacionales.
         content_align: center
         image_alt: Section item 3 icon
         image_position: left
