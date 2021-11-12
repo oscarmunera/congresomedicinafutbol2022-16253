@@ -286,7 +286,7 @@ sections:
         actions:
           - label: ' '
             url: 'https://twitter.com/islandwalls'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
