@@ -424,7 +424,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: Descargue consideraciones covid16
+          - label: Descargue consideraciones covid19 aquí
             url: '#'
             style: link
             has_icon: false
