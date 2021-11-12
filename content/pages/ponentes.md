@@ -432,7 +432,7 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://twitter.com/Jeukendrup'
             style: link
             has_icon: false
             icon: arrow-left
