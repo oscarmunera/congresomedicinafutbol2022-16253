@@ -234,7 +234,7 @@ sections:
           *   Acceso completo a todas las charlas y conferencias.
         content_align: left
         actions:
-          - label: Registro
+          - label: Regístrese aquí
             url: /thank-you
             style: primary
         actions_align: center
