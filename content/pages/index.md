@@ -84,7 +84,7 @@ sections:
         actions_align: center
         image_align: center
     grid_cols: three
-    grid_gap_horiz: large
+    grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
     align: center
