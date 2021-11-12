@@ -571,7 +571,7 @@ sections:
             url: 'https://twitter.com/CarlosZu14'
             style: primary
             has_icon: false
-            icon: arrow-left
+            icon: twitter
             icon_position: right
             new_window: false
             no_follow: false
