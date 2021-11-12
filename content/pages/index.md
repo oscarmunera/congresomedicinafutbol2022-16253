@@ -379,7 +379,7 @@ sections:
   - type: cta_section
     title: 'Importante: Descargue consideraciones COVID19'
     actions:
-      - label: Inscríbase
+      - label: Desc
         url: /thank-you
         style: primary
         has_icon: true
