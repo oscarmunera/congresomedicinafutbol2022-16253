@@ -285,7 +285,7 @@ sections:
         title: Elena Isla
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://twitter.com/islandwalls'
             style: link
             has_icon: false
             icon: arrow-left
