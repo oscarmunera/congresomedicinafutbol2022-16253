@@ -63,11 +63,6 @@ sections:
           allowfullscreen></iframe>
       - actions: []
         image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-      - actions: []
-        image_alt: lorem-ipsum
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/8agoIEv-mt4?start=4" title="YouTube
