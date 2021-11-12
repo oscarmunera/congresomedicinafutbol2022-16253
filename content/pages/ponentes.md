@@ -218,7 +218,7 @@ sections:
           ###### Head Rehab Fitness Coach Wattford.
 
 
-          ###### Profesor Posgrados / Master / Títulos Propios.
+          ###### Selección Costa Rica, Copa Mundial Rusia 2018.
 
 
           ###### Preparación Física y la Prevención Readaptación deportiva (UCV,
