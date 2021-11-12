@@ -528,8 +528,17 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ###### Director técnico Club Deportivo La Equidad Seguros.
+
+
+          ###### Licencia Pro Nacional Federación Colombiana de Fútbol-Conmebol.
+
+
+          ###### Conferencista experto en liderazgo, motivación y trabajo en
+          equipo.
+
+
+          ###### Exjugador Selección Colombia.
         content_align: left
         actions: []
         actions_align: left
