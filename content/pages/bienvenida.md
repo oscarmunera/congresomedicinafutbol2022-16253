@@ -96,6 +96,7 @@ sections:
           ¡Bienvenidos!
 
 
+          ![](/images/firma_medico.png)
 
 
           Christian Quiceno. MD.
