@@ -52,9 +52,6 @@ sections:
           allowfullscreen></iframe>
       - actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          w="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: top
         media_width: fifty
         align: left
