@@ -226,14 +226,13 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: |
-          ###### $ US 160 ($ COP 600.000)**-10% si paga de 31/12/2021**
+          ###### $ US 160 ($ COP 600.000) **-10% si paga de 31/12/2021**
 
           Profesionales de todas las áreas de ciencias del deporte.
 
-
-
           *   Cupo limitado.
           *   Acceso completo a todas las charlas y conferencias.
+          *   22
         content_align: left
         actions:
           - label: Regístrese aquí
