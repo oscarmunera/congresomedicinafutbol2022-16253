@@ -230,6 +230,8 @@ sections:
 
           Profesionales de todas las áreas de ciencias del deporte.
 
+
+
           *   Cupo limitado.
           *   Acceso completo a todas las charlas y conferencias.
         content_align: left
