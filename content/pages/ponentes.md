@@ -658,7 +658,7 @@ sections:
             url: 'https://www.instagram.com/astrid.quinchia/'
             style: primary
             has_icon: true
-            icon: arrow-left
+            icon: instagram
             icon_position: right
             new_window: false
             no_follow: false
