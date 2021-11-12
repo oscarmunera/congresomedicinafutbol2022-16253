@@ -687,7 +687,7 @@ sections:
           ###### Exjugador Selección Colombia.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: 'https://www.instagram.com/maestro_alexis/'
             url: '#'
             style: link
             has_icon: false
