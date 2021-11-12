@@ -89,8 +89,6 @@ sections:
           ###### Profesor de la universidad Pablo de Olavide.
 
           ###### Ex Fiorentina FC, Selección Nacional de Qatar.
-
-          [**Twitter**](https://twitter.com/LSuarez_Arrones)
         image: /images/6 (2).png
         image_alt: Speaker 5 photo
         image_position: top
