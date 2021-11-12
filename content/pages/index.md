@@ -412,9 +412,7 @@ sections:
           ###### Descargue nuestra política de tratamiento de datos aquí
       - title: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/fVZvQQEhFOQ" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypte
+          src="https://www.youtube.com/embed/fVZvQQEhFOQ" title="YouTube vid
         subtitle: lorem-ipsum
         title_align: left
         content: >-
