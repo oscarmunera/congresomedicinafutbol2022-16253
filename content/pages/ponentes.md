@@ -292,6 +292,7 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
+        actions_align: center
       - title: Hernán Giuria
         subtitle: Argentina
         title_align: left
