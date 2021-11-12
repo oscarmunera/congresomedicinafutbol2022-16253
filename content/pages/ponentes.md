@@ -280,7 +280,7 @@ sections:
           League 2016, Subcampeón Supercopa UEFA 2016
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: '#'
             style: link
             has_icon: false
