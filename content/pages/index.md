@@ -174,12 +174,6 @@ sections:
           cuenta lo mejor del primer congreso realizado en el 2019.
         media_position: left
         media_width: sixty
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/uSLxKSJjijQ" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
       - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
