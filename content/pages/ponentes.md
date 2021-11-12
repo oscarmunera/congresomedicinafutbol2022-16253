@@ -75,7 +75,7 @@ sections:
         image_position: top
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://www.instagram.com/juanjobrau/'
             style: link
             has_icon: false
             icon: arrow-left
