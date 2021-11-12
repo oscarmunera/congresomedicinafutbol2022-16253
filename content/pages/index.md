@@ -232,7 +232,7 @@ sections:
 
           *   Cupo limitado.
           *   Acceso completo a todas las charlas y conferencias.
-        content_align: right
+        content_align: left
         actions:
           - label: Registro
             url: /thank-you
