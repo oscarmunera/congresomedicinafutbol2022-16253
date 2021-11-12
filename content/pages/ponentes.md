@@ -193,7 +193,7 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://twitter.com/danielcohen1971'
             style: link
             has_icon: false
             icon: arrow-left
