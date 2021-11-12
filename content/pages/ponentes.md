@@ -186,7 +186,7 @@ sections:
             new_window: true
             no_follow: false
           - label: ' '
-            url: '#'
+            url: 'https://www.instagram.com/dr.robinthorpe/'
             style: link
             has_icon: false
             icon: arrow-left
