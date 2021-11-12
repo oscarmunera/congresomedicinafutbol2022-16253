@@ -205,7 +205,7 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: >
-          ###### $ US 120($ COP 460.000) -10% antes de 31/12/2021
+          ###### $ US 120($ COP 460.000) -10% antes de 31/12/2021.
 
 
           Estudiantes con certificación o carné vigente
