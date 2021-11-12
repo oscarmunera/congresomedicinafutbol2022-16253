@@ -433,7 +433,7 @@ sections:
     grid_gap_vert: small
     enable_cards: false
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     background_color: none
 seo:
