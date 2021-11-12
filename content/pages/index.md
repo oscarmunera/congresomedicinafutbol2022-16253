@@ -439,7 +439,7 @@ sections:
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: false
-    align: right
+    align: center
     padding_top: none
     padding_bottom: medium
     background_color: none
