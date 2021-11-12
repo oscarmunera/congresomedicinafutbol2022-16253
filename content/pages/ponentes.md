@@ -101,6 +101,7 @@ sections:
             icon_position: center
             new_window: false
             no_follow: false
+        actions_align: center
       - title: Paolo Gaudino
         subtitle: Reino Unido
         title_align: left
