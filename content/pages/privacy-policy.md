@@ -23,8 +23,7 @@ layout: page
 ---
 ##### Preocupados por la salud de cada uno de nuestros asistentes, el Club&#xA;deportivo La Equidad Seguros S.A. define las siguientes exigencias para el&#xA;desarrollo seguro de nuestro congreso: 
 
-*   Se solicitará la asistencia de los participantes con certificado de vacunación
-    (esquema completo).
+*   Se solicitará la asistencia de los participantes con certificado de vacunación (esquema completo).
 
 *   El uso de mascarilla facial (Cubrebocas) es OBLIGATORIA durante todo el evento, no se harán excepciones.
 
@@ -38,91 +37,3 @@ layout: page
 
 El incumplimiento de las anteriores normas o políticas acarreará la expulsión del evento, sin derecho a ningún tipo de resarcimiento económico.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Preocupados por la salud de cada uno de nuestros asistentes, el Club
-deportivo La Equidad Seguros S.A. define las siguientes exigencias para el
-desarrollo seguro de nuestro congreso:
-
- 
-
-ü 
-Se
-solicitará la asistencia de los participantes con certificado de vacunación
-(esquema completo).
-
-ü 
-El uso de
-mascarilla facial (Cubrebocas) es OBLIGATORIA durante todo el evento, no se
-harán excepciones.
-
-ü 
-El
-distanciamiento social definido es de mínimo 2 metros entre asistentes.
-
-ü 
-Nuestros
-workshops y zona de sponsors tendrán aforo limitado y con horario diferenciado.
-
-ü 
-Se debe
-velar por que asistentes, ponentes, sponsors y personal logístico o invitado
-realice el adecuado lavado de manos de manera frecuente durante todo el evento.
-Para lo anterior, se dispone de zonas para tal efecto.
-
-ü 
-Si para la
-fecha presenta alguna sintomatología relacionada con COVID-19 o cuenta con
-prueba PCR positiva inferior a diez (10) dias, agradecemos abstenerse de
-asistir al evento.
-
-El incumplimiento de las anteriores normas o políticas acarreará la
-expulsión del evento, sin derecho a ningún tipo de resarcimiento económico.
