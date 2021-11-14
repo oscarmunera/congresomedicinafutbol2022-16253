@@ -77,10 +77,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Sede del congreso
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
         image: /images/1 (4).png
         image_alt: Feature 2 placeholder image
         media_position: left
