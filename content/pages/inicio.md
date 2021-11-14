@@ -72,7 +72,7 @@ sections:
   - type: features_section
     features:
       - title: Workshops para grupos pequeños
-        image: /images/2 (8).png
+        image: /images/sede club equidad seguros-3d32539a.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
