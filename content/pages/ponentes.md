@@ -637,7 +637,7 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
-          ###### Nutricionista y dietista de la Universidad Nacional de
+          ###### Nutricionista y Dietista de la Universidad Nacional de
           Colombia.
 
 
