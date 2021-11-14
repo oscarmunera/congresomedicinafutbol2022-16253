@@ -51,7 +51,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
-        title: Duración
+        title: Duración.
         actions:
           - label: Descarga programa aquí
             url: '#'
