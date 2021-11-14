@@ -21,23 +21,108 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
+##### Preocupados por la salud de cada uno de nuestros asistentes, el Club&#xA;deportivo La Equidad Seguros S.A. define las siguientes exigencias para el&#xA;desarrollo seguro de nuestro congreso: 
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+*   Se solicitará la asistencia de los participantes con certificado de vacunación
+    (esquema completo).
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
+*   El uso de mascarilla facial (Cubrebocas) es OBLIGATORIA durante todo el evento, no se harán excepciones.
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+*   El distanciamiento social definido es de mínimo 2 metros entre asistentes.
 
-### Morbi Egestas Ullamcorper Vulputate
+*   Nuestros workshops y zona de sponsors tendrán aforo limitado y con horario diferenciado.
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+*   Se debe velar que asistentes, ponentes, sponsors y personal logístico o invitado realice el adecuado lavado de manos de manera frecuente durante todo el evento. Para lo anterior, se dispone de zonas para tal efecto.
 
-### Donec Vitae Tincidunt Erat
+*   Si para la fecha presenta alguna sintomatología relacionada con COVID-19 o cuenta con prueba PCR positiva inferior a diez (10) días, agradecemos abstenerse de asistir al evento.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+El incumplimiento de las anteriores normas o políticas acarreará la expulsión del evento, sin derecho a ningún tipo de resarcimiento económico.
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
 
-## Aliquam at Velit eu Elit Iaculis Cursus
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preocupados por la salud de cada uno de nuestros asistentes, el Club
+deportivo La Equidad Seguros S.A. define las siguientes exigencias para el
+desarrollo seguro de nuestro congreso:
+
+ 
+
+ü 
+Se
+solicitará la asistencia de los participantes con certificado de vacunación
+(esquema completo).
+
+ü 
+El uso de
+mascarilla facial (Cubrebocas) es OBLIGATORIA durante todo el evento, no se
+harán excepciones.
+
+ü 
+El
+distanciamiento social definido es de mínimo 2 metros entre asistentes.
+
+ü 
+Nuestros
+workshops y zona de sponsors tendrán aforo limitado y con horario diferenciado.
+
+ü 
+Se debe
+velar por que asistentes, ponentes, sponsors y personal logístico o invitado
+realice el adecuado lavado de manos de manera frecuente durante todo el evento.
+Para lo anterior, se dispone de zonas para tal efecto.
+
+ü 
+Si para la
+fecha presenta alguna sintomatología relacionada con COVID-19 o cuenta con
+prueba PCR positiva inferior a diez (10) dias, agradecemos abstenerse de
+asistir al evento.
+
+El incumplimiento de las anteriores normas o políticas acarreará la
+expulsión del evento, sin derecho a ningún tipo de resarcimiento económico.
