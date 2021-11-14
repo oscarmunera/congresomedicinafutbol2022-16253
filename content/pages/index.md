@@ -398,8 +398,7 @@ sections:
     has_border: false
   - type: grid_section
     grid_items:
-      - title: >-
-          Contacto                                                                               
+      - title: Contacto.
         content: |
           *Calle 193 9-20 Bogotá
           Teléfono 601 6345230
