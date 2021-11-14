@@ -138,7 +138,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/2 (8).png
-      - title: ¿Estás interesado en qué tu marca participe en el evento?
+      - title: ¿Estás interesado en qué tu marca participe en el evento?.
         content: >
           Contaremos con una rueda comercial de negocios en donde las marcas
           patrocinadoras tendrán stands en los cuales podrán interactuar con los
