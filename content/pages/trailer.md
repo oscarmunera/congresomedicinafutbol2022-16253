@@ -2,7 +2,7 @@
 title: trailer
 sections:
   - section_id: lorem-ipsum
-    title: Video oficial II Congreso Internacional Medicina del fútbol
+    title: Video oficial II Congreso Internacional Medicina del Fútbol
     features:
       - actions: []
         image_alt: lorem-ipsum
