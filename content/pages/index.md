@@ -151,7 +151,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-      - title: Sede del congreso
+      - title: Sede del congreso.
         content: >
           El Club Deportivo La Equidad Seguros, cuenta con una de las mejores
           instalaciones del fútbol profesional colombiano, conformada por una
