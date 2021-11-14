@@ -72,10 +72,6 @@ sections:
   - type: features_section
     features:
       - title: Workshops para grupos pequeños
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
         image: /images/2 (8).png
         image_alt: Feature 1 placeholder image
         media_position: right
