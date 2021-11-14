@@ -169,7 +169,7 @@ sections:
     title: Galería multimedia
     subtitle: Videos
     features:
-      - title: Lo mejor de nuestro I Congreso Internacional de Medicina del Fútbol
+      - title: Lo mejor de nuestro I Congreso Internacional de Medicina del Fútbol.
         content: >
           Christian Quiceno, director científico de Equidad Sports Medicine nos
           cuenta lo mejor del primer congreso realizado en el 2019.
