@@ -111,7 +111,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Workshops para grupos limitados
+      - title: Workshops para grupos limitados.
         content: >
           *   *Taller de Nutrición deportiva Patrocinado por MySportScience
           (Dirigida por Asker Jeukendrup/Mireia Porta)*
