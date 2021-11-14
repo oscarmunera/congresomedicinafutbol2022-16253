@@ -24,7 +24,7 @@ sections:
     grid_items:
       - title_align: center
         content: |
-          Sede Deportiva Club Equidad Seguros.
+          Sede Club Deportivo La Equidad Seguros.
 
           Calle 193 9-20 Bogotá-Colombia.
         content_align: center
