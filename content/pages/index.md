@@ -127,7 +127,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: I Congreso Internacional Medicina del Fútbol
+      - title: I Congreso Internacional Medicina del Fútbol.
         content: >
           Nuestro primer evento fue todo un éxito, contamos con los mejores
           ponentes quienes compartieron todo su conocimiento y experiencia con
