@@ -329,7 +329,7 @@ sections:
   - type: grid_section
     title: >-
       Preguntas frecuentes sobre el II Congreso Internacional de medicina del
-      fútbol
+      fútbol.
     subtitle: Pregunte por más.
     grid_items:
       - title: Pregunta frecuente1?
