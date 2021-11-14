@@ -82,11 +82,6 @@ sections:
         media_position: left
         media_width: sixty
       - title: Presentación de tecnología y maquinaria para entrenamiento deportivo.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
         image: /images/2 (7).png
         image_alt: Feature 3 placeholder image
         media_position: right
