@@ -789,8 +789,6 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: |
-      *
     actions: []
     actions_position: bottom
     actions_width: fourty
