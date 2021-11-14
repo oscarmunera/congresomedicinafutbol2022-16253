@@ -606,15 +606,15 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
-          ###### Director MedSport Colombia. 
+          ###### Director MedSport Colombia.
 
 
           ###### Médico Especialista en Ortopedia y Traumatología Deportiva
           miembro de ISAKOS (Internacional Society of Arthroscopy, Knee Surgery
-          and Orthopaedics Sports Medicine). 
+          and Orthopaedics Sports Medicine).
 
 
-          ###### Especialista en cirugía de rodilla Clínica el Country.
+          ###### Especialista en cirugía de rodilla Clínica El Country.
         content_align: left
         actions:
           - label: ' '
