@@ -96,7 +96,7 @@ sections:
   - type: features_section
     title: >-
       Vive la mejor experiencia en el mayor evento de medicina deportiva del
-      fútbol
+      fútbol.
     features:
       - content: >
           ### ***Comparte conocimientos con los líderes mundiales de opinión en
