@@ -82,7 +82,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Presentación de tecnología y maquinaria para entrenamiento deportivo.
-        image: /images/2 (7).png
+        image: /images/sede club equidad seguros (1).png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
