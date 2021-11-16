@@ -375,8 +375,7 @@ sections:
         title_align: left
         content: >
           Se puede pagar con tarjeta de crédito, débito y por consignación en
-          cuenta corriente, las inscripciones se cierran tan pronto se cumpla
-          con el aforo disponible.
+          cuenta corriente.
         content_align: left
       - title: Tienen descuentos para grupos?
         title_align: left
