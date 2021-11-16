@@ -274,7 +274,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
         image: /images/7 (4).png
       - title_align: left
         content_align: left
