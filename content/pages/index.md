@@ -372,7 +372,7 @@ sections:
         image_has_padding: false
         image: /images/4 (2).png
       - title_align: left
-        content_align: left
+        content_align: center
         actions:
           - label: ' '
             url: 'https://colanta.com/sabe-mas/'
