@@ -92,16 +92,7 @@ sections:
           ¡Bienvenidos!
 
 
-          ![](/images/firmamedico2.png)
-
-
-          Christian Quiceno. MD.
-
-
-          **Director General.**
-
-
-          II Congreso Internacional Medicina del Fútbol.
+          ![](/images/firmamedico3.png)
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
