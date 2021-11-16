@@ -261,7 +261,7 @@ sections:
         content_align: left
         actions:
           - label: ' https://exxentric.com/'
-            url: '#'
+            url: 'https://exxentric.com/'
             style: link
             has_icon: true
             icon: arrow-right
