@@ -5,7 +5,7 @@ sections:
     title: Bienvenidos al II Congreso Internacional Medicina del Fútbol.
     features:
       - title: 'Queridos amigos:'
-        content: >+
+        content: >
           #### Desde la casa del Club Deportivo La Equidad Seguros S.A. reciban
           un&#xA;cordial saludo.
 
@@ -91,6 +91,8 @@ sections:
 
           ¡Bienvenidos!
 
+
+          ![](/images/firmamedico3.png)
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
