@@ -365,37 +365,25 @@ sections:
       fútbol.
     subtitle: Pregunte por más.
     grid_items:
-      - title: Pregunta frecuente1?
+      - title: ¿El congreso tiene opciones de conferencias virtuales?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          El II Congreso Internacional Medicina del Fútbol es ciento por ciento
+          presencial.
         content_align: left
-      - title: Qué hoteles tienen convenio?
+      - title: Medios de pago.
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Se puede pagar con tarjeta de crédito, débito y por consignación en
+          cuenta corriente.
         content_align: left
-      - title: Fechas y medios de pago?
+      - title: ¿Hay descuentos?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
-        content_align: left
-      - title: Tienen descuentos para grupos?
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Para estudiantes se tiene un precio especial y adicional, si completa
+          el proceso de inscripción y pago antes del 31 de diciembre de 2021,
+          tiene un 10% de descuento tanto para estudiantes como para
+          profesionales.
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
