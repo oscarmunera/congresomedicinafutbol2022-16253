@@ -121,8 +121,8 @@ sections:
           Suárez Arrones/Marco Pozzo/Ángel Aceña)*
 
 
-          *   Taller de Uso de los sistemas inerciales en rendimiento deportivo
-          (Dirigida por Freddy Correa)
+          *   *Taller de Uso de los sistemas inerciales en rendimiento deportivo
+          (Dirigida por Freddy Correa)*
         image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
         media_position: right
@@ -372,7 +372,7 @@ sections:
         image_has_padding: false
         image: /images/4 (2).png
       - title_align: left
-        content_align: left
+        content_align: center
         actions:
           - label: ' '
             url: 'https://colanta.com/sabe-mas/'
@@ -387,8 +387,8 @@ sections:
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
-        image_align: left
-        image_has_padding: false
+        image_align: center
+        image_has_padding: true
         image: /images/2 (10).png
     grid_cols: three
     grid_gap_vert: small
