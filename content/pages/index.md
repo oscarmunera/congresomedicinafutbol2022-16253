@@ -281,7 +281,7 @@ sections:
         actions:
           - label: ' '
             url: 'http://www.smartcoach.eu/es/'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
