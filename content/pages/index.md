@@ -335,7 +335,6 @@ sections:
         image_has_padding: false
         image: /images/8 (2).png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
