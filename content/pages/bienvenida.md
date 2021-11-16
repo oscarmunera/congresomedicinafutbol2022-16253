@@ -92,6 +92,9 @@ sections:
           ¡Bienvenidos!
 
 
+          ![](/images/firmamedico2.png)
+
+
           Christian Quiceno. MD.
 
 
