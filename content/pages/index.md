@@ -271,7 +271,7 @@ sections:
         actions_align: center
         actions_width: auto
         image_alt: 'https://exxentric.com/'
-        image_position: top
+        image_position: bottom
         image_width: fifty
         image_align: left
         image_has_padding: false
