@@ -260,7 +260,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Visite www. exxentric.com
+          - label: Visite www.exxentric.com
             url: 'https://exxentric.com/'
             style: primary
             has_icon: false
