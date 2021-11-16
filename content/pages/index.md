@@ -289,6 +289,17 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/5 (4).png
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
         image: /images/3 (4).png
       - title_align: left
         content_align: left
@@ -312,17 +323,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/4 (2).png
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/5 (4).png
       - title_align: left
         content_align: left
         actions: []
