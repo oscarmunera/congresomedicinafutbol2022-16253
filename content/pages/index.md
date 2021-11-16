@@ -379,11 +379,10 @@ sections:
         content_align: left
       - title: ¿ Tienen descuentos especiales ?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Para estudiantes se tiene un precio especial, si completa el proceso
+          de inscripción y pago antes del 31 de diciembre de 2021, tiene un 10%
+          de descuento.
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
