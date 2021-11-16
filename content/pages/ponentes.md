@@ -162,6 +162,18 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Agregar un título (3).png
+        content: >
+          ###### Doctor en ciencia de la actividad física y el deporte.
+
+
+          ###### Director del centro de investigación de alto rendimiento
+          deportivo de la UCAM.
+
+
+          ###### Director of UCAM Spanish Sports University.
+
+
+          ###### Presidente S\&C Society.
       - title: Robin Thorpe
         subtitle: USA
         content: >
