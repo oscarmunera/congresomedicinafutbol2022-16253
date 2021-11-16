@@ -371,7 +371,7 @@ sections:
           El II Congreso Internacional Medicina del Fútbol es ciento por ciento
           presencial.
         content_align: left
-      - title: Fechas y medios de pago.
+      - title: Medios de pago.
         title_align: left
         content: >
           Se puede pagar con tarjeta de crédito, débito y por consignación en
