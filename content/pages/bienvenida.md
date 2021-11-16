@@ -92,7 +92,7 @@ sections:
           ¡Bienvenidos!
 
 
-          ![](/images/CONGRESO%20INTERNACIONAL%20\(400%20x%20200%20px\)%20\(300%20x%20150%20px\)-7bd86ba3.png)
+          ![](/images/CONGRESO%20INTERNACIONAL%20\(400%20x%20200%20px\)%20\(300%20x%20150%20px\)%20\(1\).png)
 
         actions: []
         image_alt: lorem-ipsum
