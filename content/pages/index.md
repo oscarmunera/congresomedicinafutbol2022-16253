@@ -363,7 +363,7 @@ sections:
             icon_position: center
             new_window: true
             no_follow: false
-        actions_align: right
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
