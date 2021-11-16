@@ -367,11 +367,9 @@ sections:
     grid_items:
       - title: ¿ El congreso tiene opciones de conferencias virtuales ?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          El II Congreso Internacional Medicina del Fútbol es ciento por ciento
+          presencial.
         content_align: left
       - title: Qué hoteles tienen convenio?
         title_align: left
