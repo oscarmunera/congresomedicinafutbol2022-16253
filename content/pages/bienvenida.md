@@ -89,13 +89,13 @@ sections:
           Los esperamos a todos con los brazos abiertos.
 
 
-          ¡Bienvenidos! 
+          ¡Bienvenidos!
 
 
           Christian Quiceno. MD.
 
 
-          Director General.
+          **Director General.**
 
 
           II Congreso Internacional Medicina del Fútbol.
