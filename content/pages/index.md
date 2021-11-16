@@ -388,7 +388,7 @@ sections:
         image_position: bottom
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         image: /images/2 (10).png
     grid_cols: three
     grid_gap_vert: small
