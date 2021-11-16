@@ -373,11 +373,10 @@ sections:
         content_align: left
       - title: Fechas y medios de pago.
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Se puede pagar con tarjeta de crédito, débito y por consignación en
+          cuenta corriente, las inscripciones se cierran tan pronto se cumpla
+          con el aforo disponible.
         content_align: left
       - title: Tienen descuentos para grupos?
         title_align: left
