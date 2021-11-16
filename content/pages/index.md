@@ -377,7 +377,7 @@ sections:
           Se puede pagar con tarjeta de crédito, débito y por consignación en
           cuenta corriente.
         content_align: left
-      - title: ¿ Tienen descuentos especiales ?
+      - title: ¿Hay descuentos?
         title_align: left
         content: >
           Para estudiantes se tiene un precio especial, si completa el proceso
