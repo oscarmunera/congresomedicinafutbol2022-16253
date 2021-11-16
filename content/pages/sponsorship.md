@@ -1,5 +1,5 @@
 ---
-title: Agenda
+title: Programa Académico
 seo:
   title: Sponsorship
   description: This is the sponsorship page
