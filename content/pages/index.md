@@ -374,15 +374,15 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
+          - label: ' '
+            url: 'https://colanta.com/sabe-mas/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: true
             no_follow: false
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -396,9 +396,9 @@ sections:
     enable_cards: true
     align: center
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     has_border: false
-    background_color: none
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
