@@ -365,7 +365,7 @@ sections:
       fútbol.
     subtitle: Pregunte por más.
     grid_items:
-      - title: El ?
+      - title: El congreso tiene ?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
