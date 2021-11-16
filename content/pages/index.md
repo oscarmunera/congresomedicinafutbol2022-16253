@@ -121,8 +121,8 @@ sections:
           Suárez Arrones/Marco Pozzo/Ángel Aceña)*
 
 
-          *   *Taller de medicina regenerativa (Dirigida por Hernán Giuria/José
-          María Villalón/Christian Quiceno/Fernando Pastrana)*
+          *   Taller de Uso de los sistemas inerciales en rendimiento deportivo
+          (Dirigida por Freddy Correa)
         image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
         media_position: right
