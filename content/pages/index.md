@@ -259,10 +259,18 @@ sections:
     grid_items:
       - title_align: left
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: Visite www.exxentric.com
+            url: 'https://exxentric.com/'
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: center
+            new_window: true
+            no_follow: true
+        actions_align: center
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: 'https://exxentric.com/'
         image_position: top
         image_width: fifty
         image_align: left
@@ -348,9 +356,9 @@ sections:
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
-    enable_cards: false
+    enable_cards: true
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
