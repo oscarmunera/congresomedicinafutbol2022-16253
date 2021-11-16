@@ -317,7 +317,7 @@ sections:
       - title_align: left
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: '#'
             style: link
             has_icon: false
