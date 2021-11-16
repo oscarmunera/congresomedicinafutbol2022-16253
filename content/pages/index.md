@@ -395,8 +395,8 @@ sections:
     grid_gap_horiz: small
     enable_cards: true
     align: center
-    padding_top: none
-    padding_bottom: none
+    padding_top: small
+    padding_bottom: small
     has_border: false
     background_color: secondary
     background_image_opacity: 0
@@ -435,10 +435,9 @@ sections:
     grid_gap_vert: small
     enable_cards: false
     align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-    background_image: images/faq-background.svg
+    padding_top: small
+    padding_bottom: none
+    background_color: none
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 15
