@@ -71,7 +71,7 @@ export default class GridSection extends React.Component {
                 {!_.isEmpty(actions) && (
                     <div
                         className={classNames('container', 'container--medium', {
-                            'mt-4': gridGapY !== 'large',
+                            'mt-4': gridGapY !== 'none',
                             'mt-3': gridGapY === 'large'
                         })}
                     >
