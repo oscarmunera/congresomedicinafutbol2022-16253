@@ -365,7 +365,7 @@ sections:
       fútbol.
     subtitle: Pregunte por más.
     grid_items:
-      - title: Pregunta frecuente1?
+      - title: '?'
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
