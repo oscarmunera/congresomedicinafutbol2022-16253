@@ -435,7 +435,7 @@ sections:
     grid_gap_vert: small
     enable_cards: false
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: large
     background_color: none
     background_image_repeat: repeat
