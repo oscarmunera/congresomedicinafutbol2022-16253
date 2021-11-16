@@ -83,6 +83,10 @@ sections:
             new_window: true
             no_follow: true
         actions_align: center
+        content: >
+          ###### Fisioterapeuta deportivo y readaptador físico del Barcelona
+          F.C.&#xA;Ponente internacional.&#xA;Fisioterapeuta de la Universitat
+          Internacional de Catalunya.
       - title: Luis Suárez Arrones
         subtitle: Suiza
         content: |
