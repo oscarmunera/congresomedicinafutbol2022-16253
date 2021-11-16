@@ -270,7 +270,7 @@ sections:
             no_follow: true
         actions_align: center
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: 'https://exxentric.com/'
         image_position: top
         image_width: fifty
         image_align: left
