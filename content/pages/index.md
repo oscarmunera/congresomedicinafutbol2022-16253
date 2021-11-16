@@ -262,7 +262,7 @@ sections:
         actions:
           - label: exxentric.com
             url: 'https://exxentric.com/'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: center
