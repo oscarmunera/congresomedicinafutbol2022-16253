@@ -13,7 +13,7 @@ sections:
           La capacidad del mundo para readaptarse no fue ajena a la dinámica del
           fútbol,
 
-          y hoy, aun cuando el contexto de una pandemia deja estela sobre la
+          y hoy, aún cuando el contexto de una pandemia deja estela sobre la
           sociedad a
 
           nivel mundial, vemos con esperanzas el retorno gradual de las
@@ -34,7 +34,7 @@ sections:
           dificultades es lo que nos abre la luz de esperanza para vislumbrar un
           2022
 
-          mucho mejor y más fructífero en todo sentido.
+          exitoso y más fructífero en todo sentido.
 
 
           Confiados en que el panorama será mucho mejor el año que viene,
@@ -92,13 +92,16 @@ sections:
           ¡Bienvenidos!
 
 
-          ![](/images/firma_medico.png)
+          ![](/images/firmamedico2.png)
 
 
           Christian Quiceno. MD.
 
 
-          Director científico II Congreso Internacional Medicina del Fútbol.
+          Director General
+
+
+          II Congreso Internacional Medicina del Fútbol.
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom

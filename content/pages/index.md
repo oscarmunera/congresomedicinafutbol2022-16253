@@ -102,7 +102,7 @@ sections:
           ### ***Comparte conocimientos con los líderes mundiales de opinión en
           ciencias del deporte.***
         align: center
-        image: /images/Temática Congreso (1920 x 1080 px) (5).png
+        image: /images/Temática Congreso (1920 x 1080 px) (6).png
         media_width: fourty
     feature_padding_vert: medium
     align: center
@@ -333,7 +333,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/2 (10).png
+        image: /images/4 (2).png
       - title_align: left
         content_align: left
         actions: []
@@ -344,7 +344,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/4 (2).png
+        image: /images/2 (10).png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
