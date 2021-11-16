@@ -21,4 +21,4 @@ seo:
       value: This is the sponsorship page
 layout: page
 ---
-![](/images/Tem%C3%A1tica%20Congreso%20\(7\).png)
+![](/images/CONGRESO%20INTERNACIONAL%20\(3\).png)
