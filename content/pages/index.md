@@ -380,9 +380,10 @@ sections:
       - title: ¿Hay descuentos?
         title_align: left
         content: >
-          Para estudiantes se tiene un precio especial, si completa el proceso
-          de inscripción y pago antes del 31 de diciembre de 2021, tiene un 10%
-          de descuento.
+          Para estudiantes se tiene un precio especial y adicional, si completa
+          el proceso de inscripción y pago antes del 31 de diciembre de 2021,
+          tiene un 10% de descuento tanto para estudiantes como para
+          profesionales.
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
