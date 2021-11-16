@@ -635,6 +635,9 @@ sections:
           and Orthopaedics Sports Medicine).
 
 
+          ###### Traumatólogo deportivo Club Deportivo La Equidad Seguros.
+
+
           ###### Especialista en cirugía de rodilla Clínica El Country.
         content_align: left
         actions:
