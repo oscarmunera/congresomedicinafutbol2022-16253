@@ -377,7 +377,7 @@ sections:
           Se puede pagar con tarjeta de crédito, débito y por consignación en
           cuenta corriente.
         content_align: left
-      - title: Tienen descuentos para grupos?
+      - title: Tienen descuentos especiales
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
