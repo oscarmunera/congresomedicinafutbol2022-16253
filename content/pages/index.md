@@ -433,9 +433,9 @@ sections:
     grid_items:
       - title: Contacto.
         content: |
-          *Calle 193 9-20 Bogotá
+          Calle 193 9-20 Bogotá
           Teléfono 601 6345230
-          mercadeo@equidadclubdeportivo.coop*
+          congreso.medicinadeportiva@equidadclubdeportivo.coop
 
           *Atendemos de 8:00 am a 5:00 pm.*
         title_align: center
