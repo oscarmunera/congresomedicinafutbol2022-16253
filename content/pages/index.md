@@ -386,7 +386,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
-        image_width: fourty
+        image_width: twenty-five
         image_align: center
         image_has_padding: true
         image: /images/2 (10).png
