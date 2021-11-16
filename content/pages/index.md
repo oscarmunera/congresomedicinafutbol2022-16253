@@ -318,7 +318,7 @@ sections:
         content_align: center
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://www.scs.academy/'
             style: link
             has_icon: false
             icon: arrow-left
