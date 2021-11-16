@@ -263,7 +263,7 @@ sections:
           - label: Visite exxentric
             url: 'https://exxentric.com/'
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: center
             new_window: true
