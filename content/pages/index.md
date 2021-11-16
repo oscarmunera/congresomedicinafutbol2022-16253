@@ -436,7 +436,7 @@ sections:
     enable_cards: false
     align: center
     padding_top: none
-    padding_bottom: large
+    padding_bottom: none
     background_color: none
     background_image_repeat: repeat
     background_image_size: auto
