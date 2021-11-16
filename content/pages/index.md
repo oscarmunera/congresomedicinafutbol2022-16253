@@ -315,7 +315,7 @@ sections:
         image_has_padding: false
         image: /images/5 (4).png
       - title_align: left
-        content_align: left
+        content_align: center
         actions:
           - label: lorem-ipsum
             url: '#'
