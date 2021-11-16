@@ -122,7 +122,7 @@ sections:
 
 
           *   *Taller de Uso de los sistemas inerciales en rendimiento deportivo
-          (Dirigida por Freddy Correa)*
+          (Dirigida por Fredick Correa)*
         image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
         media_position: right
