@@ -98,7 +98,7 @@ sections:
           Christian Quiceno. MD.
 
 
-          Director General
+          **Director General.**
 
 
           II Congreso Internacional Medicina del Fútbol.
