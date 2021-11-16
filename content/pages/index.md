@@ -396,7 +396,7 @@ sections:
     enable_cards: true
     align: center
     padding_top: none
-    padding_bottom: none
+    padding_bottom: small
     has_border: false
     background_color: secondary
     background_image_opacity: 0
