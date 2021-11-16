@@ -324,7 +324,6 @@ sections:
         image_has_padding: false
         image: /images/7 (4).png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
