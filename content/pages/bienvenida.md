@@ -94,11 +94,13 @@ sections:
 
           ![](/images/firmamedico2.png)
 
-              Christian Quiceno. MD.
 
-              Director General.
+          ```
 
-              II Congreso Internacional Medicina del Fútbol.
+          Christian Quiceno. MD.
+
+
+          ```
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
