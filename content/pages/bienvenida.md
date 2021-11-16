@@ -89,18 +89,16 @@ sections:
           Los esperamos a todos con los brazos abiertos.
 
 
-          ¡Bienvenidos!
+          ¡Bienvenidos! 
 
-
-          ![](/images/firmamedico2.png)
-
-
-          ```
 
           Christian Quiceno. MD.
 
 
-          ```
+          Director General.
+
+
+          II Congreso Internacional Medicina del Fútbol.
         actions: []
         image_alt: lorem-ipsum
         media_position: bottom
