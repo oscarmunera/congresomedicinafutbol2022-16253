@@ -242,7 +242,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: /thank-you
+            url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
             style: primary
         actions_align: center
         actions_width: full-width
