@@ -1,7 +1,4 @@
 ---
-title: |-
-  POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES Y AVISO
-  DE PRIVACIDAD LEY DE PROTECCIÓN DE DATOS PERSONALES 1581 DE 2012
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
