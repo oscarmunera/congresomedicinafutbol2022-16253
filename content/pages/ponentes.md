@@ -45,8 +45,18 @@ sections:
         actions_align: center
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
-        content: |
+        content: >
           ###### Director médico y rendimiento Arsenal FC-Inglaterra.
+
+
+          ###### Miembro actual del grupo médico de la Premier League.
+
+
+          ###### Miembro de los paneles de disciplina y dopaje de Rugby.
+
+
+          ###### Anteriormente, jefe de servicios médicos del equipo de rugby de
+          Irlanda.
         image: /images/3 (3).png
         image_alt: Speaker 7 photo
         image_position: top
@@ -527,6 +537,19 @@ sections:
         image_has_padding: false
         image: /images/Agregar un título (19) (2).png
         subtitle: Suecia
+        content: >
+          ###### Director y Co-Fundador de Exxenctic.
+
+
+          ###### Especialista en medicina del deporte.
+
+
+          ###### 25 años como jugador y entrenador de Hockey sobre hielo, en los
+          últimos años ha trabajado en el desarrollo físico y el cuidado de
+          salud.
+
+
+          ###### Participación como pesista para la selección de Suecia.
       - title: Javier Mallo
         subtitle: España
         title_align: left
