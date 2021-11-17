@@ -23,7 +23,7 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-### **POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES DEL&#xA;CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A. **
+### POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES DEL&#xA;CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A. 
 
 El Club Deportivo La Equidad Seguros S.A. identificado
 con el NIT 860.028.415 , con domicilio principal en la ciudad de Bogotá D.C. en
