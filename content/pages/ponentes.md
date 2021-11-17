@@ -396,17 +396,63 @@ sections:
         subtitle: Paraguay
         title_align: left
         content: >
-          ###### Director médico del Comité Olímpico Paraguayo.
+          ###### Coordinador del Centro de Ciencias Aplicadas al deporte del
+          Comité Olímpico Paraguayo, desde 2018.
 
 
-          ###### Médico y cirujano de la Universidad de Antioquia.
+          ###### Medicina Deportiva de Indeportes Antioquia.
 
 
-          ###### Especialista en medicina aplicada a la actividad física y el
-          deporte Universidad de Antioquia.
+          ###### Médico especialista en MedicinaDeportiva (Agosto/98 –
+          Diciembre/2000.
 
 
-          ###### Ex Director médico Coldeportes y Comité Olímpico Colombiano.
+          ###### Asesor de Medicina Deportiva del Instituto Distrital para la
+          Recreación y el&#xA;Deporte, (Mayo 2001 – Mayo 2008)
+
+
+          ###### Médico Academia de Natación de Compensar (Feb 2007- Dic 2012)
+
+
+          ###### Coordinador Médico del Comité Olímpico Colombiano (mayo 2008 –
+          marzo&#xA;2009\).
+
+
+          ###### Asesor de Medicina Deportiva del Instituto Distrital para la
+          Recreación y el&#xA;Deporte (abril 2009 – mayo 2012).
+
+
+          ###### Coordinador de Centro de Ciencias del Deporte de Coldeportes
+          (Junio 2012 –&#xA;2017\).
+
+
+          ###### Co-editor Revista Antioqueña de Medicina Deportiva 1999-2001 
+
+
+          ###### Médico de los Juegos Olímpicos de Sídney, Beijín, Londres, Rio
+          y Tokio.
+
+
+          ###### Médico de 3 Juegos Panamericanos, 4 Juegos Centroamericanos, 4
+          Juegos Suramericanos, 4 Juegos Bolivarianos y 6 Juegos Nacionales de
+          Colombia.
+
+
+          ###### Médico de la Federación Colombiana de Boxeo 1999 – 2017.
+
+
+          ###### Médico de la Federación Colombiana de Natación 2010 – 2017.
+
+
+          ###### Médico del Club Deportivo La Equidad Seguros 2007-2017.
+
+
+          ###### Orden Civil al Mérito Deportivo ciudad de Bogotá, Alcaldía
+          Mayor de Bogotá, Dic 2004.
+
+
+          ###### Presidente de la Asociación de Medicina Deportiva de Colombia
+          -  AMEDCO periodo 2007 - 2009.
         content_align: left
         actions:
           - label: ' '
@@ -751,6 +797,19 @@ sections:
             no_follow: false
         content_align: left
         actions_align: center
+      - title: Fredrik Correa
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/Agregar un título (19) (2).png
+        subtitle: Suecia
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
