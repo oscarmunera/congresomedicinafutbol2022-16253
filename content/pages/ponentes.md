@@ -527,8 +527,16 @@ sections:
       - title: Fredrik Correa
         title_align: left
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: ' '
+            url: 'https://www.instagram.com/fredrik_correa/'
+            style: primary
+            has_icon: true
+            icon: instagram
+            icon_position: center
+            new_window: true
+            no_follow: false
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
