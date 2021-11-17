@@ -1,7 +1,4 @@
 ---
-title: |-
-  POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES Y AVISO
-  DE PRIVACIDAD LEY DE PROTECCIÓN DE DATOS PERSONALES 1581 DE 2012
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
@@ -23,31 +20,20 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-### POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES DEL&#xA;CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A. 
+### POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES DEL CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A. y AVISO DE PRIVACIDAD LEY DE PROTECCIÓN DE DATOS PERSONALES 1581 DE 2012.&#xA;
 
-El Club Deportivo La Equidad Seguros S.A. identificado
-con el NIT 860.028.415 , con domicilio principal en la ciudad de Bogotá D.C. en
-la Calle 193 Número 9-20, con correo electrónico de contacto pqr@equidadclubdeportivo.coop y
-teléfono de contacto en Bogotá 6016545230 , dando cumplimiento a las
-disposiciones constitucionales y legales, especialmente, a lo señalado en la
-Constitución Política de Colombia, a la Ley 1266 de 2008 y a la Ley 1581 de
-2012, sus decretos reglamentarios y demás normas que la modifiquen, aclaren o
-complementen, y en virtud de la presente política, se establecen los términos y
-condiciones bajos los cuales se realizarán las labores de recolección,
-almacenamiento, uso, circulación, supresión y en general, el tratamiento de los
-datos de los titulares de la información, sean estos consumidores financieros,
-intermediarios de seguros, proveedores, aliados estratégicos, colaboradores y
-todos los grupos de interés sobre los cuales Club Deportivo La Equidad Seguros
-S.A. realice tratamiento de información personal.
+POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES DEL CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A
 
-La presente política contiene las condiciones bajo
-las cuales será procesada dicha información y los mecanismos establecidos para
-que los titulares de los datos puedan ejercer sus derechos, de conocer,
-actualizar, rectificar, suprimir información y revocar la autorización
+El Club Deportivo La Equidad Seguros S.A. identificado con el NIT 860.028.415 , con domicilio principal en la ciudad de Bogotá D.C. en
+la Calle 193 Número 9-20, con correo electrónico de contacto pqr@equidadclubdeportivo.coop y  teléfono de contacto en Bogotá 6016545230 , dando cumplimiento a las disposiciones constitucionales y legales, especialmente, a lo señalado en la
+Constitución Política de Colombia, a la Ley 1266 de 2008 y a la Ley 1581 de 2012, sus decretos reglamentarios y demás normas que la modifiquen, aclaren o complementen, y en virtud de la presente política, se establecen los términos y condiciones bajos los cuales se realizarán las labores de recolección, almacenamiento, uso, circulación, supresión y en general, el tratamiento de los datos de los titulares de la información, sean estos consumidores financieros, intermediarios de seguros, proveedores, aliados estratégicos, colaboradores y
+todos los grupos de interés sobre los cuales Club Deportivo La Equidad Seguros S.A. realice tratamiento de información personal. 
+
+La presente política contiene las condiciones bajo las cuales será procesada dicha información y los mecanismos establecidos para
+que los titulares de los datos puedan ejercer sus derechos, de conocer, actualizar, rectificar, suprimir información y revocar la autorización
 otorgada.
 
-Los datos de los titulares de la información serán
-recolectados para ejecutar las obligaciones relacionadas con la preexistencia
+Los datos de los titulares de la información serán recolectados para ejecutar las obligaciones relacionadas con la preexistencia
 de un vínculo jurídico o cualquier otra relación, y su tratamiento se realizará
 únicamente por las personas u operadores autorizados para el desarrollo y la
 gestión integral de los contratos o cualquier otro vínculo jurídico existente
