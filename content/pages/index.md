@@ -478,7 +478,7 @@ sections:
         content_align: center
         title_align: center
         actions:
-          - label: Política de tratamiento de datos aquí
+          - label: Política de tratamiento de datos personales aquí
             url: /politicas-seguridad-datos-personales/
             style: primary
             has_icon: false
