@@ -10,7 +10,7 @@
         "title": "II Congreso Medicina del fútbol",
         "logo": "/images/M.A Sport Medicine Verde 3.png",
         "logo_alt": "Congreso medicina deportiva",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
