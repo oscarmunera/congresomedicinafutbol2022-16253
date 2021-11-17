@@ -400,7 +400,7 @@ sections:
           Comité Olímpico Paraguayo, desde 2018.
 
 
-          ###### Medicina Deportiva de Indeportes Antioquia. 
+          ###### Medicina Deportiva de Indeportes Antioquia.
 
 
           ###### Médico especialista en MedicinaDeportiva (Agosto/98 –
@@ -424,6 +424,35 @@ sections:
 
           ###### Coordinador de Centro de Ciencias del Deporte de Coldeportes
           (Junio 2012 –&#xA;2017\).
+
+
+          ###### Co-editor Revista Antioqueña de Medicina Deportiva 1999-2001 
+
+
+          ###### Médico de los Juegos Olímpicos de Sídney, Beijín, Londres, Rio
+          y Tokio.
+
+
+          ###### Médico de 3 Juegos Panamericanos, 4 Juegos Centroamericanos, 4
+          Juegos Suramericanos, 4 Juegos Bolivarianos y 6 Juegos Nacionales de
+          Colombia.
+
+
+          ###### Médico de la Federación Colombiana de Boxeo 1999 – 2017.
+
+
+          ###### Médico de la Federación Colombiana de Natación 2010 – 2017.
+
+
+          ###### Médico del Club Deportivo La Equidad Seguros 2007-2017.
+
+
+          ###### Orden Civil al Mérito Deportivo ciudad de Bogotá, Alcaldía
+          Mayor de Bogotá, Dic 2004.
+
+
+          ###### Presidente de la Asociación de Medicina Deportiva de Colombia
+          -  AMEDCO periodo 2007 - 2009.
         content_align: left
         actions:
           - label: ' '
