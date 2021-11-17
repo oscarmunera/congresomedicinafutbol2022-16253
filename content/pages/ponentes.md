@@ -396,17 +396,34 @@ sections:
         subtitle: Paraguay
         title_align: left
         content: >
-          ###### Director médico del Comité Olímpico Paraguayo.
+          ###### Coordinador del Centro de Ciencias Aplicadas al deporte del
+          Comité Olímpico Paraguayo, desde 2018.
 
 
-          ###### Médico y cirujano de la Universidad de Antioquia.
+          ###### Medicina Deportiva de Indeportes Antioquia. 
 
 
-          ###### Especialista en medicina aplicada a la actividad física y el
-          deporte Universidad de Antioquia.
+          ###### Médico especialista en MedicinaDeportiva (Agosto/98 –
+          Diciembre/2000.
 
 
-          ###### Ex Director médico Coldeportes y Comité Olímpico Colombiano.
+          ###### Asesor de Medicina Deportiva del Instituto Distrital para la
+          Recreación y el&#xA;Deporte, (Mayo 2001 – Mayo 2008)
+
+
+          ###### Médico Academia de Natación de Compensar (Feb 2007- Dic 2012)
+
+
+          ###### Coordinador Médico del Comité Olímpico Colombiano (mayo 2008 –
+          marzo&#xA;2009\).
+
+
+          ###### Asesor de Medicina Deportiva del Instituto Distrital para la
+          Recreación y el&#xA;Deporte (abril 2009 – mayo 2012).
+
+
+          ###### Coordinador de Centro de Ciencias del Deporte de Coldeportes
+          (Junio 2012 –&#xA;2017\).
         content_align: left
         actions:
           - label: ' '
