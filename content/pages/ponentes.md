@@ -514,6 +514,19 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/19 (1).png
+      - title: Fredrik Correa
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/Agregar un título (19) (2).png
+        subtitle: Suecia
       - title: Javier Mallo
         subtitle: España
         title_align: left
@@ -797,19 +810,6 @@ sections:
             no_follow: false
         content_align: left
         actions_align: center
-      - title: Fredrik Correa
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Agregar un título (19) (2).png
-        subtitle: Suecia
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
