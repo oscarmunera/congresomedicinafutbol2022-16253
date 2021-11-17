@@ -537,6 +537,19 @@ sections:
         image_has_padding: false
         image: /images/Agregar un título (19) (2).png
         subtitle: Suecia
+        content: >
+          ###### Director y Co-Fundador de Exxenctic.
+
+
+          ###### Especialista en medicina del deporte.
+
+
+          ###### 25 años como jugador y entrenador de Hockey sobre hielo, en los
+          últimos años ha trabajado en el desarrollo físico y el cuidado de
+          salud.
+
+
+          ###### Participación como pesista para la selección de Suecia.
       - title: Javier Mallo
         subtitle: España
         title_align: left
