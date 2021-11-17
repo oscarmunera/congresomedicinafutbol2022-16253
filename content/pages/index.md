@@ -75,7 +75,7 @@ sections:
         actions:
           - label: Descarga afiche de ponentes aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/NominaPonentes.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/poster_ponentes.pdf
             style: primary
             has_icon: false
             icon: arrow-left
@@ -102,7 +102,7 @@ sections:
           ### ***Comparte conocimientos con los líderes mundiales de opinión en
           ciencias del deporte.***
         align: center
-        image: /images/Temática Congreso (1920 x 1080 px) (6).png
+        image: /images/Temática Congreso (1920 x 1080 px) (9).png
         media_width: fourty
     feature_padding_vert: medium
     align: center
