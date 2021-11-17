@@ -537,7 +537,7 @@ sections:
             new_window: true
             no_follow: false
           - label: ' '
-            url: '#'
+            url: 'https://twitter.com/FredrikCorrea'
             style: link
             has_icon: false
             icon: arrow-left
