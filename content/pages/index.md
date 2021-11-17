@@ -112,17 +112,19 @@ sections:
   - type: features_section
     features:
       - title: Workshops para grupos limitados.
-        content: >
+        content: >+
           *   *Taller de Nutrición deportiva Patrocinado por MySportScience
           (Dirigida por Asker Jeukendrup/Mireia Porta)*
 
 
-          *   *Taller de evaluación de la fuerza (Dirigida por Daniel Cohen/Luis
-          Suárez Arrones/Marco Pozzo/Ángel Aceña)*
+          *   *Taller diagnóstico de la fuerza y potencia en atletas de alto
+          rendimiento. (Dirigido por Daniel Cohen - Marco Pozzo  Smartcoach).*
 
 
-          *   *Taller de Uso de los sistemas inerciales en rendimiento deportivo
-          (Dirigida por Fredick Correa)*
+          *   *Taller de entrenamiento de la sobrecarga excéntrica para
+          rendimiento deportivo. (Dirigido por Fredrik Correa Exxentric).*
+
+
         image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
         media_position: right
