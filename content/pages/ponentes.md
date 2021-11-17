@@ -532,7 +532,7 @@ sections:
             url: 'https://www.instagram.com/fredrik_correa/'
             style: primary
             has_icon: true
-            icon: linkedin
+            icon: instagram
             icon_position: right
             new_window: false
             no_follow: false
