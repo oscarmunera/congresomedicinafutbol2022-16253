@@ -479,7 +479,7 @@ sections:
         title_align: center
         actions:
           - label: Política de tratamiento de datos aquí
-            url: '#'
+            url: /politicas-seguridad-datos-personales/
             style: primary
             has_icon: false
             icon: arrow-left
