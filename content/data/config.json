@@ -10,7 +10,7 @@
         "title": "II Congreso Medicina del fútbol",
         "logo": "/images/M.A Sport Medicine Verde 3.png",
         "logo_alt": "Congreso medicina deportiva",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
@@ -69,7 +69,18 @@
                 "style": "primary"
             }
         ],
-        "primary_nav_links": []
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "footer": {
         "has_primary_nav": false,
