@@ -798,7 +798,6 @@ sections:
         content_align: left
         actions_align: center
       - title: Fredrik Correa
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
