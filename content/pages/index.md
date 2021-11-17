@@ -62,7 +62,7 @@ sections:
             new_window: false
             no_follow: false
         actions_align: center
-      - title: 23 ponentes de 9 países.
+      - title: 24 ponentes de 9 países.
         title_align: center
         content: |
           Más de 30 conferencias académicas
