@@ -23,14 +23,9 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-###### &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;
+### POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES DEL&#xA;CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A. 
 
-POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES DEL
-CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A.
-
- 
-
-El Club Deportivo La Equidad Seguros S.A. identificada
+El Club Deportivo La Equidad Seguros S.A. identificado
 con el NIT 860.028.415 , con domicilio principal en la ciudad de Bogotá D.C. en
 la Calle 193 Número 9-20, con correo electrónico de contacto pqr@equidadclubdeportivo.coop y
 teléfono de contacto en Bogotá 6016545230 , dando cumplimiento a las
@@ -68,7 +63,7 @@ limitados a socios comerciales, intermediarios de seguros, entidades
 financieras y/o con aquellos con los que se tenga un acuerdo comercial para las
 finalidades señaladas en la presente política.
 
-FINALIDADES:
+###### FINALIDADES:
 
 Los datos personales de los titulares de la
 información serán tratados según el vínculo jurídico existente con Club
@@ -109,7 +104,7 @@ política de tratamiento de datos.
 n. Para las demás finalidades en cumplimiento de deberes
 legales y reportes regulatorios conforme a lo señalado en la ley.
 
-SEGURIDAD EN EL TRATAMIENTO
+###### SEGURIDAD EN EL TRATAMIENTO
 
 Club Deportivo La Equidad Seguros S.A., en estricta
 aplicación del Principio de Seguridad en el tratamiento de datos personales,
@@ -141,7 +136,7 @@ c. Para el cumplimiento legal y reglamentario en
 caso que se necesite por razones de negocio, la transferencia de datos
 personales a encargados con domicilio fuera del país.
 
-DATOS DE NIÑOS, NIÑAS Y ADOLECENTES
+###### DATOS DE NIÑOS, NIÑAS Y ADOLECENTES
 
 El tratamiento de datos de niños, niñas y
 adolescentes se realizará en consideración a los derechos fundamentales que les
@@ -150,7 +145,7 @@ otorgará la autorización al tratamiento de la información del menor, previo
 ejercicio de su derecho a ser escuchado, opinión que será valorada teniendo en
 cuenta la madurez, autonomía y capacidad para entender el asunto.
 
-RESPONSABLE Y CANALES DE CONTACTO
+###### RESPONSABLE Y CANALES DE CONTACTO
 
 Se considerará como responsable del tratamiento de
 la información a Club Deportivo LA Equidad Seguros S.A., según sea el caso,
@@ -159,14 +154,14 @@ son:
 
 Correo electrónico: pqr@equidadclubdeportivo.coop
 
-Teléfono: Línea de atención (60) (1) 7460392 
+Teléfono: Línea de atención (601) 7460392
 
 Página Web: www.equidadclubdeportivo.coop o
 través del enlace https://equidadclubdeportivo.coop/buzon-sugerencias-quejas-reclamos/
 
  
 
-EJERCICIO DE LOS DERECHOS DE LOS TITULARES
+###### EJERCICIO DE LOS DERECHOS DE LOS TITULARES
 
 Los derechos de los Titulares podrán ejercerse por
 las siguientes personas:
@@ -185,13 +180,7 @@ previa acreditación de la representación o apoderamiento.
 Los derechos de los niños, niñas o adolescentes se
 ejercerán por las personas que estén facultadas para representarlos.
 
- 
-
- 
-
-PROCEDIMIENTO PARA QUE LOS TITULARES DE LA
-INFORMACIÓN PUEDAN EJERCER LOS DERECHOS PRESENTAR SUS CONSULTAS, QUEJAS Y
-RECLAMOS
+##### **PROCEDIMIENTO PARA QUE LOS TITULARES DE LA&#xA;INFORMACIÓN PUEDAN EJERCER LOS DERECHOS PRESENTAR SUS CONSULTAS, QUEJAS Y&#xA;RECLAMOS**
 
 Los titulares de la información cuando requieran
 realizar alguna consulta, queja o reclamo relacionadas con conocer sus
@@ -245,9 +234,7 @@ S.A. no sea competente para resolverlo, dará traslado a quien corresponda en un
 término máximo de dos (2) días hábiles e informará de la situación al
 interesado.
 
- 
-
-PRINCIPIOS
+#####  PRINCIPIOS
 
 Club Deportivo La Equidad Seguros S.A., se acoge a
 la Ley 1581 de 2012 y aplica los principios establecidos con el ánimo de
@@ -297,11 +284,9 @@ información, inclusive después de finalizada su relación con alguna de las
 labores que comprende el uso de la información, pudiendo sólo realizar
 suministro o comunicación de datos personales cuando ello corresponda al
 desarrollo de las actividades autorizadas en acuerdos privados, en la Ley 1581
-de 2012 y en los términos de la misma.
+de 2012 y en los términos de la misma. 
 
- 
-
-DEBERES DEL CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A.
+##### DEBERES DEL CLUB DEPORTIVO LA EQUIDAD SEGUROS S.A.
 
 a. Garantizar al titular el pleno y efectivo
 ejercicio de sus derechos.
@@ -352,9 +337,7 @@ j. Informar a la autoridad de protección de datos
 cuando se presenten violaciones de seguridad y existan riesgos en la administración
 de la información de los titulares.
 
-VIGENCIA
-
- 
+##### VIGENCIA 
 
 La vigencia de los datos suministrados por los
 titulares está sujeta a la duración del vínculo jurídico existente entre el
@@ -369,21 +352,9 @@ Actualizado el 22/03/2019.
 
  
 
- 
+### **AVISO DE PRIVACIDAD LEY DE PROTECCIÓN DE DATOS PERSONALES 1581 DE 2012.**
 
- 
-
- 
-
- 
-
- 
-
-AVISO DE PRIVACIDAD
-LEY DE PROTECCIÓN DE DATOS PERSONALES 1581 DE 2012.
-
-AVISO
-DE PRIVACIDAD
+#### AVISO DE PRIVACIDAD
 
 1\. Nombre o razón social y datos de
 contacto del responsable del tratamiento. 
@@ -432,45 +403,35 @@ tratamiento de datos sensibles, salvo en las excepciones dispuestas por la Ley
 
  
 
-3\. Derechos que le asisten al
-titular. 
+3\. Derechos que le asisten al titular. 
 
-El Titular de los datos personales
-tendrá los siguientes derechos:
+El Titular de los datos personales tendrá los siguientes derechos:
 
-a) Conocer, actualizar y rectificar
-sus datos personales. Este derecho se podrá ejercer, entre otros frente a datos
+a) Conocer, actualizar y rectificar sus datos personales. Este derecho se podrá ejercer, entre otros frente a datos
 parciales, inexactos, incompletos, fraccionados, que induzcan a error, o aquellos
 cuyo Tratamiento esté expresamente prohibido o no haya sido autorizado;
 
-b) Solicitar prueba de la
-autorización otorgada a Club Deportivo La Equidad Seguros S.A. salvo cuando
+b) Solicitar prueba de la autorización otorgada a Club Deportivo La Equidad Seguros S.A. salvo cuando
 expresamente se exceptúe como requisito para el Tratamiento, de conformidad con
 lo previsto en el artículo 10 de la Ley 1581 de 2012;
 
-c) Ser informado por Club Deportivo
-La Equidad Seguros S.A., previa solicitud, respecto del uso que le ha dado a
+c) Ser informado por Club Deportivo La Equidad Seguros S.A., previa solicitud, respecto del uso que le ha dado a
 sus datos personales;
 
-d) Presentar ante la Superintendencia
-de Industria y Comercio quejas por infracciones a lo dispuesto en la presente
+d) Presentar ante la Superintendencia de Industria y Comercio quejas por infracciones a lo dispuesto en la presente
 ley y las demás normas que la modifiquen, adicionen o complementen;
 
-e) Revocar la autorización y/o
-solicitar la supresión del dato cuando en el Tratamiento no se respeten los
+e) Revocar la autorización y/o solicitar la supresión del dato cuando en el Tratamiento no se respeten los
 principios, derechos y garantías constitucionales y legales. La revocatoria y/o
 supresión procederá cuando la Superintendencia de Industria y Comercio haya
 determinado que en el Tratamiento el Responsable o Encargado han incurrido en
 conductas contrarias a la ley y a la Constitución;
 
-f) Acceder en forma gratuita a sus
-datos personales que hayan sido objeto de Tratamiento.
+f) Acceder en forma gratuita a sus datos personales que hayan sido objeto de Tratamiento.
 
-4\. Mecanismos dispuestos por el
-responsable para que el titular conozca la política de Tratamiento de la
+4\. Mecanismos dispuestos por el responsable para que el titular conozca la política de Tratamiento de la
 información y los cambios sustanciales que se produzcan en ella o en el Aviso
 de Privacidad correspondiente.
 
-Nuestra política de tratamiento de
-datos podrá ser consultada a través de nuestra página https://equidadclubdeportivo.coop/politica-de-tratamiento-de-datos-personales-y-aviso-de-privacidad/,
+Nuestra política de tratamiento de datos podrá ser consultada a través de nuestra página https://equidadclubdeportivo.coop/politica-de-tratamiento-de-datos-personales-y-aviso-de-privacidad/,
 así como los cambios sustanciales que se presenten en la misma.
