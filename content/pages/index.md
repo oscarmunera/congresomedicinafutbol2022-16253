@@ -244,6 +244,7 @@ sections:
           - label: Regístrese aquí
             url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
             style: primary
+            new_window: true
         actions_align: center
         actions_width: full-width
     grid_cols: two
