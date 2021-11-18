@@ -137,21 +137,36 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
+          ###### Readaptador y preparador físico Manchester United.
+
+
           ###### Sport Science y fitness coach desde 2011 hasta el 2018.
-
-
-          ###### Readaptador y preparador físico desde el 2018-Actual Manchester
-          United.
 
 
           ###### PhD en Sport Science en la Universidad de Milán, Italia.
 
 
           ###### Diferentes publicaciones científicas en revistas de ciencia y
-          medicina del deporte
+          medicina del deporte.
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: ' '
+            url: 'https://twitter.com/Paolo_Gaudino'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: false
+          - label: ' '
+            url: 'https://www.instagram.com/paologaudino/'
+            style: primary
+            has_icon: true
+            icon: instagram
+            icon_position: center
+            new_window: true
+            no_follow: false
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -163,8 +178,16 @@ sections:
         subtitle: España
         title_align: left
         content_align: left
-        actions: []
-        actions_align: left
+        actions:
+          - label: '  '
+            url: 'https://twitter.com/PedroE_Alcaraz'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: false
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -173,6 +196,9 @@ sections:
         image_has_padding: false
         image: /images/Agregar un título (3).png
         content: >
+          ###### Presidente ejecutivo S\&C Society.
+
+
           ###### Doctor en ciencia de la actividad física y el deporte.
 
 
@@ -181,9 +207,6 @@ sections:
 
 
           ###### Director of UCAM Spanish Sports University.
-
-
-          ###### Presidente S\&C Society.
       - title: Robin Thorpe
         subtitle: USA
         content: >
