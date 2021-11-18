@@ -459,12 +459,14 @@ sections:
           Se puede cancelar con los siguientes medios de pago:
 
 
-          1.Tarjeta de crédito
+          1.  Tarjeta de crédito.
 
-          2.Tarjeta débito
 
-          3\. Consignación en el Banco Bogotá a la cuenta corriente 035-488527
-          con referencia de pago número de identificación.
+          2.  Tarjeta débito.
+
+
+          3.  Consignación: Banco Bogotá a la cuenta corriente 035-488527 Club
+          Deportivo La Equidad Seguros S.A.
         content_align: left
       - title: ¿Hay descuentos?
         title_align: left
