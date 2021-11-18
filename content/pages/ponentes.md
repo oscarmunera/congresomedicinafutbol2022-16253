@@ -188,7 +188,7 @@ sections:
             new_window: true
             no_follow: false
           - label: ' '
-            url: '#'
+            url: 'https://www.instagram.com/pedro.e.alcaraz/'
             style: link
             has_icon: false
             icon: arrow-left
