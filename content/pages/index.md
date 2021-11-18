@@ -178,6 +178,16 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
+        actions:
+          - label: Descargue todos los detalles aquí
+            url: >-
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/SPONSORS.pdf
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: true
+            no_follow: true
       - title: Sede del congreso.
         content: >
           El Club Deportivo La Equidad Seguros, cuenta con una de las mejores
