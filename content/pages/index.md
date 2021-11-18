@@ -535,7 +535,9 @@ seo:
       value: II Congreso Internacional Medicina del Fútbol
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        Vive la mejor experiencia en el mayor evento de medicina deportiva del
+        fútbol.
       keyName: property
     - name: 'og:image'
       value: /images/Temática Congreso (1920 x 1080 px) (9).png
