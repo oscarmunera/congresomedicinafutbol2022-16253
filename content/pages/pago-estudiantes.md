@@ -8,6 +8,14 @@ layout: page
 ---
 ## Obtenga precio de estudiante
 
-Si es estudiante de carreras relacionadas con las temáticas del congreso, puede obtener un precio de inscripción de $ US 120 dólares ( con un 10% de descuento si paga antes del 31 de diciembre de 2021).
+Para estudiantes: El precio de la inscripción será de $ US 120 dólares.\*\*
 
-Debe enviar un correo electrónico con el soporte de su carné o certificación de estudiante al correo congreso.medicinadeportiva@equidadclubdeportivo.coop y le responderemos en máximo un día hábil con el código de pago con el descuento.
+Tener en cuenta:
+
+1.  Deberá enviar soporte de su carné o certificación de estudiante al correo congreso.medicinadeportiva@equidadclubdeportivo.coop
+
+2.  Se realizará la validación de la documentación para obtener el beneficio correspondiente.
+
+3.  Enviaremos de vuelta un código de descuento vía correo electrónico para realizar el proceso de inscripción.
+
+\*\*Si realiza la inscripción antes del 31 de diciembre de 2021, obtendrá un descuento adicional del 10% sobre el valor del congreso
