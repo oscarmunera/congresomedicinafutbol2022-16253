@@ -167,9 +167,9 @@ sections:
         image: /images/2 (8).png
       - title: Tu marca como patrocinador del evento.
         content: >
-          Contaremos con una rueda comercial de negocios en donde las marcas
-          patrocinadoras tendrán stands en los que podrán interactuar con los
-          asistentes del evento.
+          Contaremos con una rueda comercial de negocios y networking en donde
+          las marcas patrocinadoras tendrán stands en los que podrán interactuar
+          con los asistentes del evento.
 
 
           Para mayores informes: mercadeo@equidadclubdeportivo.coop o al
