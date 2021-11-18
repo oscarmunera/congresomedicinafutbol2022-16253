@@ -59,7 +59,7 @@ sections:
             has_icon: false
             icon: arrow-left
             icon_position: center
-            new_window: true
+            new_window: false
             no_follow: false
         actions_align: center
       - title: 24 ponentes de 10 países.
