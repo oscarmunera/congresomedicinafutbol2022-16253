@@ -548,7 +548,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Event Theme
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: >-
+        Vive la mejor experiencia en el mayor evento de medicina deportiva del
+        fútbol.
     - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
