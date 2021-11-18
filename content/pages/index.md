@@ -458,10 +458,6 @@ sections:
           evento.
 
           Aplica para estudiantes y/o profesionales interesados.
-
-
-          Se puede pagar con tarjeta de crédito, débito y por consignación en el
-          Banco Bogotá a la cuenta corriente 035-488527.
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
