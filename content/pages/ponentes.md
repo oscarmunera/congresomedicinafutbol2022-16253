@@ -137,7 +137,7 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Readaptador y preparador físico Manchester United.
+          ###### Readaptador y preparador físico Manchester United F.C.
 
 
           ###### Sport Science y fitness coach desde 2011 hasta el 2018.
@@ -187,6 +187,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: false
+          - label: ' '
+            url: 'https://www.instagram.com/pedro.e.alcaraz/'
+            style: primary
+            has_icon: true
+            icon: instagram
+            icon_position: center
+            new_window: true
+            no_follow: true
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
@@ -210,8 +218,11 @@ sections:
       - title: Robin Thorpe
         subtitle: USA
         content: >
+          ###### Director de rendimiento Altis.
+
+
           ###### Director de rendimiento y preparación física del Manchester
-          United FC-Inglaterra.
+          United F.C.-Inglaterra.
 
 
           ###### Líder en investigación sobre manejo de la fatiga, recuperación
@@ -249,18 +260,18 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Doctor en ciencias del deporte.
-
-
-          ###### Investigador con más de 50 publicaciones sobre fuerza y
-          potencia.
-
-
           ###### Asesor de equipos de Premier League, Liga Española, NFL, NBA.
+
+
+          ###### Doctor en ciencias del deporte.
 
 
           ###### Cofundador y diseñador de las plataformas Forcedecks,
           plataformas más utilizadas en el alto rendimiento.
+
+
+          ###### Investigador con más de 50 publicaciones sobre fuerza y
+          potencia.&#xA;&#xA;
         content_align: left
         actions:
           - label: ' '
@@ -283,15 +294,15 @@ sections:
         subtitle: Polonia
         title_align: left
         content: |
+          ###### Preparador Físico Selección Nacional Polonia.
+
           ###### Doctor en Ciencias de la Actividad Física y el Deporte.
 
-          ###### &#xA;Preparador Físico Selección Nacional Polonia.
+          ###### Máster Alto Rendimiento Deportes de Equipo.
 
-          ###### &#xA;Máster Alto Rendimiento Deportes de Equipo.
+          ###### Máster Alto Rendimiento Deportes Cíclicos.
 
-          ###### &#xA;Máster Alto Rendimiento Deportes Cíclicos.
-
-          ###### &#xA;ENTRENADOR Futbol Nivel 3.
+          ###### ENTRENADOR Futbol Nivel 3.
         content_align: left
         actions:
           - label: ' '
@@ -314,7 +325,7 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Head Rehab Fitness Coach Wattford.
+          ###### Preparador físico Watford F.C.
 
 
           ###### Selección Costa Rica, Copa Mundial Rusia 2018.
@@ -392,21 +403,20 @@ sections:
         subtitle: Argentina
         title_align: left
         content: >
+          ###### Miembro comisión médica Liga Profesional de Fútbol Argentina.
+
+
+          ###### Junta directiva Asociación Argentina Traumatología del Deporte.
+
+
+          ###### Medicina y Traumatología del Deporte Experto en Medicina
+          regenerativa y Terapias Biológicas.
+
+
+          ###### Médico fútbol profesional Club Atlético Rosario Central.
+
+
           ###### Staff sanatorio Mapaci.
-
-
-          ###### Rosario Medicina y Traumatología del Deporte Experto en
-          Medicina regenerativa y Terapias Biológicas.
-
-
-          ###### Ex médico futbol profesional Club Atlético Rosario Central.
-
-
-          ###### Miembro comision medica Liga Profesional de Futbol Argentina.
-
-
-          ###### Junta directiva Asociación Argentina Traumatología del
-          Deporte.&#xA;&#xA;
         content_align: left
         actions:
           - label: ' '
@@ -430,62 +440,17 @@ sections:
         title_align: left
         content: >
           ###### Coordinador del Centro de Ciencias Aplicadas al deporte del
-          Comité Olímpico Paraguayo, desde 2018.
+          Comité Olímpico Paraguayo.
 
 
-          ###### Medicina Deportiva de Indeportes Antioquia.
+          ###### Médico y cirujano de la Universidad de Antioquia.
 
 
-          ###### Médico especialista en MedicinaDeportiva (Agosto/98 –
-          Diciembre/2000.
+          ###### Especialista en medicina aplicada a la actividad física y el
+          deporte Universidad de Antioquia.
 
 
-          ###### Asesor de Medicina Deportiva del Instituto Distrital para la
-          Recreación y el&#xA;Deporte, (Mayo 2001 – Mayo 2008)
-
-
-          ###### Médico Academia de Natación de Compensar (Feb 2007- Dic 2012)
-
-
-          ###### Coordinador Médico del Comité Olímpico Colombiano (mayo 2008 –
-          marzo&#xA;2009\).
-
-
-          ###### Asesor de Medicina Deportiva del Instituto Distrital para la
-          Recreación y el&#xA;Deporte (abril 2009 – mayo 2012).
-
-
-          ###### Coordinador de Centro de Ciencias del Deporte de Coldeportes
-          (Junio 2012 –&#xA;2017\).
-
-
-          ###### Co-editor Revista Antioqueña de Medicina Deportiva 1999-2001 
-
-
-          ###### Médico de los Juegos Olímpicos de Sídney, Beijín, Londres, Rio
-          y Tokio.
-
-
-          ###### Médico de 3 Juegos Panamericanos, 4 Juegos Centroamericanos, 4
-          Juegos Suramericanos, 4 Juegos Bolivarianos y 6 Juegos Nacionales de
-          Colombia.
-
-
-          ###### Médico de la Federación Colombiana de Boxeo 1999 – 2017.
-
-
-          ###### Médico de la Federación Colombiana de Natación 2010 – 2017.
-
-
-          ###### Médico del Club Deportivo La Equidad Seguros 2007-2017.
-
-
-          ###### Orden Civil al Mérito Deportivo ciudad de Bogotá, Alcaldía
-          Mayor de Bogotá, Dic 2004.
-
-
-          ###### Presidente de la Asociación de Medicina Deportiva de Colombia
-          -  AMEDCO periodo 2007 - 2009.
+          ###### Ex Director médico Coldeportes y Comité Olímpico Colombiano.
         content_align: left
         actions:
           - label: ' '
@@ -516,15 +481,15 @@ sections:
         subtitle: Italia
         title_align: left
         content: >
-          ###### Ingeniero electrónico del Politecnico di Torino, Italia. 
-
-
           ###### Fundador de la empresa SmartCoach Europe, tecnología de punta
           para valoración de la fuerza.
 
 
+          ###### Ingeniero electrónico del Politecnico di Torino, Italia.
+
+
           ###### Ex Director departamento de fisiología, Instituto Karolinska,
-          Suecia. 
+          Suecia.
 
 
           ###### Autor de 22 publicaciones científicas internacionales y 4
@@ -593,15 +558,15 @@ sections:
         subtitle: España
         title_align: left
         content: >
+          ###### Preparador físico de fútbol en equipos profesionales élite de
+          España e Inglaterra.
+
+
           ###### Doctor en Ciencias de la Actividad física y deporte & Diplomado
           en Fisioterapia.
 
 
           ###### Máster en Alto Rendimiento Deportivo.
-
-
-          ###### Preparador físico de fútbol en equipos profesionales élite de
-          España e Inglaterra.
 
 
           ###### Autor de varios libros y artículos de investigación sobre el
@@ -623,11 +588,11 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
+          ###### Director [MySportScience](https://www.mysportscience.com/).
+
+
           ###### Nutricionista deportivo y fisiólogo del ejercicio Birmingham
           University-Inglaterra.
-
-
-          ###### Director MySportScience Inglaterra.
 
 
           ###### Ex-Director de Gatorade Sports Science Institute.
@@ -665,19 +630,21 @@ sections:
         subtitle: España
         title_align: left
         content: >
+          ###### Nutricionista de equipos de fútbol de la Liga Española.
+
+
           ###### Dietista- Nutricionista y Tecnóloga Alimentaria por la
           Universidad de Barcelona.
 
 
-          ###### &#xA;Profesora Asociada de la Universidad  Autónoma de
-          Barcelona.
+          ###### Profesora Asociada de la Universidad  Autónoma de Barcelona.
 
 
-          ###### &#xA;Antropometrista ISAK 3.
+          ###### Antropometrista ISAK 3.
 
 
-          ###### &#xA;Vocal de la Asociación de Dietistas Nutricionistas de
-          Equipos de Fútbol Español.&#xA;&#xA;
+          ###### Vocal de la Asociación de Dietistas Nutricionistas de Equipos
+          de Fútbol Español.&#xA;&#xA;
         content_align: left
         actions:
           - label: ' '
@@ -703,29 +670,18 @@ sections:
           ###### Director científico Motion Sports Nutrition Colombia.
 
 
-          ###### &#xA;MSc en ciencias del deporte.
+          ###### MSc en ciencias del deporte.
 
 
-          ###### &#xA;Máster en nutrición deportiva y clínica- Universidad
-          Isabel I de Castilla.
+          ###### Máster en nutrición deportiva y clínica- Universidad Isabel I
+          de Castilla.
 
 
-          ###### &#xA;Experto universitario en nutrición deportiva -American
-          College of Sports Medicine.
+          ###### Experto universitario en nutrición deportiva -American College
+          of Sports Medicine.
 
 
-          ###### &#xA;Diplomado en nutrición deportiva-UPB.
-
-
-          ###### &#xA;Nutricionista dietista- Universidad de Antioquia.
-
-
-          ###### &#xA;CISSN sports nutritionist- international society of sports
-          nutrition.
-
-
-          ###### &#xA;Antropometrista isak III - international society for the
-          advancement of kinanthropometry.
+          ###### Nutricionista dietista- Universidad de Antioquia.
         content_align: left
         actions:
           - label: ' '
@@ -748,15 +704,15 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
+          ###### Médico traumatólogo Club Deportivo La Equidad Seguros.
+
+
           ###### Director MedSport Colombia.
 
 
           ###### Médico Especialista en Ortopedia y Traumatología Deportiva
           miembro de ISAKOS (Internacional Society of Arthroscopy, Knee Surgery
           and Orthopaedics Sports Medicine).
-
-
-          ###### Traumatólogo deportivo Club Deportivo La Equidad Seguros.
 
 
           ###### Especialista en cirugía de rodilla Clínica El Country.
@@ -782,6 +738,9 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
+          ###### Nutricionista del Comité Olímpico Colombiano.
+
+
           ###### Nutricionista y Dietista de la Universidad Nacional de
           Colombia.
 
@@ -789,10 +748,7 @@ sections:
           ###### MSc en deporte y actividad física de la Universidad Nacional.
 
 
-          ###### Ex-Coordinadora del área de nutrición del centro de ciencias
-          del deporte del departamento administrativo del deporte, recreación,
-          la actividad física aprovechamiento del tiempo libre. Coldeportes,
-          Colombia.
+          ###### Ex-Coordinadora del área de nutrición de Coldeportes.
         content_align: left
         actions:
           - label: ' '
