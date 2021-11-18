@@ -61,6 +61,15 @@ sections:
         image_alt: Speaker 7 photo
         image_position: top
         actions_align: center
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
       - title: José María Villalón
         subtitle: España
         content: >
