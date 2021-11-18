@@ -137,8 +137,7 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Readaptador y preparador físico desde el 2018-Actual Manchester
-          United.
+          ###### Readaptador y preparador físico Manchester United.
 
 
           ###### Sport Science y fitness coach desde 2011 hasta el 2018.
