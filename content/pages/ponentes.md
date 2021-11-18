@@ -682,10 +682,6 @@ sections:
 
 
           ###### Nutricionista dietista- Universidad de Antioquia.
-
-
-          ###### CISSN sports nutritionist- international society of sports
-          nutrition.
         content_align: left
         actions:
           - label: ' '
