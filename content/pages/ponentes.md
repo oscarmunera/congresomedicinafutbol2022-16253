@@ -330,14 +330,6 @@ sections:
           ###### ENTRENADOR Futbol Nivel 3.
         content_align: left
         actions:
-          - label: ' '
-            url: 'https://www.instagram.com/antoniogomez008/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
           - label: lorem-ipsum
             url: '#'
             style: link
@@ -346,6 +338,14 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
+          - label: ' '
+            url: 'https://www.instagram.com/antoniogomez008/'
+            style: primary
+            has_icon: true
+            icon: instagram
+            icon_position: center
+            new_window: true
+            no_follow: true
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
