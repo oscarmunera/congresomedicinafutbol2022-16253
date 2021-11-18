@@ -144,11 +144,11 @@ sections:
         content: >
           Contaremos con una rueda comercial de negocios en donde las marcas
           patrocinadoras tendrán stands en los cuales podrán interactuar con los
-          asistentes del evento. 
+          asistentes del evento.
 
 
           Para mayores informes: mercadeo@equidadclubdeportivo.coop o al
-          3108553758
+          3108553758.
         image: /images/sede club equidad seguros (1).png
         image_alt: Feature 3 placeholder image
         media_position: right
