@@ -188,14 +188,6 @@ sections:
             icon_position: right
             new_window: true
             no_follow: true
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
       - title: Sede del congreso.
         content: >
           El Club Deportivo La Equidad Seguros, cuenta con una de las mejores
