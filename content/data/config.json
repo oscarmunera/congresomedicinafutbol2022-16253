@@ -111,7 +111,7 @@
             {
                 "label": "youtube",
                 "url": "https://www.youtube.com/c/ClubDeportivoLaEquidadSeguros",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "youtube",
                 "icon_position": "center",
