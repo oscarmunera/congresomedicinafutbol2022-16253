@@ -218,8 +218,11 @@ sections:
       - title: Robin Thorpe
         subtitle: USA
         content: >
+          ###### Director de rendimiento Altis.
+
+
           ###### Director de rendimiento y preparación física del Manchester
-          United FC-Inglaterra.
+          United F.C.-Inglaterra.
 
 
           ###### Líder en investigación sobre manejo de la fatiga, recuperación
