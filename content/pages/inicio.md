@@ -14,7 +14,7 @@ sections:
     background_image_position: center top
     title: '   '
     subtitle: '  '
-    media_position: top
+    media_position: bottom
     background_image_repeat: no-repeat
     media_width: sixty
     background_image: /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (3).png
@@ -57,6 +57,26 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
+  - section_id: trailer
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/EPXw6bcByJk" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - type: features_section
     title: Viva la mejor experiencia en medicina deportiva
     features:
