@@ -69,7 +69,7 @@ sections:
             icon: twitter
             icon_position: center
             new_window: true
-            no_follow: false
+            no_follow: true
       - title: José María Villalón
         subtitle: España
         content: >
