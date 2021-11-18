@@ -704,7 +704,7 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
-          - label: lorem-ipsum
+          - label: ' '
             url: '#'
             style: link
             has_icon: false
