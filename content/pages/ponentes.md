@@ -78,6 +78,16 @@ sections:
         image: /images/16.png
         image_alt: Speaker 4 photo
         image_position: top
+        actions_align: center
+        actions:
+          - label: ' '
+            url: 'https://www.instagram.com/josemaria_villalon/'
+            style: primary
+            has_icon: true
+            icon: instagram
+            icon_position: center
+            new_window: true
+            no_follow: false
       - title: Juanjo Brau
         subtitle: España
         image: /images/8 (1).png
@@ -92,6 +102,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
+          - label: ' '
+            url: 'https://twitter.com/JuanjoBrau'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: false
         actions_align: center
         content: >
           ###### Fisioterapeuta deportivo y readaptador físico del Barcelona
