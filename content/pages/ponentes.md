@@ -853,7 +853,7 @@ sections:
             url: 'https://twitter.com/maestro_alexis'
             style: primary
             has_icon: true
-            icon: arrow-left
+            icon: twitter
             icon_position: right
             new_window: false
             no_follow: false
