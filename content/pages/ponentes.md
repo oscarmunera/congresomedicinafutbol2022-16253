@@ -325,7 +325,7 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Head Rehab Fitness Coach Wattford.
+          ###### Preparador físico Watford F.C.
 
 
           ###### Selección Costa Rica, Copa Mundial Rusia 2018.
