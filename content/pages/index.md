@@ -179,7 +179,7 @@ sections:
         media_position: right
         media_width: sixty
         actions:
-          - label: 'Descargue mayor '
+          - label: Descargue mayor i
             url: '#'
             style: link
             has_icon: false
