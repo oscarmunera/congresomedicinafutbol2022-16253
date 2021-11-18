@@ -331,7 +331,7 @@ sections:
         content_align: left
         actions:
           - label: '  '
-            url: '#'
+            url: 'https://twitter.com/antoniogomez08'
             style: link
             has_icon: false
             icon: arrow-left
