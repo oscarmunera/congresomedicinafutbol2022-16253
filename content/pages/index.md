@@ -93,6 +93,31 @@ sections:
     padding_top: none
     padding_bottom: small
     has_border: false
+  - section_id: trailer
+    title: Video Oficial II Congreso Internacional Medicina Del Fútbol
+    features:
+      - actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/EPXw6bcByJk" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        media_position: top
+        media_width: sixty
+        align: center
+    feature_padding_vert: small
+    align: center
+    padding_top: none
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - type: features_section
     title: >-
       Vive la mejor experiencia en el mayor evento de medicina deportiva del
@@ -497,31 +522,6 @@ sections:
     padding_bottom: medium
     background_color: none
     has_border: false
-  - section_id: trailer
-    title: Video Oficial II Congreso Internacional Medicina Del Fútbol
-    features:
-      - actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/EPXw6bcByJk" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        media_position: top
-        media_width: sixty
-        align: center
-    feature_padding_vert: small
-    align: center
-    padding_top: none
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
 seo:
   title: Congreso internacional medicina del fútbol
   description: >-
