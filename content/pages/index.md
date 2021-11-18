@@ -498,7 +498,7 @@ sections:
     background_color: none
     has_border: false
   - section_id: trailer
-    title: lorem-ipsum
+    title: 'Video Oficial '
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
