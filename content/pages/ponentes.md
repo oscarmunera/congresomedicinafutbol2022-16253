@@ -60,6 +60,16 @@ sections:
         image: /images/3 (3).png
         image_alt: Speaker 7 photo
         image_position: top
+        actions_align: center
+        actions:
+          - label: ' '
+            url: 'https://twitter.com/docgaryod'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: true
       - title: José María Villalón
         subtitle: España
         content: >
@@ -95,14 +105,6 @@ sections:
         image_position: top
         actions:
           - label: ' '
-            url: 'https://www.instagram.com/juanjobrau/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-          - label: ' '
             url: 'https://twitter.com/JuanjoBrau'
             style: primary
             has_icon: true
@@ -110,6 +112,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: false
+          - label: ' '
+            url: 'https://www.instagram.com/juanjobrau/'
+            style: primary
+            has_icon: true
+            icon: instagram
+            icon_position: center
+            new_window: true
+            no_follow: true
         actions_align: center
         content: >
           ###### Fisioterapeuta deportivo y readaptador físico del Barcelona
