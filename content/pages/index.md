@@ -455,10 +455,16 @@ sections:
         content_align: left
       - title: Medios de pago.
         title_align: left
-        content: >+
-          Se puede pagar con tarjeta de crédito, débito y por consignación en el
-          Banco Bogotá a la cuenta corriente 035-488527.
+        content: >
+          Se puede cancelar con los siguientes medios de pago:
 
+
+          1.Tarjeta de crédito
+
+          2.Tarjeta débito
+
+          3\. Consignación en el Banco Bogotá a la cuenta corriente 035-488527
+          con referencia de pago número de identificación.
         content_align: left
       - title: ¿Hay descuentos?
         title_align: left
