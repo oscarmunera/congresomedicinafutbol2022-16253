@@ -188,6 +188,9 @@ sections:
         image_has_padding: false
         image: /images/Agregar un título (3).png
         content: >
+          ###### Presidente ejecutivo S\&C Society.
+
+
           ###### Doctor en ciencia de la actividad física y el deporte.
 
 
@@ -196,9 +199,6 @@ sections:
 
 
           ###### Director of UCAM Spanish Sports University.
-
-
-          ###### Presidente S\&C Society.
       - title: Robin Thorpe
         subtitle: USA
         content: >
