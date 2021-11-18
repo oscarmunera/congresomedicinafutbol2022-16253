@@ -99,15 +99,6 @@
                 "no_follow": false
             },
             {
-                "label": "youtube",
-                "url": "https://www.youtube.com/c/ClubDeportivoLaEquidadSeguros",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/christianquiceno/",
                 "style": "link",
@@ -116,6 +107,15 @@
                 "icon_position": "center",
                 "new_window": true,
                 "no_follow": false
+            },
+            {
+                "label": "youtube",
+                "url": "https://www.youtube.com/c/ClubDeportivoLaEquidadSeguros",
+                "style": "primary",
+                "has_icon": true,
+                "icon": "youtube",
+                "icon_position": "center",
+                "new_window": true
             },
             {
                 "label": " ",
