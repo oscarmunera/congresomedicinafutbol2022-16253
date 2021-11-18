@@ -336,7 +336,7 @@ sections:
             has_icon: true
             icon: twitter
             icon_position: center
-            new_window: false
+            new_window: true
             no_follow: false
           - label: ' '
             url: 'https://www.instagram.com/antoniogomez008/'
