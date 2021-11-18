@@ -179,7 +179,7 @@ sections:
         media_position: right
         media_width: sixty
         actions:
-          - label: Descargue mayor i
+          - label: 'Descargue toda la '
             url: '#'
             style: link
             has_icon: false
