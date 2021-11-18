@@ -546,7 +546,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: II Congreso Internacional Medicina del Fútbol
     - name: 'twitter:description'
       value: >-
         Vive la mejor experiencia en el mayor evento de medicina deportiva del
