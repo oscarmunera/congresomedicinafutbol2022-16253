@@ -674,7 +674,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/4 (1).png
+        image: /images/4 (3)-ea1c66cb.png
       - title: Mireia Porta
         subtitle: España
         title_align: left
