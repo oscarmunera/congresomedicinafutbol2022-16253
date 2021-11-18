@@ -26,7 +26,7 @@ sections:
         image_position: top
         actions:
           - label: ' '
-            url: 'https://twitter.com/cristianmdsport'
+            url: 'https://twitter.com/DocQuiceno'
             style: primary
             has_icon: true
             icon: twitter
@@ -63,6 +63,9 @@ sections:
       - title: José María Villalón
         subtitle: España
         content: >
+          ###### Director de los servicios médicos del Club Atlético de Madrid.
+
+
           ###### Licenciado en medicina y cirugía por la Universidad Complutense
           de Madrid.
 
@@ -72,9 +75,6 @@ sections:
 
 
           ###### MSc en Traumatología y Medicina del deporte.
-
-
-          ###### Director de los servicios médicos del Club Atlético de Madrid.
         image: /images/16.png
         image_alt: Speaker 4 photo
         image_position: top
