@@ -708,8 +708,10 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
-          ###### Médico traumatólogo Club Deportivo La Equidad
-          Seguros.&#xA;&#xA;Director MedSport Colombia.
+          ###### Médico traumatólogo Club Deportivo La Equidad Seguros.
+
+
+          ###### Director MedSport Colombia.
 
 
           ###### Médico Especialista en Ortopedia y Traumatología Deportiva
