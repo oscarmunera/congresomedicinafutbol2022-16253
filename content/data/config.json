@@ -120,7 +120,7 @@
             {
                 "label": " ",
                 "url": "https://www.instagram.com/equidadsportsmedicine/",
-                "style": "link",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
