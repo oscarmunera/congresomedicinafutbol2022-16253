@@ -475,6 +475,9 @@ sections:
           Para el II congreso Internacional Medicina del Fútbol contaremos con
           traducción simultánea para que no se pierda ningún detalle de las
           conferencias de nuestros ponentes internacionales.
+
+
+          El idioma oficial del congreso es el Español.
         content_align: left
         actions: []
         actions_align: left
