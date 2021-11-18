@@ -738,6 +738,9 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
+          ###### Nutricionista del Comité Olímpico Colombiano.
+
+
           ###### Nutricionista y Dietista de la Universidad Nacional de
           Colombia.
 
