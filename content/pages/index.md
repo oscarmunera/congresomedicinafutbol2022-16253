@@ -500,8 +500,7 @@ sections:
   - section_id: trailer
     title: Video Oficial II Congreso Internacional Medicina Del Fútbol
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
