@@ -545,6 +545,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
+          - label: ' '
+            url: 'https://twitter.com/smartcoach_tech'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: true
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
