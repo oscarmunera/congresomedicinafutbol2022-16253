@@ -546,7 +546,7 @@ sections:
             new_window: true
             no_follow: true
           - label: ' '
-            url: '#'
+            url: 'https://twitter.com/smartcoach_tech'
             style: link
             has_icon: false
             icon: arrow-left
