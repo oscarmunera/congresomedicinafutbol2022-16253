@@ -179,7 +179,7 @@ sections:
         media_position: right
         media_width: sixty
         actions:
-          - label: lorem-ipsum
+          - label: Descar
             url: '#'
             style: link
             has_icon: false
