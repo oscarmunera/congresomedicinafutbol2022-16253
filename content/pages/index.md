@@ -461,17 +461,10 @@ sections:
         content_align: left
       - title: ¿Y las conferencias en Ingles?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Para el II congreso Internacional Medicina del Fútbol contaremos con
+          traducción simultánea para que no se pierda ningún detalle de las
+          conferencias de nuestros ponentes internacionales.
         content_align: left
         actions: []
         actions_align: left
