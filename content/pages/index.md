@@ -552,7 +552,7 @@ seo:
         Vive la mejor experiencia en el mayor evento de medicina deportiva del
         fútbol.
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: /images/Temática Congreso (1920 x 1080 px) (9).png
       relativeUrl: true
 layout: advanced
 ---
