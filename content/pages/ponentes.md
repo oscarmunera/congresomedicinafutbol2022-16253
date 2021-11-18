@@ -294,15 +294,15 @@ sections:
         subtitle: Polonia
         title_align: left
         content: |
+          ###### Preparador Físico Selección Nacional Polonia.
+
           ###### Doctor en Ciencias de la Actividad Física y el Deporte.
 
-          ###### &#xA;Preparador Físico Selección Nacional Polonia.
+          ###### Máster Alto Rendimiento Deportes de Equipo.
 
-          ###### &#xA;Máster Alto Rendimiento Deportes de Equipo.
+          ###### Máster Alto Rendimiento Deportes Cíclicos.
 
-          ###### &#xA;Máster Alto Rendimiento Deportes Cíclicos.
-
-          ###### &#xA;ENTRENADOR Futbol Nivel 3.
+          ###### ENTRENADOR Futbol Nivel 3.
         content_align: left
         actions:
           - label: ' '
