@@ -60,6 +60,7 @@ sections:
         image: /images/3 (3).png
         image_alt: Speaker 7 photo
         image_position: top
+        actions_align: center
       - title: José María Villalón
         subtitle: España
         content: >
