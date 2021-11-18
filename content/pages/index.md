@@ -459,7 +459,7 @@ sections:
 
           Aplica para estudiantes y/o profesionales interesados.
         content_align: left
-      - title: lorem-ipsum
+      - title: ¿Y las conferencias en Ingles?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
