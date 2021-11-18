@@ -232,7 +232,7 @@ sections:
         image_has_padding: false
         image: /images/Agregar un título (3).png
         content: >
-          ###### Presidente ejecutivo S\&C Society.
+          ###### Presidente Ejecutivo de Strength & Conditioning Society.
 
 
           ###### Doctor en ciencia de la actividad física y el deporte.
@@ -314,7 +314,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/2 (9).png
+        image: /images/Agregar un título (23) (2).png
       - title: Antonio Gómez
         subtitle: Polonia
         title_align: left
@@ -704,6 +704,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
+          - label: ' '
+            url: 'https://twitter.com/MireiaPorta'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: false
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
@@ -775,6 +783,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
+          - label: ' '
+            url: 'https://twitter.com/anpastrana'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: false
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
@@ -841,6 +857,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
+          - label: ' '
+            url: 'https://twitter.com/maestro_alexis'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: false
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
