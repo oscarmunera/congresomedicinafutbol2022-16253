@@ -532,7 +532,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: II Congreso Internacional Medicina del Fútbol
       keyName: property
     - name: 'og:description'
       value: The preview of the Event theme
