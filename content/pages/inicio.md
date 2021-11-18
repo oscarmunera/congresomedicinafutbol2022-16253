@@ -20,11 +20,6 @@ sections:
     background_image: /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (3).png
     section_id: banner
     has_border: false
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/EPXw6bcByJk" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     grid_items:
       - title_align: center
