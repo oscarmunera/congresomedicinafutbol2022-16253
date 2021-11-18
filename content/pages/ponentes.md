@@ -246,9 +246,6 @@ sections:
       - title: Robin Thorpe
         subtitle: USA
         content: >
-          ###### Director de rendimiento Altis.
-
-
           ###### Director de rendimiento y preparación física del Manchester
           United F.C.-Inglaterra.
 
@@ -333,6 +330,14 @@ sections:
           ###### ENTRENADOR Futbol Nivel 3.
         content_align: left
         actions:
+          - label: '  '
+            url: 'https://twitter.com/antoniogomez08'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: true
           - label: ' '
             url: 'https://www.instagram.com/antoniogomez008/'
             style: primary
@@ -378,6 +383,14 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
+          - label: ' '
+            url: 'https://twitter.com/acea_ngel'
+            style: primary
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+            no_follow: false
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
