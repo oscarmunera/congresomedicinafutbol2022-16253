@@ -181,7 +181,7 @@ sections:
         actions:
           - label: Descargue todos los detalles aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/SPONSORS.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/BeneficiosPatrocinadores.pdf
             style: primary
             has_icon: true
             icon: arrow-right
