@@ -525,7 +525,7 @@ sections:
 seo:
   title: Congreso internacional medicina del fútbol
   description: >-
-    El mejor evento de divukgación científica de medicina del fútbol de la
+    El mejor evento de divulgación científica de medicina del fútbol de la
     región
   extra:
     - name: 'og:type'
