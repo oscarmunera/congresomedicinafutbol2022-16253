@@ -710,7 +710,7 @@ sections:
             has_icon: true
             icon: twitter
             icon_position: center
-            new_window: false
+            new_window: true
             no_follow: false
         actions_align: center
         actions_width: auto
