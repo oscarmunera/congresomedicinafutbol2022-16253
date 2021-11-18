@@ -588,11 +588,11 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
+          ###### Director MySportScience Inglaterra.
+
+
           ###### Nutricionista deportivo y fisiólogo del ejercicio Birmingham
           University-Inglaterra.
-
-
-          ###### Director MySportScience Inglaterra.
 
 
           ###### Ex-Director de Gatorade Sports Science Institute.
