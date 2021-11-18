@@ -558,15 +558,15 @@ sections:
         subtitle: España
         title_align: left
         content: >
+          ###### Preparador físico de fútbol en equipos profesionales élite de
+          España e Inglaterra.
+
+
           ###### Doctor en Ciencias de la Actividad física y deporte & Diplomado
           en Fisioterapia.
 
 
           ###### Máster en Alto Rendimiento Deportivo.
-
-
-          ###### Preparador físico de fútbol en equipos profesionales élite de
-          España e Inglaterra.
 
 
           ###### Autor de varios libros y artículos de investigación sobre el
