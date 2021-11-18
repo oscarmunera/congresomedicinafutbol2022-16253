@@ -232,7 +232,7 @@ sections:
         image_has_padding: false
         image: /images/Agregar un título (3).png
         content: >
-          ###### Presidente Ejecutivo de Strength & Conditioning Society
+          ###### Presidente Ejecutivo de Strength & Conditioning Society.
 
 
           ###### Doctor en ciencia de la actividad física y el deporte.
