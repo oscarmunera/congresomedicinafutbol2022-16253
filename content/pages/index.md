@@ -460,7 +460,6 @@ sections:
           Aplica para estudiantes y/o profesionales interesados.
         content_align: left
       - title: ¿Y las conferencias en Ingles?
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
