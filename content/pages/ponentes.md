@@ -260,7 +260,7 @@ sections:
 
           ###### Múltiples publicaciones en las principales revistas de medicina
           deportiva.
-        image: /images/12.png
+        image: /images/12 (1)-aa162937.png
         image_alt: Speaker 3 photo
         image_position: top
         actions:
@@ -674,7 +674,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/4 (1).png
+        image: /images/4 (3)-ea1c66cb.png
       - title: Mireia Porta
         subtitle: España
         title_align: left
