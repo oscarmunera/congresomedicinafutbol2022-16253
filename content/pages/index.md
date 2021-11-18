@@ -118,12 +118,12 @@ sections:
 
 
           *   *Taller diagnóstico de la fuerza y potencia en atletas de alto
-          rendimiento-Patrocinado por *Smartcoach *(Dirigido por Daniel Cohen -
+          rendimiento-Patrocinado por Smartcoach (Dirigido por Daniel Cohen -
           Marco Pozzo).*
 
 
           *   *Taller de entrenamiento de la sobrecarga excéntrica para
-          rendimiento deportivo - Patrocinado por * Exxentric*. (Dirigido por
+          rendimiento deportivo - Patrocinado por Exxentric. (Dirigido por
           Fredrik Correa).*
         image: /images/sede club equidad seguros.png
         image_alt: Feature 1 placeholder image
