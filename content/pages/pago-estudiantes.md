@@ -7,9 +7,8 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+## Obtenga precio de estudiante
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Si es estudiante de carreras relacionadas con las temáticas del congreso, puede obtener un precio de inscripción de $ US 120 dólares ( con un 10% de descuento si paga antes del 31 de diciembre de 2021).
 
-- Lorem ipsum
-- dolor sit amet
+Debe enviar un correo electrónico con el soporte de su carné o certificación de estudiante al correo congreso.medicinadeportiva@equidadclubdeportivo.coop y le responderemos en máximo un día hábil con el código de pago con el descuento.
