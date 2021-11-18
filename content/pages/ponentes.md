@@ -314,7 +314,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/2 (9).png
+        image: /images/Agregar un título (23) (2).png
       - title: Antonio Gómez
         subtitle: Polonia
         title_align: left
