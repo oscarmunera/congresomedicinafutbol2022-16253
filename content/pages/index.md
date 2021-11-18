@@ -469,7 +469,7 @@ sections:
 
           Aplica para estudiantes y/o profesionales interesados.
         content_align: left
-      - title: ¿Y las conferencias en Ingles?
+      - title: ¿Y las conferencias en Inglés?
         title_align: left
         content: >
           Para el II congreso Internacional Medicina del Fútbol contaremos con
