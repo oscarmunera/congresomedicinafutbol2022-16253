@@ -85,7 +85,7 @@ sections:
             style: primary
             has_icon: true
             icon: instagram
-            icon_position: right
+            icon_position: center
             new_window: false
             no_follow: false
       - title: Juanjo Brau
