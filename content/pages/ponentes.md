@@ -78,6 +78,7 @@ sections:
         image: /images/16.png
         image_alt: Speaker 4 photo
         image_position: top
+        actions_align: center
       - title: Juanjo Brau
         subtitle: España
         image: /images/8 (1).png
