@@ -26,7 +26,7 @@ sections:
         image_position: top
         actions:
           - label: ' '
-            url: 'https://twitter.com/cristianmdsport'
+            url: 'https://twitter.com/DocQuiceno'
             style: primary
             has_icon: true
             icon: twitter
