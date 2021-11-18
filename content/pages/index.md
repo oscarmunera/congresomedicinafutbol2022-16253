@@ -54,7 +54,7 @@ sections:
         title: Duración.
         actions:
           - label: Descarga programa aquí
-            url: '#'
+            url: /agenda
             style: primary
             has_icon: false
             icon: arrow-left

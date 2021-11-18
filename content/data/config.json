@@ -90,7 +90,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/equidadm",
+                "url": "https://twitter.com/DocQuiceno",
                 "style": "link",
                 "has_icon": true,
                 "icon": "twitter",
@@ -100,7 +100,7 @@
             },
             {
                 "label": "youtube",
-                "url": "equidadsportsmedicine",
+                "url": "https://www.youtube.com/c/ClubDeportivoLaEquidadSeguros",
                 "style": "link",
                 "has_icon": true,
                 "icon": "youtube",
@@ -109,12 +109,12 @@
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/clubdeportivolaequidad/",
+                "url": "https://www.instagram.com/christianquiceno/",
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "center",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ],
