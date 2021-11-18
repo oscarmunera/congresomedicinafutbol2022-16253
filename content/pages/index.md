@@ -440,9 +440,8 @@ sections:
     grid_items:
       - title: ¿El congreso tiene opciones de conferencias virtuales?
         title_align: left
-        content: >
-          El II Congreso Internacional Medicina del Fútbol es ciento por ciento
-          presencial.
+        content: |
+          El II Congreso Internacional Medicina del Fútbol es 100% presencial.
         content_align: left
       - title: Medios de pago.
         title_align: left
@@ -460,6 +459,21 @@ sections:
 
           Aplica para estudiantes y/o profesionales interesados.
         content_align: left
+      - title: ¿Y las conferencias en Ingles?
+        title_align: left
+        content: >
+          Para el II congreso Internacional Medicina del Fútbol contaremos con
+          traducción simultánea para que no se pierda ningún detalle de las
+          conferencias de nuestros ponentes internacionales.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
