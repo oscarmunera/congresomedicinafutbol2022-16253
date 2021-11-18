@@ -63,7 +63,7 @@ sections:
         actions_align: center
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://twitter.com/docgaryod'
             style: link
             has_icon: false
             icon: arrow-left
