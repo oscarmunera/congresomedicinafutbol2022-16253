@@ -179,7 +179,7 @@ sections:
         media_position: right
         media_width: sixty
         actions:
-          - label: 'Descargue toda la '
+          - label: Descargue toda la  información
             url: '#'
             style: link
             has_icon: false
