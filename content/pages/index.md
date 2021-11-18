@@ -525,30 +525,34 @@ sections:
 seo:
   title: Congreso internacional medicina del fútbol
   description: >-
-    El mejor evento de divukgación científica de medicina del fútbol de la
-    región
+    El mejor evento de divulgación científica de medicina del fútbol de la
+    región.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: II Congreso Internacional Medicina del Fútbol
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        Vive la mejor experiencia en el mayor evento de medicina deportiva del
+        fútbol.
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: /images/Temática Congreso (1920 x 1080 px) (9).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: II Congreso Internacional Medicina del Fútbol
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: >-
+        Vive la mejor experiencia en el mayor evento de medicina deportiva del
+        fútbol.
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: /images/Temática Congreso (1920 x 1080 px) (9).png
       relativeUrl: true
 layout: advanced
 ---
