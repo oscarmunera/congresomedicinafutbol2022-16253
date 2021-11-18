@@ -58,7 +58,6 @@ sections:
     align: center
     background_color: secondary
   - section_id: trailer
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
