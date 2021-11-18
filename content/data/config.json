@@ -126,6 +126,16 @@
                 "icon_position": "right",
                 "new_window": true,
                 "no_follow": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "content": "&copy; Club Deportivo La Equidad Seguros S.A. |  Implementado por Unoycero digital. <a href=\"https://www.equidadclubdeportivo.coop/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Todos los derechos reservados</a>. <a href=\"www.unoycerodigital.com.co?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\"></a>"
