@@ -81,7 +81,7 @@ sections:
         actions_align: center
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://www.instagram.com/josemaria_villalon/'
             style: link
             has_icon: false
             icon: arrow-left
