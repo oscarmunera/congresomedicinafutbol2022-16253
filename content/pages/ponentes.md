@@ -588,7 +588,7 @@ sections:
         subtitle: Reino Unido
         title_align: left
         content: >
-          ###### Director MySportScience Inglaterra.
+          ###### Director MySportScience.
 
 
           ###### Nutricionista deportivo y fisiólogo del ejercicio Birmingham
