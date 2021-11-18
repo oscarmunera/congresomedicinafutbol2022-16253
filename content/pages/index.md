@@ -181,11 +181,11 @@ sections:
         actions:
           - label: Descargue todos los detalles aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/SPONSORS.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/BeneficiosPatrocinadores.pdf
             style: primary
             has_icon: true
             icon: arrow-right
-            icon_position: right
+            icon_position: left
             new_window: true
             no_follow: true
       - title: Sede del congreso.
