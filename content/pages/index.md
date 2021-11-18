@@ -510,7 +510,7 @@ sections:
           allowfullscreen></iframe>
         media_position: top
         media_width: sixty
-        align: left
+        align: center
     feature_padding_vert: medium
     align: center
     padding_top: medium
