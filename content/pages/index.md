@@ -498,7 +498,7 @@ sections:
     background_color: none
     has_border: false
   - section_id: trailer
-    title: 'Video Oficial '
+    title: Video Oficial II Congreso Internacional Medicina Del Fútbol
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
