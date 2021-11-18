@@ -670,29 +670,22 @@ sections:
           ###### Director científico Motion Sports Nutrition Colombia.
 
 
-          ###### &#xA;MSc en ciencias del deporte.
+          ###### MSc en ciencias del deporte.
 
 
-          ###### &#xA;Máster en nutrición deportiva y clínica- Universidad
-          Isabel I de Castilla.
+          ###### Máster en nutrición deportiva y clínica- Universidad Isabel I
+          de Castilla.
 
 
-          ###### &#xA;Experto universitario en nutrición deportiva -American
-          College of Sports Medicine.
+          ###### Experto universitario en nutrición deportiva -American College
+          of Sports Medicine.
 
 
-          ###### &#xA;Diplomado en nutrición deportiva-UPB.
+          ###### Nutricionista dietista- Universidad de Antioquia.
 
 
-          ###### &#xA;Nutricionista dietista- Universidad de Antioquia.
-
-
-          ###### &#xA;CISSN sports nutritionist- international society of sports
+          ###### CISSN sports nutritionist- international society of sports
           nutrition.
-
-
-          ###### &#xA;Antropometrista isak III - international society for the
-          advancement of kinanthropometry.
         content_align: left
         actions:
           - label: ' '
