@@ -181,7 +181,7 @@ sections:
         actions:
           - label: Descargue todos los detalles aquí
             url: '#'
-            style: secondary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
