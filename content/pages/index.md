@@ -511,7 +511,7 @@ sections:
         media_position: top
         media_width: sixty
         align: center
-    feature_padding_vert: medium
+    feature_padding_vert: small
     align: center
     padding_top: medium
     padding_bottom: medium
