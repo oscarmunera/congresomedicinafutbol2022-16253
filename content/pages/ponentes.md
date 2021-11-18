@@ -103,7 +103,7 @@ sections:
             new_window: true
             no_follow: true
           - label: ' '
-            url: '#'
+            url: 'https://twitter.com/JuanjoBrau'
             style: link
             has_icon: false
             icon: arrow-left
