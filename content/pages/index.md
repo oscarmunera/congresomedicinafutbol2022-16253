@@ -182,7 +182,7 @@ sections:
           - label: Descargue todos los detalles aquí
             url: >-
               https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/SPONSORS.pdf
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
