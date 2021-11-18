@@ -497,7 +497,7 @@ sections:
     padding_bottom: medium
     background_color: none
     has_border: false
-  - section_id: lorem-ipsum
+  - section_id: trailer
     title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
