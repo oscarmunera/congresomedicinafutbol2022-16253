@@ -246,7 +246,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: /thank-you
+            url: /pago-estudiantes
             style: primary
         actions_align: center
         actions_width: full-width
