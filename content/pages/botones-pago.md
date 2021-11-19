@@ -6,7 +6,7 @@ sections:
     actions: []
     grid_items:
       - title: Para Pagos desde exterior
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: Link de pago en dólares Payú.
