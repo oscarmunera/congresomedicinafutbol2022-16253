@@ -29,7 +29,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: 'Link de '
+          - label: Pago en pesos
             url: '#'
             style: link
             has_icon: false
