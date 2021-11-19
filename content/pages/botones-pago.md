@@ -29,7 +29,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: 'Pago en pesos y '
+          - label: Pago en pesos y con código de descuento estudiantes
             url: '#'
             style: link
             has_icon: false
