@@ -25,7 +25,7 @@ sections:
         image_align: left
         image_has_padding: false
         subtitle: $ US 160 menos 10% si paga antes del 31 de diciembre de 2021
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
