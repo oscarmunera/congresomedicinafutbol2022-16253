@@ -168,7 +168,7 @@ sections:
       - title: Profesionales
         subtitle: Marzo 24-25
         title_align: left
-        content: >
+        content: >+
           $ US 160 (Pagos desde el exterior)
 
 
@@ -178,14 +178,14 @@ sections:
           **-10% antes del 31/12/2021.**
 
 
-
           Profesionales de todas las áreas de ciencias del deporte.
 
 
           *   Cupo limitado.
 
-          *   Acceso completo a todas las charlas, conferencias y rueda
-          comercial
+          *   Acceso completo a todas las charlas, conferencias, rueda comercial
+          y networking.
+
         content_align: left
         actions:
           - label: Regístrese aquí
