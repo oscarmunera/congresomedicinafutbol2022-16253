@@ -134,6 +134,75 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+  - type: grid_section
+    title: Precios (10% de descuento si se inscribe antes de diciembre 31 de 2021).
+    subtitle: Tenemos precios diferenciales para estudiantes y profesionales
+    grid_items:
+      - title: Estudiantes
+        subtitle: Marzo 24-25
+        title_align: left
+        content: >
+          $ US 120 (Pagos desde el exterior)
+
+
+          $ COP 460.000  (Pagos desde Colombia)
+
+
+          **-10% antes del 31/12/2021.**
+
+
+          Estudiantes con certificación o carné vigente
+
+
+          *   Cupo limitado.
+
+          *   Se aceptan inscripciones para estudiantes solo hasta enero 31 de
+          2022.
+        content_align: left
+        actions:
+          - label: Regístrese aquí
+            url: /pago-estudiantes
+            style: primary
+        actions_align: center
+        actions_width: full-width
+      - title: Profesionales
+        subtitle: Marzo 24-25
+        title_align: left
+        content: >
+          $ US 160 (Pagos desde el exterior)
+
+
+          $ COP 600.000  (Pagos desde Colombia)
+
+
+          **-10% antes del 31/12/2021.**
+
+
+
+          Profesionales de todas las áreas de ciencias del deporte.
+
+
+          *   Cupo limitado.
+
+          *   Acceso completo a todas las charlas, conferencias y rueda
+          comercial
+        content_align: left
+        actions:
+          - label: Regístrese aquí
+            url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
+            style: primary
+            new_window: true
+        actions_align: center
+        actions_width: full-width
+    grid_cols: two
+    grid_gap_horiz: large
+    grid_gap_vert: small
+    enable_cards: true
+    padding_top: small
+    padding_bottom: medium
+    background_color: primary
+    background_image_opacity: 10
+    align: center
   - type: features_section
     features:
       - title: Workshops para grupos limitados.
@@ -235,62 +304,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - type: grid_section
-    title: Precios (10% de descuento si se inscribe antes de diciembre 31 de 2021).
-    subtitle: Tenemos precios diferenciales para estudiantes y profesionales
-    grid_items:
-      - title: Estudiantes
-        subtitle: Marzo 24-25
-        title_align: left
-        content: >
-          ###### $ US 120($ COP 460.000) -10% antes del 31/12/2021.
-
-
-          Estudiantes con certificación o carné vigente
-
-
-          *   Cupo limitado.
-
-          *   Se aceptan inscripciones para estudiantes solo hasta enero 31 de
-          2022.
-        content_align: left
-        actions:
-          - label: Regístrese aquí
-            url: /pago-estudiantes
-            style: primary
-        actions_align: center
-        actions_width: full-width
-      - title: Profesionales
-        subtitle: Marzo 24-25
-        title_align: left
-        content: >
-          ###### $ US 160 ($ COP 600.000) **-10% antes del 31/12/2021**
-
-
-          Profesionales de todas las áreas de ciencias del deporte.
-
-
-          *   Cupo limitado.
-
-          *   Acceso completo a todas las charlas, conferencias y rueda
-          comercial
-        content_align: left
-        actions:
-          - label: Regístrese aquí
-            url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
-            style: primary
-            new_window: true
-        actions_align: center
-        actions_width: full-width
-    grid_cols: two
-    grid_gap_horiz: large
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    background_color: primary
-    background_image_opacity: 10
-    align: center
   - section_id: patrocinadores
     title: Nuestros Patrocinadores
     actions: []
