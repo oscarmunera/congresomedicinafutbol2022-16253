@@ -1,7 +1,7 @@
 ---
 title: botones-pago
 sections:
-  - section_id: lorem-ipsum
+  - section_id: OPCIONES DE PAGO
     title: Opciones de pago.
     actions: []
     grid_items:
