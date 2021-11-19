@@ -44,6 +44,8 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        content: |
+          $ COP 600.000
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
