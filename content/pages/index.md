@@ -151,7 +151,7 @@ sections:
           **-10% antes del 31/12/2021.**
 
 
-          Estudiantes con certificación o carné vigente
+          Estudiantes con certificación o carnet vigente
 
 
           *   Cupo limitado.
