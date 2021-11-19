@@ -2,7 +2,7 @@
 title: botones-pago
 sections:
   - section_id: lorem-ipsum
-    title: Opciones de pago para su comodidad.
+    title: Opciones de pago.
     actions: []
     grid_items:
       - title: Para Pagos desde exterior
