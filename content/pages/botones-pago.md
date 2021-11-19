@@ -9,7 +9,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Vaya a Payú
+          - label: Vaya a nuestro link de pago en dólaresPayú
             url: '#'
             style: link
             has_icon: false
