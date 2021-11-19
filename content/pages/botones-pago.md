@@ -9,7 +9,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Payú
+          - label: Vaya a Payú
             url: '#'
             style: link
             has_icon: false
