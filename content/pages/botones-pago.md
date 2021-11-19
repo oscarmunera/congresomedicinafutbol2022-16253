@@ -5,7 +5,7 @@ sections:
     title: Contamos con diferentes opciones de pago para su comodidad.
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Para Pagos desde exterior
         subtitle: lorem-ipsum
         title_align: left
         content: >-
