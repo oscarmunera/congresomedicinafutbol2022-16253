@@ -163,10 +163,14 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: >
-          $ US 160 (Pagos desde el exterior)**-10% antes del 31/12/2021.**
+          $ US 160 (Pagos desde el exterior)
 
 
-          $ COP 600.000  (Pagos desde Colombia)**-10% antes del 31/12/2021.**
+          $ COP 600.000  (Pagos desde Colombia)
+
+
+          **-10% antes del 31/12/2021.**
+
 
 
           Profesionales de todas las áreas de ciencias del deporte.
