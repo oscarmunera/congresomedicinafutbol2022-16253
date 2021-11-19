@@ -12,7 +12,7 @@ El precio de la inscripción tendrá un descuento del precio full, el cual será
 
 Tener en cuenta:
 
-Deberá enviar soporte de su carné o certificación de estudiante al correo congreso.medicinadeportiva@equidadclubdeportivo.coop (No mayor a 1 mes de vigencia)
+Deberá enviar soporte de su carnet o certificación de estudiante al correo congreso.medicinadeportiva@equidadclubdeportivo.coop (No mayor a 1 mes de vigencia)
 
 Se realizará la validación de la documentación para obtener el beneficio correspondiente.
 
