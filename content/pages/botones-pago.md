@@ -12,7 +12,7 @@ sections:
           - label: Link de pago en dólaresPayú
             url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
             style: primary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
