@@ -6,7 +6,6 @@ sections:
     actions: []
     grid_items:
       - title: Para Pagos desde exterior
-        subtitle: 'Paga '
         title_align: left
         content: >-
           ## Lorem ipsum
