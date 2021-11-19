@@ -10,7 +10,7 @@ sections:
         content_align: left
         actions:
           - label: Link de pago en dólaresPayú
-            url: '#'
+            url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
             style: link
             has_icon: false
             icon: arrow-left
