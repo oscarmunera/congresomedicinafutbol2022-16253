@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: botones-pago
 sections: []
 seo:
   title: ''
