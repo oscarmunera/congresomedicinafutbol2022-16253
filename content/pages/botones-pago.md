@@ -2,7 +2,7 @@
 title: botones-pago
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Contamos con diferentes opciones de pago para su comodidad.
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
