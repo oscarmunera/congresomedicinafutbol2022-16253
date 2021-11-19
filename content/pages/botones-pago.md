@@ -27,17 +27,6 @@ sections:
         subtitle: $ US 160 menos 10% si paga antes del 31 de diciembre de 2021
       - title: Para pagos en Colombia en pesos
         title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
