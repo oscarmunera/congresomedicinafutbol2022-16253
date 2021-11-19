@@ -29,7 +29,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: 'Link de '
             url: '#'
             style: link
             has_icon: false
