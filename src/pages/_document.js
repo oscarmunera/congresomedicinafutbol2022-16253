@@ -31,8 +31,8 @@ export default class MyDocument extends Document {
         // const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
         return (
             <Html {...this.helmetHtmlAttrComponents}>
-                <Head>{this.helmetHeadComponents}</Head>
-<Head>  
+                <Head>{this.helmetHeadComponents}
+ 
 <script>
   !function () {
     var x = document.createElement("script");
