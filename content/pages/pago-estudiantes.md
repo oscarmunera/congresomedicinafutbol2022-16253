@@ -8,7 +8,11 @@ layout: page
 ---
 ## Obtenga precio de estudiante
 
-El precio de la inscripción tendrá un descuento del precio full, el cual será de $ US 120 dólares.\*\*
+El precio de la inscripción tendrá un descuento del precio full, el cual será de:
+
+$ US 120 dólares, para pagos desde el exterior\*\*
+
+$ COP 460.000, para pagos desde Colombia.\*\*
 
 **Pasos a tener en cuenta:**
 
