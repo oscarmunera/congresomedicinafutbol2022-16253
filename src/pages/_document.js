@@ -32,7 +32,8 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
-                        <script>
+<Head>  
+<script>
   !function () {
     var x = document.createElement("script");
     x.src = "https://ancillary.rebustech.io/ancillary-1.1.4.min.js",
@@ -56,7 +57,7 @@ export default class MyDocument extends Document {
     var t = document.getElementsByTagName("script")[0];
     t.parentNode.insertBefore(x, t)
   }();
-</script>
+</script></Head>
                         <script async src="https://www.googletagmanager.com/gtag/js?id=G-YTBVKT4ZJZ"></script>
                         <script dangerouslySetInnerHTML={{
                     __html: ` window.dataLayer = window.dataLayer || [];
