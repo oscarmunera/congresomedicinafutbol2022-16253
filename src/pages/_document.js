@@ -33,18 +33,12 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
 
-import Document, { Html, Head, Main, NextScript } from 'next/document'
 
-class MyDocument extends Document {
-  render() { 
-    return (
-      <Html>
-	<Head />
-	<body>
-	  <Main />
-	  <NextScript />
-          <script>
-  !function () {
+  
+
+
+ <script dangerouslySetInnerHTML={{
+                    __html: `!function () {
     var x = document.createElement("script");
     x.src = "https://ancillary.rebustech.io/ancillary-1.1.4.min.js",
     x.type = "text/javascript",
@@ -66,15 +60,8 @@ class MyDocument extends Document {
     };
     var t = document.getElementsByTagName("script")[0];
     t.parentNode.insertBefore(x, t)
-  }();
-</script>
-	</body>
-      </Html>
-    )
-  }
-}
-
-export default MyDocument;
+  }();`
+                }} />  
 
 
                         <script async src="https://www.googletagmanager.com/gtag/js?id=G-YTBVKT4ZJZ"></script>
