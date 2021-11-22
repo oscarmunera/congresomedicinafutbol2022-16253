@@ -135,7 +135,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: grid_section
-    title: Precios (10% de descuento si se inscribe antes de diciembre 31 de 2021).
+    title: Precios (10% de descuento por inscripantes de diciembre 31 de 2021).
     subtitle: Tenemos precios diferenciales para estudiantes y profesionales
     grid_items:
       - title: Estudiantes
