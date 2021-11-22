@@ -188,7 +188,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: 'https://app.rebus.com.co/congreso'
+            url: 'https://equidadsportsmedicine.com/botones-pago/'
             style: primary
             new_window: true
         actions_align: center
