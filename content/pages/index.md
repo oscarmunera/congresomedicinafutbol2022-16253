@@ -460,7 +460,7 @@ sections:
       fútbol.
     subtitle: Pregunte por más.
     grid_items:
-      - title: ¿El congreso tiene opciones de conferencias virtuales?
+      - title: ¿El congreso tiene opció de conferencias virtuales?
         title_align: left
         content: |
           El II Congreso Internacional Medicina del Fútbol es 100% presencial.
