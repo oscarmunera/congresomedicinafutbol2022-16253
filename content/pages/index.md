@@ -168,14 +168,14 @@ sections:
       - title: Profesionales
         subtitle: Marzo 24-25
         title_align: left
-        content: >+
+        content: >
           $ US 160 (Pagos desde el exterior)
 
 
           $ COP 600.000  (Pagos desde Colombia)
 
 
-          **-10% antes del 31/12/2021.**
+          **-10% antes del 31 de diciembre de 2021.**
 
 
           Profesionales de todas las áreas de ciencias del deporte.
@@ -185,7 +185,6 @@ sections:
 
           *   Acceso completo a todas las charlas, conferencias, rueda comercial
           y networking.
-
         content_align: left
         actions:
           - label: Regístrese aquí
