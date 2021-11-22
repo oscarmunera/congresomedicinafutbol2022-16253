@@ -233,7 +233,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/2 (8).png
-      - title: ¡
+      - title: ¿Quieres ser parte de nuestro
         content: >
           Contaremos con una rueda comercial de negocios y networking en donde
           las marcas patrocinadoras tendrán stands en los que podrán interactuar
