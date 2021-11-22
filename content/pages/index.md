@@ -135,7 +135,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: grid_section
-    title: Precios (10% de descuento si se inscribe antes de diciembre 31 de 2021).
+    title: Precios (10% de descuento por inscripción antes de diciembre 31 de 2021).
     subtitle: Tenemos precios diferenciales para estudiantes y profesionales
     grid_items:
       - title: Estudiantes
@@ -148,7 +148,7 @@ sections:
           $ COP 460.000  (Pagos desde Colombia)
 
 
-          **-10% antes del 31/12/2021.**
+          **-10% antes del 31 de diciembre de 2021.**
 
 
           Estudiantes con certificación o carnet vigente
@@ -168,14 +168,14 @@ sections:
       - title: Profesionales
         subtitle: Marzo 24-25
         title_align: left
-        content: >+
+        content: >
           $ US 160 (Pagos desde el exterior)
 
 
           $ COP 600.000  (Pagos desde Colombia)
 
 
-          **-10% antes del 31/12/2021.**
+          **-10% antes del 31 de diciembre de 2021.**
 
 
           Profesionales de todas las áreas de ciencias del deporte.
@@ -185,7 +185,6 @@ sections:
 
           *   Acceso completo a todas las charlas, conferencias, rueda comercial
           y networking.
-
         content_align: left
         actions:
           - label: Regístrese aquí
@@ -225,8 +224,8 @@ sections:
         media_width: sixty
       - title: I Congreso Internacional Medicina del Fútbol.
         content: >
-          Nuestro primer evento fue todo un éxito, contamos con los mejores
-          ponentes quienes compartieron todo su conocimiento y experiencia con
+          ¡Éxito total en nuestro primer evento! Contamos con los mejores
+          ponentes, quienes compartieron todo su conocimiento y experiencia con
           los asistentes.
         actions: []
         image_alt: foto grupal del Primer congreso
@@ -277,7 +276,7 @@ sections:
     features:
       - title: Lo mejor de nuestro I Congreso Internacional de Medicina del Fútbol.
         content: >
-          Christian Quiceno, director general de Equidad Sports Medicine nos
+          Christian Quiceno, director general de Equidad Sports Medicine, nos
           cuenta lo mejor del primer congreso realizado en el 2019.
         media_position: left
         media_width: sixty
@@ -461,12 +460,12 @@ sections:
       fútbol.
     subtitle: Pregunte por más.
     grid_items:
-      - title: ¿El congreso tiene opciones de conferencias virtuales?
+      - title: ¿El congreso tiene opción de conferencias virtuales?
         title_align: left
         content: |
           El II Congreso Internacional Medicina del Fútbol es 100% presencial.
         content_align: left
-      - title: Medios de pago.
+      - title: ¿ Cuáles son los medios de pago?
         title_align: left
         content: >
           Se puede cancelar con los siguientes medios de pago:
@@ -520,9 +519,9 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: 'Importante: Descargue consideraciones COVID19'
+    title: Lineamientos para manejo del COVID-19
     actions:
-      - label: Descargue documento aquí
+      - label: Descargue aquí
         url: >-
           https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Politicas.pdf
         style: primary
