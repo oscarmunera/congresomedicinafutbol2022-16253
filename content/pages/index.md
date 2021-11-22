@@ -521,7 +521,7 @@ sections:
   - type: cta_section
     title: Lineamientos para manejo del COVID-19
     actions:
-      - label: Descargue documento aquí
+      - label: Descargue aquí
         url: >-
           https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Politicas.pdf
         style: primary
