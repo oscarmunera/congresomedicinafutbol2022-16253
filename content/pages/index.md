@@ -519,7 +519,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: 'Importante: Descargue consideraciones COVID19'
+    title: Lineamientos para manejo del COVID-19
     actions:
       - label: Descargue documento aquí
         url: >-
