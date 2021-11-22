@@ -276,7 +276,7 @@ sections:
     features:
       - title: Lo mejor de nuestro I Congreso Internacional de Medicina del Fútbol.
         content: >
-          Christian Quiceno, director general de Equidad Sports Medicine nos
+          Christian Quiceno, director general de Equidad Sports Medicine, nos
           cuenta lo mejor del primer congreso realizado en el 2019.
         media_position: left
         media_width: sixty
