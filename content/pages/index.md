@@ -465,7 +465,7 @@ sections:
         content: |
           El II Congreso Internacional Medicina del Fútbol es 100% presencial.
         content_align: left
-      - title: Medios de pago.
+      - title: ¿ Cuáles son los medios de pago?
         title_align: left
         content: >
           Se puede cancelar con los siguientes medios de pago:
