@@ -224,8 +224,8 @@ sections:
         media_width: sixty
       - title: I Congreso Internacional Medicina del Fútbol.
         content: >
-          Nuestro primer evento fue todo un éxito, contamos con los mejores
-          ponentes quienes compartieron todo su conocimiento y experiencia con
+          ¡Éxito total en nuestro primer evento! Contamos con los mejores
+          ponentes, quienes compartieron todo su conocimiento y experiencia con
           los asistentes.
         actions: []
         image_alt: foto grupal del Primer congreso
