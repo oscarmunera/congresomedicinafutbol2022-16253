@@ -233,7 +233,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/2 (8).png
-      - title: ¿Quieres ser parte de nuestro evento? ingresa ya
+      - title: ¿Quieres ser parte de nuestro evento? ingresa ya.
         content: >
           Contaremos con una rueda comercial de negocios y networking en donde
           las marcas patrocinadoras tendrán stands en los que podrán interactuar
