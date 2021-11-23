@@ -54,7 +54,8 @@ sections:
         title: Duración.
         actions:
           - label: Descarga programa aquí
-            url: /sponsorship
+            url: >-
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Programa-Academico.pdf
             style: primary
             has_icon: false
             icon: arrow-left
