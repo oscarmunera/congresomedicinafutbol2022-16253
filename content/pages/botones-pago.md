@@ -24,13 +24,10 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        content: >
+        content: >+
           Para profesionales: $ US 160 (10% de descuento si paga antes de 31 de
           diciembre de 2021).
 
-
-          Para estudiantes:     $ US 120 (10% de descuento si paga antes de 31
-          de diciembre de 2021).
       - title: Para pagos en Colombia en pesos
         title_align: center
         content_align: left
