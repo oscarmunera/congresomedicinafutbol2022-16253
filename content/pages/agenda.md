@@ -8,8 +8,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/5 (5).png
-      - title: 25 de marzo
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
