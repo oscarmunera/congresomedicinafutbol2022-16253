@@ -34,34 +34,6 @@ export default class MyDocument extends Document {
                 <Head>{this.helmetHeadComponents}</Head>
 
 
-  
-
-
- <script dangerouslySetInnerHTML={{
-                    __html: `!function () {
-    var x = document.createElement("script");
-    x.src = "https://ancillary.rebustech.io/ancillary-1.1.4.min.js",
-    x.type = "text/javascript",
-    x.async = "true",
-    x.onload =
-    x.onreadystatechange =
-    function () {
-      var x = this.readyState;
-      if (!x || "complete" == x || "loaded" == x)
-      try {
-        WidgetRebus.default.mount({
-        side: 'right',
-        initialState: 'close',
-        token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6eyJuYW1lIjoiQ09OR1JFU08gTUVESUNJTkEgREVMIEZVVELDk0wiLCJ0eXBlIjoid2lkZ2V0IiwiV2lkZ2V0Q29uZmlnIjp7InRleHRCdXR0b24iOiJJTlNDUsONQkVURSBBUVXDjSAiLCJjb2xvckJ1dHRvbkZvbnQiOiIjZmZmZmZmIiwiY29sb3JCdXR0b25CYWNrZ3JvdW5kIjoiIzJlN2QzMiIsIndpdGhCcmFuZHMiOmZhbHNlLCJ1cmxXaGVyZWJ5IjoiIn19LCJldmVudElkIjoiNjE4YmZmMjM3MmIwYzYwZDlhNzRlYmY3IiwiaWF0IjoxNjM3MzQ5Mjc2fQ.6HFQKiZYyDbJ2tAMctj3-MzS5T1cJoM9vcnezE3fZ1I'
-        });
-      } catch (e) {
-        console.error('Error', e)
-      }
-    };
-    var t = document.getElementsByTagName("script")[0];
-    t.parentNode.insertBefore(x, t)
-  }();`
-                }} />  
 
 
                         <script async src="https://www.googletagmanager.com/gtag/js?id=G-YTBVKT4ZJZ"></script>
