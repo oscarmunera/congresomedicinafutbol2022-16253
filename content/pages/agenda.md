@@ -25,7 +25,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    title: 24 de Marzo
+    title: Programa Ac
 seo:
   title: ''
   description: ''
