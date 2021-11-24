@@ -1,8 +1,7 @@
 ---
 title: Agenda
 sections:
-  - subtitle: lorem-ipsum
-    features:
+  - features:
       - actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
