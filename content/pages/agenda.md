@@ -8,7 +8,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/5 (5).png
-      - title: lorem-ipsum
+      - title: 25 de marzo
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
