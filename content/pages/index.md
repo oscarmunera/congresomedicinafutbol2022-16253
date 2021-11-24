@@ -189,7 +189,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: 'https://equidadsportsmedicine.com/botones-pago/'
+            url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
             style: primary
             new_window: true
         actions_align: center
