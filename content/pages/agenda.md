@@ -7,7 +7,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: /images/5 (5).png
+        image: /images/5 (6).png
       - actions: []
         image_alt: lorem-ipsum
         media_position: top
