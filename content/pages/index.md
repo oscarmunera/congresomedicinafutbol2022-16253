@@ -143,10 +143,7 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: >
-          $ US 120 (Pagos desde el exterior)
-
-
-          $ COP 460.000  (Pagos desde Colombia)
+          COP 460.000  (Pagos desde Colombia)
 
 
           **-10% antes del 31 de diciembre de 2021.**
@@ -162,7 +159,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: /pago-estudiantes
+            url: 'https://biz.payulatam.com/L0c376fC91D6640'
             style: primary
         actions_align: center
         actions_width: full-width
@@ -170,9 +167,6 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: >
-          $ US 160 (Pagos desde el exterior)
-
-
           $ COP 600.000  (Pagos desde Colombia)
 
 
@@ -189,7 +183,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
+            url: 'https://biz.payulatam.com/L0c376f63027019'
             style: primary
             new_window: true
         actions_align: center
