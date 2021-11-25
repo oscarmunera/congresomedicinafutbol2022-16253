@@ -31,7 +31,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Pago en pesos y con código de descuento estudiantes
+          - label: Para Pagos si es profesional haga clic aquí
             url: 'https://app.rebus.com.co/congreso'
             style: primary
             has_icon: false
