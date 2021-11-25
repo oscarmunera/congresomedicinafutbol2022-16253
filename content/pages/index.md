@@ -172,8 +172,6 @@ sections:
           Profesionales de todas las áreas de ciencias del deporte.
 
 
-          *   Cupo limitado.
-
           *   Acceso completo a todas las charlas, conferencias, rueda comercial
           y networking.
         content_align: left
