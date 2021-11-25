@@ -74,7 +74,7 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: Descarga revista oficial aquí
+          - label: Descarga la revista oficial aquí
             url: >-
               https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/poster_ponentes.pdf
             style: primary
