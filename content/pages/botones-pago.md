@@ -48,11 +48,7 @@ sections:
         image_has_padding: false
         content: >
           Para profesionales: $ COP 600.000 10% de descuento si paga antes de 31
-          de diciembre de 2021.
-
-
-          Para estudiantes:     $ COP 460.000 10% de descuento si paga antes de
-          31 de diciembre de 2021.
+          de diciembre de 2021
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
