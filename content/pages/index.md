@@ -141,7 +141,7 @@ sections:
     grid_items:
       - title: Estudiantes
         subtitle: Marzo 24-25
-        title_align: center
+        title_align: left
         content: >
           $ COP 460.000  
 
