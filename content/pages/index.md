@@ -159,7 +159,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: /botones-pago
+            url: 'https://biz.payulatam.com/L0c376fC91D6640'
             style: primary
         actions_align: center
         actions_width: full-width
