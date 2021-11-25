@@ -32,7 +32,7 @@ sections:
         content_align: left
         actions:
           - label: Para Pagos si es profesional haga clic aquí
-            url: 'https://app.rebus.com.co/congreso'
+            url: 'https://biz.payulatam.com/L0c376f63027019'
             style: primary
             has_icon: false
             icon: arrow-left
