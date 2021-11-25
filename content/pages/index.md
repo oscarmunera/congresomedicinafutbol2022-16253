@@ -142,8 +142,8 @@ sections:
       - title: Estudiantes
         subtitle: Marzo 24-25
         title_align: left
-        content: >+
-          COP 460.000  (Pagos desde Colombia)
+        content: >
+          $ COP 460.000  
 
 
           **-10% antes del 31 de diciembre de 2021.**
@@ -151,7 +151,6 @@ sections:
 
           \* Se solicitará vía correo electrónico certificación vigente de
           estudiante, antes de confirmar su cupo en el evento.
-
         content_align: left
         actions:
           - label: Regístrese aquí
