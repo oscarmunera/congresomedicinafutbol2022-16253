@@ -9,7 +9,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Para Pago de estudiantes haga click
+          - label: Para Pago de estudiantes haga clic
             url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
             style: primary
             has_icon: false
