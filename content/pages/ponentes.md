@@ -591,7 +591,7 @@ sections:
         image: /images/Agregar un título (19) (2).png
         subtitle: Suecia
         content: >
-          ###### Director y Co-Fundador de Exxenctric.
+          ###### Director y Co-Fundador de Exxentric.
 
 
           ###### Especialista en medicina del deporte.
