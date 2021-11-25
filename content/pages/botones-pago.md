@@ -30,7 +30,7 @@ sections:
         subtitle: >-
           * Se solicitará la información y certificación de estudiante, antes de
           confirmar su cupo en  el evento.
-      - title: Para pagos si es profesional
+      - title: Para pagos si es profesional.
         title_align: center
         content_align: left
         actions:
