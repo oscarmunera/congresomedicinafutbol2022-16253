@@ -28,9 +28,9 @@ sections:
           Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
           de $ COP 460.000 queda en $ COP 414.000.
         subtitle: >-
-          * Se solicitará la información de estudiante, antes de confirmar su
-          cupo en  el evento.
-      - title: Para pagos si es profesional
+          * Se solicitará la información y certificación de estudiante, antes de
+          confirmar su cupo en  el evento.
+      - title: Para pagos si es profesional.
         title_align: center
         content_align: left
         actions:
@@ -49,10 +49,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        content: >+
+        content: >
           Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
-          de $ COP 600.000 queda en $ COP 640.000.
-
+          de $ COP 600.000 queda en $ COP 540.000.
         subtitle: >-
           * Para pagos desde el exterior, se tomará la tasa en dólares del
           momento de la compra para la conversión.
