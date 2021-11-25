@@ -53,6 +53,7 @@ sections:
           Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
           de $ COP 600.000 queda en $ COP 640.000.
 
+        subtitle: '*'
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
