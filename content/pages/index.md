@@ -140,7 +140,7 @@ sections:
     subtitle: Tenemos precios diferenciales para estudiantes y profesionales
     grid_items:
       - title: Estudiantes
-        subtitle: Marzo 24-25
+        subtitle: Marzo 24-25 de 2022.
         title_align: left
         content: >
           $ COP 460.000  
