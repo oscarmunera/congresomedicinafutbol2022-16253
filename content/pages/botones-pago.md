@@ -5,12 +5,12 @@ sections:
     title: Opciones de pago.
     actions: []
     grid_items:
-      - title: Para Pagos desde exterior
+      - title: Para Pagos si es estudiante.
         title_align: center
         content_align: left
         actions:
-          - label: Link de pago en dólares Payú.
-            url: 'https://biz.payulatam.com/L0c376fCD4DBEB1'
+          - label: Para Pago de estudiantes haga clic aquí
+            url: 'https://biz.payulatam.com/L0c376fC91D6640'
             style: primary
             has_icon: false
             icon: arrow-right
@@ -24,36 +24,38 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        content: >+
-          Para profesionales: $ US 160 (10% de descuento si paga antes de 31 de
-          diciembre de 2021).
-
-      - title: Para pagos en Colombia en pesos
+        content: >
+          Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
+          de $ COP 460.000 queda en $ COP 414.000.
+        subtitle: >-
+          * Se solicitará la información de estudiante, antes de confirmar su
+          cupo en  el evento.
+      - title: Para pagos si es profesional
         title_align: center
         content_align: left
         actions:
-          - label: Pago en pesos y con código de descuento estudiantes
-            url: 'https://app.rebus.com.co/congreso'
+          - label: Para Pagos si es profesional haga clic aquí
+            url: 'https://biz.payulatam.com/L0c376f63027019'
             style: primary
             has_icon: false
             icon: arrow-left
             icon_position: center
             new_window: true
             no_follow: false
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
-        content: >
-          Para profesionales: $ COP 600.000 10% de descuento si paga antes de 31
-          de diciembre de 2021.
+        content: >+
+          Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
+          de $ COP 600.000 queda en $ COP 640.000.
 
-
-          Para estudiantes:     $ COP 460.000 10% de descuento si paga antes de
-          31 de diciembre de 2021.
+        subtitle: >-
+          * Para pagos desde el exterior, se tomará la tasa en dólares del
+          momento de la compra para la conversión.
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
