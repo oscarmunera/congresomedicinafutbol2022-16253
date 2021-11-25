@@ -160,7 +160,7 @@ sections:
         actions_width: full-width
       - title: Profesionales
         subtitle: Marzo 24-25
-        title_align: center
+        title_align: left
         content: >
           $ COP 600.000
 
