@@ -24,10 +24,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        content: >+
-          Para profesionales: $ US 160 (10% de descuento si paga antes de 31 de
-          diciembre de 2021).
-
+        content: >
+          Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
+          de $ COP 460.000 queda por $ COP 414.000.
       - title: Para pagos en Colombia en pesos
         title_align: center
         content_align: left
