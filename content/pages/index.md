@@ -74,9 +74,9 @@ sections:
         image_position: left
         image_width: twenty-five
         actions:
-          - label: Descarga afiche de ponentes aquí
+          - label: Descarga la revista oficial aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/poster_ponentes.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Revista-Oficial-II-CIMF.pdf
             style: primary
             has_icon: false
             icon: arrow-left
