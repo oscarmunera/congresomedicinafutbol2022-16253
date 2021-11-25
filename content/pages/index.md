@@ -142,20 +142,16 @@ sections:
       - title: Estudiantes
         subtitle: Marzo 24-25
         title_align: left
-        content: >
+        content: >+
           COP 460.000  (Pagos desde Colombia)
 
 
           **-10% antes del 31 de diciembre de 2021.**
 
 
-          Estudiantes con certificación o carnet vigente
+          \* Se solicitará vía correo electrónico certificación vigente de
+          estudiante, antes de confirmar su cupo en el evento.
 
-
-          *   Cupo limitado.
-
-          *   Se aceptan inscripciones para estudiantes solo hasta enero 31 de
-          2022.
         content_align: left
         actions:
           - label: Regístrese aquí
@@ -173,13 +169,8 @@ sections:
           **-10% antes del 31 de diciembre de 2021.**
 
 
-          Profesionales de todas las áreas de ciencias del deporte.
-
-
-          *   Cupo limitado.
-
-          *   Acceso completo a todas las charlas, conferencias, rueda comercial
-          y networking.
+          Acceso completo a todas las charlas, conferencias, rueda comercial y
+          networking.
         content_align: left
         actions:
           - label: Regístrese aquí
