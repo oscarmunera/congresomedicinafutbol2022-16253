@@ -162,7 +162,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: /pago-estudiantes
+            url: botones-pago/
             style: primary
         actions_align: center
         actions_width: full-width
