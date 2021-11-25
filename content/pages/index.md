@@ -170,9 +170,6 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: >
-          $ US 160 (Pagos desde el exterior)
-
-
           $ COP 600.000  (Pagos desde Colombia)
 
 
