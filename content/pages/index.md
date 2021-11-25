@@ -162,7 +162,7 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: >
-          $ COP 600.000  (Pagos desde Colombia)
+          $ COP 600.000
 
 
           **-10% antes del 31 de diciembre de 2021.**
