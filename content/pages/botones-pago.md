@@ -5,7 +5,7 @@ sections:
     title: Opciones de pago.
     actions: []
     grid_items:
-      - title: Para Pagos desde exterior
+      - title: Para Pagos si es estudiante.
         title_align: center
         content_align: left
         actions:
