@@ -65,7 +65,7 @@
             },
             {
                 "label": "Inscripciones",
-                "url": "botones-pago/",
+                "url": "/botones-pago/",
                 "style": "primary",
                 "new_window": true
             }
