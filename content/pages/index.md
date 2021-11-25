@@ -142,8 +142,8 @@ sections:
       - title: Estudiantes
         subtitle: Marzo 24-25
         title_align: left
-        content: >+
-          COP 460.000  (Pagos desde Colombia)
+        content: >
+          $ COP 460.000  
 
 
           **-10% antes del 31 de diciembre de 2021.**
@@ -151,7 +151,6 @@ sections:
 
           \* Se solicitará vía correo electrónico certificación vigente de
           estudiante, antes de confirmar su cupo en el evento.
-
         content_align: left
         actions:
           - label: Regístrese aquí
@@ -163,7 +162,7 @@ sections:
         subtitle: Marzo 24-25
         title_align: left
         content: >
-          $ COP 600.000  (Pagos desde Colombia)
+          $ COP 600.000
 
 
           **-10% antes del 31 de diciembre de 2021.**
@@ -316,25 +315,6 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: 'http://www.smartcoach.eu/es/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: true
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/6 (4).png
-      - title_align: left
-        content_align: left
-        actions:
-          - label: ' '
             url: 'https://www.mysportscience.com/'
             style: primary
             has_icon: true
@@ -350,6 +330,25 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/5 (4).png
+      - title_align: left
+        content_align: left
+        actions:
+          - label: ' '
+            url: 'http://www.smartcoach.eu/es/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: true
+            no_follow: false
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/6 (4).png
       - title_align: left
         content_align: center
         actions:
