@@ -159,7 +159,7 @@ sections:
         actions_align: center
         actions_width: full-width
       - title: Profesionales
-        subtitle: Marzo 24-25
+        subtitle: Marzo 24-25 de 2022.
         title_align: left
         content: >
           $ COP 600.000
