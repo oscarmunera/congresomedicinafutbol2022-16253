@@ -29,7 +29,7 @@ sections:
           de $ COP 460.000 queda por $ COP 414.000.
         subtitle: >-
           * Haremos validación de su información de estudiante, antes de
-          confirmar
+          confirmar su cupo en 
       - title: Para pagos si es profesional
         title_align: center
         content_align: left
