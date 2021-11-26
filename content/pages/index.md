@@ -76,7 +76,7 @@ sections:
         actions:
           - label: Descarga la revista oficial aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Revista-Oficial-II-CIMF.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2021/11/Revista-Oficial-II-CIMF2.0.pdf
             style: primary
             has_icon: false
             icon: arrow-left
