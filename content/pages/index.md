@@ -531,7 +531,7 @@ sections:
           Teléfono 601 6345230
           congreso.medicinadeportiva@equidadclubdeportivo.coop
 
-          *Atendemos de 8:00 am a 5:00 pm.*
+          *Atendemos de 8:00 am a 5:00 pm., de lunes a sábado.*
         title_align: center
         content_align: center
       - title: Política de tratamiento de datos personales.
