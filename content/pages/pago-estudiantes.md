@@ -20,6 +20,6 @@ $ COP 460.000, para pagos desde Colombia.\*\*
 
 2.  Se realizará la validación de la documentación para obtener el beneficio correspondiente.
 
-3.  Enviaremos de vuelta vía correo electrónico un link personalizao para realizar el proceso de inscripción junto con el link donde podrá proceder con el pago.
+3.  Enviaremos de vuelta vía correo electrónico un link personalizado para proceder con el proceso de inscripción junto con el link donde podrá proceder con el pago.
 
 **\*\*Si realiza la inscripción antes del 31 de diciembre de 2021, obtendrá un descuento adicional del 10% sobre el valor del congreso**
