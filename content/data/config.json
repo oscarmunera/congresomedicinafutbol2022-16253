@@ -70,18 +70,7 @@
                 "new_window": true
             }
         ],
-        "primary_nav_links": [
-            {
-                "label": "dirección",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "primary_nav_links": []
     },
     "footer": {
         "has_primary_nav": false,
