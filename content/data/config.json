@@ -72,7 +72,7 @@
         ],
         "primary_nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "dirección",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
