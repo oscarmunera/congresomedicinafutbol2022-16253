@@ -9,7 +9,7 @@
     "header": {
         "title": "II Congreso Medicina del fútbol",
         "logo": "/images/CONGRESO INTERNACIONAL (400 x 200 px) (300 x 150 px) (4).png",
-        "logo_alt": "Congreso medicina deportiva",
+        "logo_alt": "II Congreso Internacional de medicina deportiva",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
@@ -70,18 +70,7 @@
                 "new_window": true
             }
         ],
-        "primary_nav_links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "primary_nav_links": []
     },
     "footer": {
         "has_primary_nav": false,
@@ -143,7 +132,7 @@
     "announcement": {
         "has_anncmnt": false,
         "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
+        "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": false,
         "anncmnt_id": "new-features"
