@@ -436,7 +436,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/17.png
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
