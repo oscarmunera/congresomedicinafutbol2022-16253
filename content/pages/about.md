@@ -4,38 +4,35 @@ seo:
   title: About
   description: This is the about us page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the about us page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/feature-3.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the about us page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
 layout: page
 ---
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique.
 
 ## Inspire
 
-Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo. Phasellus finibus risus eget est cursus finibus.
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus. Morbi egestas ullamcorper vulputate. Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
 ## Create
 
