@@ -481,7 +481,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/11.png
       - title: Andrés Zapata
         subtitle: Colombia
         title_align: left
