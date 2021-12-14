@@ -70,7 +70,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: '* Si tiene dificul'
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
