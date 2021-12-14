@@ -70,7 +70,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: lorem-ipsum
-    title: '* Si tiene dificultades para procesar su pago, nos puede escribir al +'
+    title: '* Si tiene dificultades para procesar su pago, nos puede escribir al +57'
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
