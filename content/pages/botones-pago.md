@@ -67,6 +67,9 @@ sections:
 
           \* Si tiene dificultades para procesar su pago, nos puede escribir al
           +573002000206
+        subtitle: >-
+          * Para pagos desde el exterior, se tomará la tasa en dólares del
+          momento de la compra para la conversión.
       - title: Para pagos por fuera de Colombia
         subtitle: >-
           * Para pagos desde el exterior, se tomará la tasa en dólares del
