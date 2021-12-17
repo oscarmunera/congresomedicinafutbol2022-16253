@@ -63,7 +63,9 @@ sections:
           +573002000206
 
       - title: Para pagos por fuera de Colombia
-        subtitle: lorem-ipsum
+        subtitle: >-
+          * Para pagos desde el exterior, se tomará la tasa en dólares del
+          momento de la compra para la conversión.
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
