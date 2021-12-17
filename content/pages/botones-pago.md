@@ -76,6 +76,13 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        content: >
+          Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
+          de $ COP 600.000 queda en $ COP 540.000.
+
+
+          \* Si tiene dificultades para procesar su pago, nos puede escribir al
+          +573002000206
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
