@@ -9,7 +9,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Para Pago de estudiantes haga clic aquí
+          - label: Haga clic aquí
             url: 'https://biz.payulatam.com/L0c376fC91D6640'
             style: primary
             has_icon: false
@@ -39,7 +39,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Para Pagos si es profesional haga clic aquí
+          - label: Haga clic aquí
             url: 'https://biz.payulatam.com/L0c376f63027019'
             style: primary
             has_icon: false
@@ -62,10 +62,36 @@ sections:
           \* Si tiene dificultades para procesar su pago, nos puede escribir al
           +573002000206
 
+      - title: Para pagos por fuera de Colombia
         subtitle: >-
           * Para pagos desde el exterior, se tomará la tasa en dólares del
           momento de la compra para la conversión.
-    grid_cols: two
+        title_align: center
+        content_align: left
+        actions:
+          - label: Haga clic aquí
+            url: 'https://app.rebus.com.co/congreso'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: center
+            new_window: true
+            no_follow: true
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        content: >
+          Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
+          de $ COP 600.000 queda en $ COP 540.000.
+
+
+          \* Si tiene dificultades para procesar su pago, nos puede escribir al
+          +573002000206
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
