@@ -69,7 +69,7 @@ sections:
           +573002000206
         subtitle: >-
           * Puede pagar con tarjeta de crédito, débito nacional y en efectivo en
-          puntos de pago
+          Banco de Bogotá y en Bancolomabia.
       - title: Para pagos por fuera de Colombia
         subtitle: >-
           * Para pagos desde el exterior, se tomará la tasa en dólares del
