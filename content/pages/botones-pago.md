@@ -67,7 +67,9 @@ sections:
 
           \* Si tiene dificultades para procesar su pago, nos puede escribir al
           +573002000206
-        subtitle: '* Puede pagar con tarjeta de crédito, débito nacional y en'
+        subtitle: >-
+          * Puede pagar con tarjeta de crédito, débito nacional y en efectivo en
+          puntos de pago
       - title: Para pagos por fuera de Colombia
         subtitle: >-
           * Para pagos desde el exterior, se tomará la tasa en dólares del
