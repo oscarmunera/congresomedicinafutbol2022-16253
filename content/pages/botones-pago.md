@@ -65,7 +65,7 @@ sections:
         subtitle: >-
           * Para pagos desde el exterior, se tomará la tasa en dólares del
           momento de la compra para la conversión.
-    grid_cols: two
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: true
