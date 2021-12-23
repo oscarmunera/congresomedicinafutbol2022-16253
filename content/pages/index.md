@@ -194,7 +194,7 @@ sections:
           networking.
         content_align: left
         actions:
-          - label: rEGÍSTR
+          - label: Re
             url: '#'
             style: link
             has_icon: false
