@@ -178,7 +178,7 @@ sections:
             new_window: true
         actions_align: center
         actions_width: full-width
-      - title: lorem-ipsum
+      - title: Para pagos por fuera de Colombia.
         subtitle: lorem-ipsum
         title_align: left
         content: >-
