@@ -178,7 +178,7 @@ sections:
             new_window: true
         actions_align: center
         actions_width: full-width
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: small
     enable_cards: true
