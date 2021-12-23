@@ -179,7 +179,7 @@ sections:
         actions_align: center
         actions_width: full-width
       - title: Para pagos por fuera de Colombia.
-        subtitle: lorem-ipsum
+        subtitle: Marzo 24-25 de 2022
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
