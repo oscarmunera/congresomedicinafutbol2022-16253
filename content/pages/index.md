@@ -197,7 +197,7 @@ sections:
           - label: Regístrese aquí
             url: 'https://app.rebus.com.co/congreso'
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-left
             icon_position: right
             new_window: false
