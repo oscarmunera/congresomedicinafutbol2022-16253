@@ -178,7 +178,38 @@ sections:
             new_window: true
         actions_align: center
         actions_width: full-width
-    grid_cols: two
+      - title: Para pagos por fuera de Colombia.
+        subtitle: Marzo 24-25 de 2022
+        title_align: left
+        content: >
+          $ COP 600.000
+
+
+
+
+          **-10% antes del 31 de diciembre de 2021.**
+
+
+          Acceso completo a todas las charlas, conferencias, rueda comercial y
+          networking.
+        content_align: left
+        actions:
+          - label: Regístrese aquí
+            url: 'https://app.rebus.com.co/congreso'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: center
+            new_window: true
+            no_follow: true
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+    grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: small
     enable_cards: true
