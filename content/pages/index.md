@@ -179,11 +179,6 @@ sections:
           $ COP 600.000
 
 
-
-
-          **-10% antes del 31 de diciembre de 2021.**
-
-
           Acceso completo a todas las charlas, conferencias, rueda comercial y
           networking.
         content_align: left
