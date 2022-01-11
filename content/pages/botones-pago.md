@@ -10,7 +10,7 @@ sections:
         content_align: left
         actions:
           - label: Haga clic aquí
-            url: 'https://biz.payulatam.com/L0c376fC91D6640'
+            url: 'https://biz.payulatam.com/L0c376f6C5C6E28'
             style: primary
             has_icon: false
             icon: arrow-right
@@ -40,7 +40,7 @@ sections:
         content_align: left
         actions:
           - label: Haga clic aquí
-            url: 'https://biz.payulatam.com/L0c376f63027019'
+            url: 'https://biz.payulatam.com/L0c376f9C9F17B6'
             style: primary
             has_icon: false
             icon: arrow-left
