@@ -143,10 +143,7 @@ sections:
         subtitle: Marzo 24-25 de 2022.
         title_align: left
         content: >
-          $ COP 460.000  
-
-
-          **-10% antes del 31 de diciembre de 2021.**
+          $ COP 460.000
 
 
           \* Se solicitará vía correo electrónico certificación vigente de
@@ -154,7 +151,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: 'https://biz.payulatam.com/L0c376fC91D6640'
+            url: 'https://biz.payulatam.com/L0c376f6C5C6E28'
             style: primary
         actions_align: center
         actions_width: full-width
@@ -165,15 +162,12 @@ sections:
           $ COP 600.000
 
 
-          **-10% antes del 31 de diciembre de 2021.**
-
-
           Acceso completo a todas las charlas, conferencias, rueda comercial y
           networking.
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: 'https://biz.payulatam.com/L0c376f63027019'
+            url: 'https://biz.payulatam.com/L0c376f9C9F17B6'
             style: primary
             new_window: true
         actions_align: center
@@ -183,11 +177,6 @@ sections:
         title_align: left
         content: >
           $ COP 600.000
-
-
-
-
-          **-10% antes del 31 de diciembre de 2021.**
 
 
           Acceso completo a todas las charlas, conferencias, rueda comercial y
