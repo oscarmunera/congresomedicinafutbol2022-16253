@@ -143,10 +143,7 @@ sections:
         subtitle: Marzo 24-25 de 2022.
         title_align: left
         content: >
-          $ COP 460.000  
-
-
-          **-10% antes del 31 de diciembre de 2021.**
+          $ COP 460.000
 
 
           \* Se solicitará vía correo electrónico certificación vigente de
