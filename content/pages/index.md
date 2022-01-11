@@ -151,7 +151,7 @@ sections:
         content_align: left
         actions:
           - label: Regístrese aquí
-            url: 'https://biz.payulatam.com/L0c376fC91D6640'
+            url: 'https://biz.payulatam.com/L0c376f6C5C6E28'
             style: primary
         actions_align: center
         actions_width: full-width
