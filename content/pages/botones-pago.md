@@ -24,14 +24,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        content: >+
-          Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
-          de $ COP 460.000 queda en $ COP 414.000.
-
-
+        content: >
           \* Si tiene dificultades para procesar su pago, nos puede escribir al
           +573002000206
-
         subtitle: >-
           * Se solicitará vía correo electrónico certificación vigente de
           estudiante, antes de confirmar su cupo en  el evento.
@@ -55,16 +50,6 @@ sections:
         image_align: left
         image_has_padding: false
         content: >
-          Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
-          de $ COP 600.000 queda en $ COP 540.000.
-
-
-
-
-
-
-
-
           \* Si tiene dificultades para procesar su pago, nos puede escribir al
           +573002000206
         subtitle: >-
@@ -93,10 +78,6 @@ sections:
         image_align: left
         image_has_padding: false
         content: >
-          Si paga antes de 31 de diciembre de 2021, tiene un 10% de descuento y
-          de $ COP 600.000 queda en $ COP 540.000.
-
-
           \* Si tiene dificultades para procesar su pago, nos puede escribir al
           +573002000206
     grid_cols: three
