@@ -17,7 +17,7 @@ sections:
     media_position: top
     background_image_repeat: no-repeat
     media_width: sixty
-    background_image: /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (5).png
+    background_image: /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (6).png
     section_id: banner
     has_border: false
   - type: grid_section
@@ -153,6 +153,7 @@ sections:
           - label: Regístrese aquí
             url: 'https://biz.payulatam.com/L0c376f6C5C6E28'
             style: primary
+            new_window: true
         actions_align: center
         actions_width: full-width
       - title: Profesionales
