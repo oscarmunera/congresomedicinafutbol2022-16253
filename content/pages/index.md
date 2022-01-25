@@ -173,7 +173,7 @@ sections:
             new_window: true
         actions_align: center
         actions_width: full-width
-      - title: Para pagos por fuera de Colombia.
+      - title: Para pagos con tarjeta de crédito.
         subtitle: Marzo 24-25 de 2022
         title_align: left
         content: >
