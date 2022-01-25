@@ -53,8 +53,8 @@ sections:
           \* Si tiene dificultades para procesar su pago, nos puede escribir al
           +573002000206
         subtitle: >-
-          * Puede pagar con tarjeta de crédito, débito nacional y en efectivo en
-          Banco de Bogotá y en Bancolombia.
+          * Puede pagar con débito nacional y en efectivo en Banco de Bogotá y
+          en Bancolombia.
       - title: Para pagos por fuera de Colombia o con tarjeta de crédito.
         title_align: center
         content_align: left
