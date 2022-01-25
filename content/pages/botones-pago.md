@@ -55,7 +55,7 @@ sections:
         subtitle: >-
           * Puede pagar con débito nacional y en efectivo en Banco de Bogotá y
           en Bancolombia.
-      - title: Para pagos por fuera de Colombia o con tarjeta de crédito.
+      - title: Para pagos con tarjeta de crédito.
         title_align: center
         content_align: left
         actions:
