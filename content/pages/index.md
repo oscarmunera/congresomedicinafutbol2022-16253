@@ -136,10 +136,12 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: grid_section
-    title: Precios (10% de descuento por inscripción antes de diciembre 31 de 2021).
+    title: Precios.
     subtitle: Tenemos precios diferenciales para estudiantes y profesionales
     grid_items:
-      - title: Estudiantes
+      - title: >-
+          Para Pagos si es estudiante desde Colombia con tarjeta débito, en
+          efectivo y en Bancos.
         subtitle: Marzo 24-25 de 2022.
         title_align: left
         content: >
@@ -156,7 +158,9 @@ sections:
             new_window: true
         actions_align: center
         actions_width: full-width
-      - title: Profesionales
+      - title: >-
+          Para pagos si es profesional desde Colombia con tarjeta débito, en
+          efectivo y en Bancos.
         subtitle: Marzo 24-25 de 2022.
         title_align: left
         content: >
@@ -173,7 +177,9 @@ sections:
             new_window: true
         actions_align: center
         actions_width: full-width
-      - title: Para pagos con tarjeta de crédito.
+      - title: >-
+          Para pagos tarjeta de crédito estudiantes y profesionales desde
+          Colombia y el exterior.
         subtitle: Marzo 24-25 de 2022
         title_align: left
         content: >
