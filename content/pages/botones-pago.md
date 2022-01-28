@@ -5,7 +5,9 @@ sections:
     title: Opciones de pago.
     actions: []
     grid_items:
-      - title: Para Pagos si es estudiante .
+      - title: >-
+          Para Pagos si es estudiante desde Colombia con tarjeta débito y en
+          efectivo .
         title_align: center
         content_align: left
         actions:
