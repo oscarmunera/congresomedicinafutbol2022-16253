@@ -183,7 +183,10 @@ sections:
         subtitle: Marzo 24-25 de 2022
         title_align: left
         content: >
-          $ COP 600.000
+          $COP 460.000(estudiantes)
+
+
+          $ COP 600.000(profesionales)
 
 
           Acceso completo a todas las charlas, conferencias, rueda comercial y
