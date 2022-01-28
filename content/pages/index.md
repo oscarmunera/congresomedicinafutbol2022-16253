@@ -177,7 +177,9 @@ sections:
             new_window: true
         actions_align: center
         actions_width: full-width
-      - title: Para pagos con tarjeta de crédito.
+      - title: >-
+          Para pagos tarjeta de crédito estudiantes y profesionales desde
+          Colombia y el exterior
         subtitle: Marzo 24-25 de 2022
         title_align: left
         content: >
