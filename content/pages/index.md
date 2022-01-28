@@ -179,7 +179,7 @@ sections:
         actions_width: full-width
       - title: >-
           Para pagos tarjeta de crédito estudiantes y profesionales desde
-          Colombia y el exterior
+          Colombia y el exterior.
         subtitle: Marzo 24-25 de 2022
         title_align: left
         content: >
