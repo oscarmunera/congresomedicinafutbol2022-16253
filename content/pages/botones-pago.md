@@ -7,7 +7,7 @@ sections:
     grid_items:
       - title: >-
           Para Pagos si es estudiante desde Colombia con tarjeta débito y en
-          efectivo .
+          efectivo y en Bancos.
         title_align: center
         content_align: left
         actions:
