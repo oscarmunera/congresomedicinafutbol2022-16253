@@ -59,7 +59,7 @@ sections:
         subtitle: >-
           * Puede pagar con débito nacional y en efectivo en Banco de Bogotá y
           en Bancolombia.
-      - title: Para pagos si es profesional con tarjeta de crédito.
+      - title: Para pagos tarjeta de crédito estudiantes y profesionales.
         title_align: center
         content_align: left
         actions:
