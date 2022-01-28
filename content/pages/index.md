@@ -139,7 +139,9 @@ sections:
     title: Precios.
     subtitle: Tenemos precios diferenciales para estudiantes y profesionales
     grid_items:
-      - title: Estudiantes
+      - title: >-
+          Para Pagos si es estudiante desde Colombia con tarjeta débito, en
+          efectivo y en Bancos.
         subtitle: Marzo 24-25 de 2022.
         title_align: left
         content: >
