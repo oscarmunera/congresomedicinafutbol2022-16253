@@ -32,7 +32,9 @@ sections:
         subtitle: >-
           * Se solicitará vía correo electrónico certificación vigente de
           estudiante, antes de confirmar su cupo en  el evento.
-      - title: Para pagos si es profesional.
+      - title: >-
+          Para pagos si es profesional desde Colombia con tarjeta débito, en
+          efectivo y en Bancos..
         title_align: center
         content_align: left
         actions:
