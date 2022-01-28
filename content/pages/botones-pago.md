@@ -5,12 +5,14 @@ sections:
     title: Opciones de pago.
     actions: []
     grid_items:
-      - title: Para Pagos si es estudiante.
+      - title: >-
+          Para Pagos si es estudiante desde Colombia con tarjeta débito, en
+          efectivo y en Bancos.
         title_align: center
         content_align: left
         actions:
           - label: Haga clic aquí
-            url: 'https://biz.payulatam.com/L0c376f6C5C6E28'
+            url: 'https://biz.payulatam.com/L0c376f6C5C6E28 '
             style: primary
             has_icon: false
             icon: arrow-right
@@ -30,7 +32,9 @@ sections:
         subtitle: >-
           * Se solicitará vía correo electrónico certificación vigente de
           estudiante, antes de confirmar su cupo en  el evento.
-      - title: Para pagos si es profesional.
+      - title: >-
+          Para pagos si es profesional desde Colombia con tarjeta débito, en
+          efectivo y en Bancos.
         title_align: center
         content_align: left
         actions:
@@ -55,7 +59,7 @@ sections:
         subtitle: >-
           * Puede pagar con débito nacional y en efectivo en Banco de Bogotá y
           en Bancolombia.
-      - title: Para pagos si es profesional con tarjeta de crédito.
+      - title: Para pagos tarjeta de crédito estudiantes y profesionales.
         title_align: center
         content_align: left
         actions:
