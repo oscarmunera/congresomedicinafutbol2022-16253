@@ -158,7 +158,9 @@ sections:
             new_window: true
         actions_align: center
         actions_width: full-width
-      - title: Profesionales
+      - title: >-
+          Para pagos si es profesional desde Colombia con tarjeta débito, en
+          efectivo y en Bancos.
         subtitle: Marzo 24-25 de 2022.
         title_align: left
         content: >
