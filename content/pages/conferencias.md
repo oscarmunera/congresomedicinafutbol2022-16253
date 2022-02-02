@@ -872,7 +872,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/21.png
+        image: /images/Alexis García.png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
         content: >
