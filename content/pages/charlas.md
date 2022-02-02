@@ -300,7 +300,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/10.png
+        image: /images/Angel Aceña.png
       - subtitle: España
         content: >
           ###### Responsable Área Médica de la Federación Española de
