@@ -93,13 +93,7 @@ sections:
       - title: Luis Suárez Arrones
         subtitle: Suiza
         content: |
-          ###### Preparador físico FC Basel, Suiza.
-
-          ###### Doctor en alto rendimiento deportivo.
-
-          ###### Profesor de la universidad Pablo de Olavide.
-
-          ###### Ex Fiorentina FC, Selección Nacional de Qatar.
+          ######
         image: /images/Luis Suarez.png
         image_alt: Speaker 5 photo
         image_position: top
