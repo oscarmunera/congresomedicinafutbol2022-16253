@@ -569,7 +569,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/20.png
+        image: /images/Fernando Pastrana.png
       - title: Astrid Quinchia
         subtitle: Colombia
         title_align: left
