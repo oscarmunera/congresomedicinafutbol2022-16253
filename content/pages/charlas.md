@@ -194,7 +194,7 @@ sections:
 
           ###### Múltiples publicaciones en las principales revistas de medicina
           deportiva.
-        image: /images/12 (1)-aa162937.png
+        image: /images/Robin Thorpe (1).png
         image_alt: Speaker 3 photo
         image_position: top
         actions:
