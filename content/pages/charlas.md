@@ -45,7 +45,7 @@ sections:
 
           ###### Anteriormente, jefe de servicios médicos del equipo de rugby de
           Irlanda.
-        image: /images/3 (3).png
+        image: /images/Gary Odriscoll.png
         image_alt: Speaker 7 photo
         image_position: top
         actions_align: center
