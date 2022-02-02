@@ -1,27 +1,15 @@
 ---
-title: ponentes
+title: Charlas
 sections:
   - type: grid_section
-    title: Conferencias
+    title: Charlas
     subtitle: La mejor alineación de conferencistas nacionales e internacionales.
     grid_items:
       - title: Christian Quiceno
         subtitle: Colombia
-        content: >
-          ###### Director Médico y Científico del Club Deportivo La Equidad
-          Seguros.
-
-
-          ###### Médico y cirujano de la Universidad de Antioquia.
-
-
-          ###### Especialista en medicina aplicada a la actividad física y el
-          deporte Universidad de Antioquia.
-
-
-          ###### Ponente y asesor en medicina deportiva a nivel nacional e
-          internacional.
-        image: /images/14.png
+        content: |
+          ######
+        image: /images/Christian Quiceno (1).png
         image_alt: Speaker 2 photo
         image_position: top
         actions:
@@ -45,19 +33,9 @@ sections:
         actions_align: center
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
-        content: >
-          ###### Director médico y rendimiento Arsenal FC-Inglaterra.
-
-
-          ###### Miembro actual del grupo médico de la Premier League.
-
-
-          ###### Miembro de los paneles de disciplina y dopaje de Rugby.
-
-
-          ###### Anteriormente, jefe de servicios médicos del equipo de rugby de
-          Irlanda.
-        image: /images/3 (3).png
+        content: |
+          ######
+        image: /images/Gary Odriscoll.png
         image_alt: Speaker 7 photo
         image_position: top
         actions_align: center
@@ -72,20 +50,9 @@ sections:
             no_follow: true
       - title: José María Villalón
         subtitle: España
-        content: >
-          ###### Director de los servicios médicos del Club Atlético de Madrid.
-
-
-          ###### Licenciado en medicina y cirugía por la Universidad Complutense
-          de Madrid.
-
-
-          ###### Doctor en medicina física y rehabilitación por la universidad
-          complutense de Madrid.
-
-
-          ###### MSc en Traumatología y Medicina del deporte.
-        image: /images/16.png
+        content: |
+          ######
+        image: /images/José María Villalón.png
         image_alt: Speaker 4 photo
         image_position: top
         actions_align: center
@@ -100,7 +67,7 @@ sections:
             no_follow: false
       - title: Juanjo Brau
         subtitle: España
-        image: /images/8 (1).png
+        image: /images/Juanjo Brau (1).png
         image_alt: Speaker 6 photo
         image_position: top
         actions:
@@ -121,26 +88,13 @@ sections:
             new_window: true
             no_follow: true
         actions_align: center
-        content: >
-          ###### Fisioterapeuta deportivo y readaptador físico del Barcelona
-          F.C.
-
-
-          ###### Ponente internacional.
-
-
-          ###### Fisioterapeuta de la Universitat Internacional de Catalunya.
+        content: |
+          ######
       - title: Luis Suárez Arrones
         subtitle: Suiza
         content: |
-          ###### Preparador físico FC Basel, Suiza.
-
-          ###### Doctor en alto rendimiento deportivo.
-
-          ###### Profesor de la universidad Pablo de Olavide.
-
-          ###### Ex Fiorentina FC, Selección Nacional de Qatar.
-        image: /images/6 (2).png
+          ######
+        image: /images/Luis Suarez.png
         image_alt: Speaker 5 photo
         image_position: top
         actions:
@@ -164,18 +118,8 @@ sections:
       - title: Paolo Gaudino
         subtitle: Reino Unido
         title_align: left
-        content: >
-          ###### Readaptador y preparador físico Manchester United F.C.
-
-
-          ###### Sport Science y fitness coach desde 2011 hasta el 2018.
-
-
-          ###### PhD en Sport Science en la Universidad de Milán, Italia.
-
-
-          ###### Diferentes publicaciones científicas en revistas de ciencia y
-          medicina del deporte.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
@@ -201,7 +145,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/1 (5).png
+        image: /images/Paolo Gaudino (1).png
       - title: Pedro Alcaraz
         subtitle: España
         title_align: left
@@ -230,37 +174,14 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/WhatsApp Image 2021-11-20 at 10.02.25 AM.jpeg
-        content: >
-          ###### Presidente Ejecutivo de Strength & Conditioning Society.
-
-
-          ###### Doctor en ciencia de la actividad física y el deporte.
-
-
-          ###### Director del centro de investigación de alto rendimiento
-          deportivo de la UCAM.
-
-
-          ###### Director of UCAM Spanish Sports University.
+        image: /images/Pedro Alcaraz.png
+        content: |
+          ######
       - title: Robin Thorpe
         subtitle: USA
-        content: >
-          ###### Director de rendimiento y preparación física del Manchester
-          United F.C.-Inglaterra.
-
-
-          ###### Líder en investigación sobre manejo de la fatiga, recuperación
-          y regeneración.
-
-
-          ###### Doctor en ciencias del deporte, PhD Liverpool John Mores
-          University.
-
-
-          ###### Múltiples publicaciones en las principales revistas de medicina
-          deportiva.
-        image: /images/12 (1)-aa162937.png
+        content: |
+          ######
+        image: /images/Robin Thorpe (1).png
         image_alt: Speaker 3 photo
         image_position: top
         actions:
@@ -284,19 +205,8 @@ sections:
       - title: Daniel Cohen
         subtitle: Reino Unido
         title_align: left
-        content: >
-          ###### Asesor de equipos de Premier League, Liga Española, NFL, NBA.
-
-
-          ###### Doctor en ciencias del deporte.
-
-
-          ###### Cofundador y diseñador de las plataformas Forcedecks,
-          plataformas más utilizadas en el alto rendimiento.
-
-
-          ###### Investigador con más de 50 publicaciones sobre fuerza y
-          potencia.&#xA;&#xA;
+        content: |
+          ###### &#xA;&#xA;
         content_align: left
         actions:
           - label: ' '
@@ -314,20 +224,12 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Agregar un título (23) (2).png
+        image: /images/Daniel Cohen.png
       - title: Antonio Gómez
         subtitle: Polonia
         title_align: left
         content: |
-          ###### Preparador Físico Selección Nacional Polonia.
-
-          ###### Doctor en Ciencias de la Actividad Física y el Deporte.
-
-          ###### Máster Alto Rendimiento Deportes de Equipo.
-
-          ###### Máster Alto Rendimiento Deportes Cíclicos.
-
-          ###### ENTRENADOR Futbol Nivel 3.
+          ######
         content_align: left
         actions:
           - label: '  '
@@ -353,26 +255,12 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/5 (2).png
+        image: /images/Antonio Gomez.png
       - title: Ángel Áceña
         subtitle: Reino Unido
         title_align: left
-        content: >
-          ###### Preparador físico Watford F.C.
-
-
-          ###### Selección Costa Rica, Copa Mundial Rusia 2018.
-
-
-          ###### Preparación Física y la Prevención Readaptación deportiva (UCV,
-          UCAM, UPM, La Liga- Universidad LFP, Universidad San Pablo CEU.
-
-
-          ###### Publicaciones científicas, libros, capítulos, congresos.
-
-
-          ###### UEFA: Subcampeón Supercopa UEFA 2015, Campeón UEFA Europa
-          League 2016, Subcampeón Supercopa UEFA 2016
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
@@ -398,27 +286,11 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/10.png
+        image: /images/Angel Aceña.png
       - subtitle: España
-        content: >
-          ###### Responsable Área Médica de la Federación Española de
-          Baloncesto.
-
-
-          ###### Médico de selecciones femeninas de fútbol madrileño y español.
-
-
-          ###### Selección Absoluta Fútbol Sala Femenino
-          [RFEF](https://www.rfef.es/).
-
-
-          ###### Servicios Médicos Cantera Masculina y Femenina clubes de fútbol
-          español.
-
-
-          ###### Docente escuela de entrenadores [RFFM](https://www.rffm.es/) y
-          [FEB](https://www.feb.es/inicio.aspx).
-        image: /images/7 (3).png
+        content: |
+          ######
+        image: /images/Elena Isla (1).png
         image_alt: Speaker 8 photo
         image_position: top
         title: Elena Isla
@@ -443,21 +315,8 @@ sections:
       - title: Hernán Giuria
         subtitle: Argentina
         title_align: left
-        content: >
-          ###### Miembro comisión médica Liga Profesional de Fútbol Argentina.
-
-
-          ###### Junta directiva Asociación Argentina Traumatología del Deporte.
-
-
-          ###### Medicina y Traumatología del Deporte Experto en Medicina
-          regenerativa y Terapias Biológicas.
-
-
-          ###### Médico fútbol profesional Club Atlético Rosario Central.
-
-
-          ###### Staff sanatorio Mapaci.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
@@ -475,23 +334,12 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/19.png
+        image: /images/Hernan Giuria.png
       - title: Juan Carlos Quiceno
         subtitle: Paraguay
         title_align: left
-        content: >
-          ###### Coordinador del Centro de Ciencias Aplicadas al deporte del
-          Comité Olímpico Paraguayo.
-
-
-          ###### Médico y cirujano de la Universidad de Antioquia.
-
-
-          ###### Especialista en medicina aplicada a la actividad física y el
-          deporte Universidad de Antioquia.
-
-
-          ###### Ex Director médico Coldeportes y Comité Olímpico Colombiano.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
@@ -517,24 +365,12 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/13.png
+        image: /images/Juan Carlos Quiceno.png
       - title: Marco Pozzo
         subtitle: Italia
         title_align: left
-        content: >
-          ###### Fundador de la empresa SmartCoach Europe, tecnología de punta
-          para valoración de la fuerza.
-
-
-          ###### Ingeniero electrónico del Politecnico di Torino, Italia.
-
-
-          ###### Ex Director departamento de fisiología, Instituto Karolinska,
-          Suecia.
-
-
-          ###### Autor de 22 publicaciones científicas internacionales y 4
-          capítulos de libros.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
@@ -560,7 +396,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/19 (1).png
+        image: /images/Marco Pozzo.png
       - title: Fredrik Correa
         title_align: left
         content_align: left
@@ -588,41 +424,15 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Agregar un título (19) (2).png
+        image: /images/Fredrik Correa.png
         subtitle: Suecia
-        content: >
-          ###### Director y Co-Fundador de Exxentric.
-
-
-          ###### Especialista en medicina del deporte.
-
-
-          ###### 25 años como jugador y entrenador de Hockey sobre hielo, en los
-          últimos años ha trabajado en el desarrollo físico y el cuidado de
-          salud.
-
-
-          ###### Participación como pesista para la selección de Suecia.
+        content: |
+          ######
       - title: Javier Mallo
         subtitle: España
         title_align: left
-        content: >
-          ###### Preparador físico de fútbol en equipos profesionales élite de
-          España e Inglaterra.
-
-
-          ###### Doctor en Ciencias de la Actividad física y deporte & Diplomado
-          en Fisioterapia.
-
-
-          ###### Máster en Alto Rendimiento Deportivo.
-
-
-          ###### Autor de varios libros y artículos de investigación sobre el
-          entrenamiento en el fútbol y deportes de equipo.
-
-
-          ###### Ponente en congresos Internacionales.
+        content: |
+          ######
         content_align: left
         actions: []
         actions_align: left
@@ -632,7 +442,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/18 (1).png
+        image: /images/Javier Mallo.png
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
@@ -877,23 +687,6 @@ sections:
     align: center
     background_color: none
     enable_cards: false
-  - type: cta_section
-    title: Aproveche los precios de 2021.
-    actions:
-      - label: Inscríbase
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-        no_follow: false
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image_opacity: 15
 seo:
   title: Congreso internacional medicina del fútbol
   description: >-
