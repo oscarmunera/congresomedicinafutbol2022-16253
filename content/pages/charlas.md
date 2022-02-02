@@ -179,21 +179,8 @@ sections:
           ######
       - title: Robin Thorpe
         subtitle: USA
-        content: >
-          ###### Director de rendimiento y preparación física del Manchester
-          United F.C.-Inglaterra.
-
-
-          ###### Líder en investigación sobre manejo de la fatiga, recuperación
-          y regeneración.
-
-
-          ###### Doctor en ciencias del deporte, PhD Liverpool John Mores
-          University.
-
-
-          ###### Múltiples publicaciones en las principales revistas de medicina
-          deportiva.
+        content: |
+          ######
         image: /images/Robin Thorpe (1).png
         image_alt: Speaker 3 photo
         image_position: top
