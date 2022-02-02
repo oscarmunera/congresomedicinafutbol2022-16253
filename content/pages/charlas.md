@@ -67,7 +67,7 @@ sections:
             no_follow: false
       - title: Juanjo Brau
         subtitle: España
-        image: /images/8 (1).png
+        image: /images/Juanjo Brau (1).png
         image_alt: Speaker 6 photo
         image_position: top
         actions:
