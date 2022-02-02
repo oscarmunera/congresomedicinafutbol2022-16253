@@ -1,5 +1,5 @@
 ---
-title: ponentes
+title: Charlas
 sections:
   - type: grid_section
     title: Conferencias
