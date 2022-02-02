@@ -168,12 +168,17 @@ sections:
           efectivo y en Bancos.
         subtitle: Marzo 24-25 de 2022.
         title_align: left
-        content: >
+        content: >+
           $ COP 600.000
 
 
           Acceso completo a todas las charlas, conferencias, rueda comercial y
           networking.
+
+
+          \* Si tiene dificultades para procesar su pago, nos puede escribir al
+          +573002000206
+
         content_align: left
         actions:
           - label: Regístrese aquí
