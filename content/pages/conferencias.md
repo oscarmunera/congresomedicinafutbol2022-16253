@@ -835,18 +835,8 @@ sections:
       - title: Alexis García
         subtitle: Colombia
         title_align: left
-        content: >
-          ###### Director técnico Club Deportivo La Equidad Seguros.
-
-
-          ###### Licencia Pro Nacional Federación Colombiana de Fútbol-Conmebol.
-
-
-          ###### Conferencista experto en liderazgo, motivación y trabajo en
-          equipo.
-
-
-          ###### Exjugador Selección Colombia.
+        content: |
+          ######
         content_align: left
         actions:
           - label: '  '
