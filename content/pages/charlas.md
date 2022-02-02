@@ -100,7 +100,7 @@ sections:
           ###### Profesor de la universidad Pablo de Olavide.
 
           ###### Ex Fiorentina FC, Selección Nacional de Qatar.
-        image: /images/6 (2).png
+        image: /images/Luis Suarez.png
         image_alt: Speaker 5 photo
         image_position: top
         actions:
