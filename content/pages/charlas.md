@@ -175,18 +175,8 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Pedro Alcaraz.png
-        content: >
-          ###### Presidente Ejecutivo de Strength & Conditioning Society.
-
-
-          ###### Doctor en ciencia de la actividad física y el deporte.
-
-
-          ###### Director del centro de investigación de alto rendimiento
-          deportivo de la UCAM.
-
-
-          ###### Director of UCAM Spanish Sports University.
+        content: |
+          ######
       - title: Robin Thorpe
         subtitle: USA
         content: >
