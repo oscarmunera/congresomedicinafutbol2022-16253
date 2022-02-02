@@ -315,21 +315,8 @@ sections:
       - title: Hernán Giuria
         subtitle: Argentina
         title_align: left
-        content: >
-          ###### Miembro comisión médica Liga Profesional de Fútbol Argentina.
-
-
-          ###### Junta directiva Asociación Argentina Traumatología del Deporte.
-
-
-          ###### Medicina y Traumatología del Deporte Experto en Medicina
-          regenerativa y Terapias Biológicas.
-
-
-          ###### Médico fútbol profesional Club Atlético Rosario Central.
-
-
-          ###### Staff sanatorio Mapaci.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
