@@ -33,18 +33,8 @@ sections:
         actions_align: center
       - title: Gary O´Driscoll
         subtitle: Gran Bretaña
-        content: >
-          ###### Director médico y rendimiento Arsenal FC-Inglaterra.
-
-
-          ###### Miembro actual del grupo médico de la Premier League.
-
-
-          ###### Miembro de los paneles de disciplina y dopaje de Rugby.
-
-
-          ###### Anteriormente, jefe de servicios médicos del equipo de rugby de
-          Irlanda.
+        content: |
+          ######
         image: /images/Gary Odriscoll.png
         image_alt: Speaker 7 photo
         image_position: top
