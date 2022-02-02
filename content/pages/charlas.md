@@ -16,8 +16,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Agregar un título (1).png
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
