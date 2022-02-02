@@ -1,9 +1,48 @@
 ---
 title: Charlas
 sections:
+  - section_id: lorem-ipsum
+    title: Workshops
+    actions: []
+    grid_items:
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/Agregar un título (1).png
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/Agregar un título (2).png
+    grid_cols: two
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: grid_section
     title: Charlas
-    subtitle: La mejor alineación de conferencistas nacionales e internacionales.
     grid_items:
       - title: Christian Quiceno
         subtitle: Colombia
@@ -446,19 +485,8 @@ sections:
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
-        content: >
-          ###### Director [MySportScience](https://www.mysportscience.com/).
-
-
-          ###### Nutricionista deportivo y fisiólogo del ejercicio Birmingham
-          University-Inglaterra.
-
-
-          ###### Ex-Director de Gatorade Sports Science Institute.
-
-
-          ###### Múltiples publicaciones en las principales revistas de
-          nutrición deportiva y libros a nivel mundial.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
@@ -484,26 +512,12 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/4 (3)-ea1c66cb.png
+        image: /images/Asker Jeukendrup (1).png
       - title: Mireia Porta
         subtitle: España
         title_align: left
-        content: >
-          ###### Nutricionista de equipos de fútbol de la Liga Española.
-
-
-          ###### Dietista- Nutricionista y Tecnóloga Alimentaria por la
-          Universidad de Barcelona.
-
-
-          ###### Profesora Asociada de la Universidad  Autónoma de Barcelona.
-
-
-          ###### Antropometrista ISAK 3.
-
-
-          ###### Vocal de la Asociación de Dietistas Nutricionistas de Equipos
-          de Fútbol Español.&#xA;&#xA;
+        content: |
+          ###### &#xA;&#xA;
         content_align: left
         actions:
           - label: ' '
@@ -529,26 +543,12 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/11.png
+        image: /images/Mireia Porta 1.png
       - title: Andrés Zapata
         subtitle: Colombia
         title_align: left
-        content: >
-          ###### Director científico Motion Sports Nutrition Colombia.
-
-
-          ###### MSc en ciencias del deporte.
-
-
-          ###### Máster en nutrición deportiva y clínica- Universidad Isabel I
-          de Castilla.
-
-
-          ###### Experto universitario en nutrición deportiva -American College
-          of Sports Medicine.
-
-
-          ###### Nutricionista dietista- Universidad de Antioquia.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
@@ -566,23 +566,12 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/22.png
+        image: /images/Andrés Zapata.png
       - title: Fernando Pastrana
         subtitle: Colombia
         title_align: left
-        content: >
-          ###### Médico traumatólogo Club Deportivo La Equidad Seguros.
-
-
-          ###### Director MedSport Colombia.
-
-
-          ###### Médico Especialista en Ortopedia y Traumatología Deportiva
-          miembro de ISAKOS (Internacional Society of Arthroscopy, Knee Surgery
-          and Orthopaedics Sports Medicine).
-
-
-          ###### Especialista en cirugía de rodilla Clínica El Country.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
@@ -608,7 +597,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/20.png
+        image: /images/Fernando Pastrana.png
       - title: Astrid Quinchia
         subtitle: Colombia
         title_align: left
@@ -681,6 +670,52 @@ sections:
             no_follow: false
         content_align: left
         actions_align: center
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
+          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
+          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
+          imperdiet venenatis.
+
+
+          > Vestibulum ullamcorper risus auctor eleifend consequat.
+
+
+          ![Placeholder
+          Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+
+
+          In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet
+          nisl elementum fringilla. Pellentesque dapibus suscipit faucibus.
+          Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id
+          maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan
+          blandit consequat. Phasellus quis posuere quam.
+
+
+          Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum
+          ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna
+          leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo,
+          volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa
+          scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+          In volutpat efficitur nulla, aliquam ornare lectus ultricies ac.
+          Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum
+          pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor
+          enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam.
+          Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam
+          ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
+          diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
+          justo.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
