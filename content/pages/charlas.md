@@ -155,7 +155,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/1 (5).png
+        image: /images/Paolo Gaudino (1).png
       - title: Pedro Alcaraz
         subtitle: España
         title_align: left
