@@ -205,19 +205,8 @@ sections:
       - title: Daniel Cohen
         subtitle: Reino Unido
         title_align: left
-        content: >
-          ###### Asesor de equipos de Premier League, Liga Española, NFL, NBA.
-
-
-          ###### Doctor en ciencias del deporte.
-
-
-          ###### Cofundador y diseñador de las plataformas Forcedecks,
-          plataformas más utilizadas en el alto rendimiento.
-
-
-          ###### Investigador con más de 50 publicaciones sobre fuerza y
-          potencia.&#xA;&#xA;
+        content: |
+          ###### &#xA;&#xA;
         content_align: left
         actions:
           - label: ' '
