@@ -907,23 +907,6 @@ sections:
     align: center
     background_color: none
     enable_cards: false
-  - type: cta_section
-    title: Aproveche los precios de 2021.
-    actions:
-      - label: Inscríbase
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-        no_follow: false
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image_opacity: 15
 seo:
   title: Congreso internacional medicina del fútbol
   description: >-
