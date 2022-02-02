@@ -877,7 +877,7 @@ sections:
 
           ###### Administrador de empresas,  Universidad Cooperativa de
           Colombia.
-        image: /images/15.png
+        image: /images/Carlos Mario Zuluaga (1).png
         image_alt: Speaker 1 photo
         image_position: top
         actions:
