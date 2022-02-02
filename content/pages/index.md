@@ -144,12 +144,17 @@ sections:
           efectivo y en Bancos.
         subtitle: Marzo 24-25 de 2022.
         title_align: left
-        content: >
+        content: >+
           $ COP 460.000
 
 
           \* Se solicitará vía correo electrónico certificación vigente de
           estudiante, antes de confirmar su cupo en el evento.
+
+
+          \* Si tiene dificultades para procesar su pago, nos puede escribir al
+          +573002000206
+
         content_align: left
         actions:
           - label: Regístrese aquí
