@@ -65,7 +65,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Haga clic aquí
+          - label: Profesionales clic
             url: 'https://app.rebus.com.co/congreso'
             style: primary
             has_icon: false
