@@ -192,7 +192,7 @@ sections:
           Colombia y el exterior.
         subtitle: Marzo 24-25 de 2022
         title_align: left
-        content: >
+        content: >+
           $COP 460.000(estudiantes)
 
 
@@ -201,6 +201,11 @@ sections:
 
           Acceso completo a todas las charlas, conferencias, rueda comercial y
           networking.
+
+
+          \* Si tiene dificultades para procesar su pago, nos puede escribir al
+          +573002000206
+
         content_align: left
         actions:
           - label: Regístrese aquí
