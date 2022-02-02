@@ -477,22 +477,8 @@ sections:
       - title: Mireia Porta
         subtitle: España
         title_align: left
-        content: >
-          ###### Nutricionista de equipos de fútbol de la Liga Española.
-
-
-          ###### Dietista- Nutricionista y Tecnóloga Alimentaria por la
-          Universidad de Barcelona.
-
-
-          ###### Profesora Asociada de la Universidad  Autónoma de Barcelona.
-
-
-          ###### Antropometrista ISAK 3.
-
-
-          ###### Vocal de la Asociación de Dietistas Nutricionistas de Equipos
-          de Fútbol Español.&#xA;&#xA;
+        content: |
+          ###### &#xA;&#xA;
         content_align: left
         actions:
           - label: ' '
