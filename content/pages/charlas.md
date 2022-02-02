@@ -16,7 +16,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Agregar un título (1).png
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
