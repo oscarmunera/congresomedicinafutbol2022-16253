@@ -208,7 +208,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Regístrese aquí
+          - label: Prof
             url: 'https://app.rebus.com.co/congreso'
             style: primary
             has_icon: false
