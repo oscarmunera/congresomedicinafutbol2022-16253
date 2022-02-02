@@ -424,7 +424,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Agregar un título (19) (2).png
+        image: /images/Fredrik Correa.png
         subtitle: Suecia
         content: |
           ######
