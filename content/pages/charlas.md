@@ -63,7 +63,7 @@ sections:
 
 
           ###### MSc en Traumatología y Medicina del deporte.
-        image: /images/16.png
+        image: /images/José María Villalón.png
         image_alt: Speaker 4 photo
         image_position: top
         actions_align: center
