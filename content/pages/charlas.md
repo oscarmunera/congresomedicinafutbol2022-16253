@@ -50,19 +50,8 @@ sections:
             no_follow: true
       - title: José María Villalón
         subtitle: España
-        content: >
-          ###### Director de los servicios médicos del Club Atlético de Madrid.
-
-
-          ###### Licenciado en medicina y cirugía por la Universidad Complutense
-          de Madrid.
-
-
-          ###### Doctor en medicina física y rehabilitación por la universidad
-          complutense de Madrid.
-
-
-          ###### MSc en Traumatología y Medicina del deporte.
+        content: |
+          ######
         image: /images/José María Villalón.png
         image_alt: Speaker 4 photo
         image_position: top
