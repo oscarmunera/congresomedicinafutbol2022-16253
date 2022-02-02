@@ -369,20 +369,8 @@ sections:
       - title: Marco Pozzo
         subtitle: Italia
         title_align: left
-        content: >
-          ###### Fundador de la empresa SmartCoach Europe, tecnología de punta
-          para valoración de la fuerza.
-
-
-          ###### Ingeniero electrónico del Politecnico di Torino, Italia.
-
-
-          ###### Ex Director departamento de fisiología, Instituto Karolinska,
-          Suecia.
-
-
-          ###### Autor de 22 publicaciones científicas internacionales y 4
-          capítulos de libros.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
