@@ -865,18 +865,8 @@ sections:
         image: /images/Alexis García.png
       - title: Carlos Mario Zuluaga
         subtitle: Colombia
-        content: >
-          ###### Presidente Ejecutivo Club Deportivo La Equidad Seguros.
-
-
-          ###### Máster en Derecho Deportivo Universidad de Lleida España.
-
-
-          ###### Abogado de la Universidad Católica de Colombia.
-
-
-          ###### Administrador de empresas,  Universidad Cooperativa de
-          Colombia.
+        content: |
+          ######
         image: /images/Carlos Mario Zuluaga (1).png
         image_alt: Speaker 1 photo
         image_position: top
