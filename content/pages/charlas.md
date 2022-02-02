@@ -376,7 +376,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/13.png
+        image: /images/Juan Carlos Quiceno.png
       - title: Marco Pozzo
         subtitle: Italia
         title_align: left
