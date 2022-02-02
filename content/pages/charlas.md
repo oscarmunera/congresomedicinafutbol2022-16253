@@ -2,7 +2,7 @@
 title: Charlas
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Workshops
     subtitle: lorem-ipsum
     actions: []
     grid_items:
