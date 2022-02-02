@@ -118,18 +118,8 @@ sections:
       - title: Paolo Gaudino
         subtitle: Reino Unido
         title_align: left
-        content: >
-          ###### Readaptador y preparador físico Manchester United F.C.
-
-
-          ###### Sport Science y fitness coach desde 2011 hasta el 2018.
-
-
-          ###### PhD en Sport Science en la Universidad de Milán, Italia.
-
-
-          ###### Diferentes publicaciones científicas en revistas de ciencia y
-          medicina del deporte.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
