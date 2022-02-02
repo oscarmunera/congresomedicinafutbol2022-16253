@@ -431,23 +431,8 @@ sections:
       - title: Javier Mallo
         subtitle: España
         title_align: left
-        content: >
-          ###### Preparador físico de fútbol en equipos profesionales élite de
-          España e Inglaterra.
-
-
-          ###### Doctor en Ciencias de la Actividad física y deporte & Diplomado
-          en Fisioterapia.
-
-
-          ###### Máster en Alto Rendimiento Deportivo.
-
-
-          ###### Autor de varios libros y artículos de investigación sobre el
-          entrenamiento en el fútbol y deportes de equipo.
-
-
-          ###### Ponente en congresos Internacionales.
+        content: |
+          ######
         content_align: left
         actions: []
         actions_align: left
