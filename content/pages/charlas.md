@@ -396,7 +396,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/19 (1).png
+        image: /images/Marco Pozzo.png
       - title: Fredrik Correa
         title_align: left
         content_align: left
