@@ -74,7 +74,7 @@ sections:
             new_window: true
             no_follow: true
           - label: Estudiantes haga clic aquí
-            url: '#'
+            url: 'https://mpago.li/2XEmXeT'
             style: link
             has_icon: false
             icon: arrow-left
