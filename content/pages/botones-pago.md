@@ -65,7 +65,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Profesionales clic aquí
+          - label: Profesionales haga clic aquí
             url: 'https://mpago.li/258HvsJ'
             style: primary
             has_icon: false
