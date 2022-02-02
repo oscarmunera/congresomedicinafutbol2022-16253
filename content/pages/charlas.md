@@ -508,22 +508,8 @@ sections:
       - title: Andrés Zapata
         subtitle: Colombia
         title_align: left
-        content: >
-          ###### Director científico Motion Sports Nutrition Colombia.
-
-
-          ###### MSc en ciencias del deporte.
-
-
-          ###### Máster en nutrición deportiva y clínica- Universidad Isabel I
-          de Castilla.
-
-
-          ###### Experto universitario en nutrición deportiva -American College
-          of Sports Medicine.
-
-
-          ###### Nutricionista dietista- Universidad de Antioquia.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
