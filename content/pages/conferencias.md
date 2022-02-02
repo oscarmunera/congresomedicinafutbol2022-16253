@@ -2,7 +2,7 @@
 title: ponentes
 sections:
   - type: grid_section
-    title: Conferencistas invitados
+    title: Conferencias
     subtitle: La mejor alineación de conferencistas nacionales e internacionales.
     grid_items:
       - title: Christian Quiceno
