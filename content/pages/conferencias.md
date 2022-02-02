@@ -831,7 +831,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/23 (1).png
+        image: /images/Astrid Quinchia.png
       - title: Alexis García
         subtitle: Colombia
         title_align: left
