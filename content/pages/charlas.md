@@ -259,22 +259,8 @@ sections:
       - title: Ángel Áceña
         subtitle: Reino Unido
         title_align: left
-        content: >
-          ###### Preparador físico Watford F.C.
-
-
-          ###### Selección Costa Rica, Copa Mundial Rusia 2018.
-
-
-          ###### Preparación Física y la Prevención Readaptación deportiva (UCV,
-          UCAM, UPM, La Liga- Universidad LFP, Universidad San Pablo CEU.
-
-
-          ###### Publicaciones científicas, libros, capítulos, congresos.
-
-
-          ###### UEFA: Subcampeón Supercopa UEFA 2015, Campeón UEFA Europa
-          League 2016, Subcampeón Supercopa UEFA 2016
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
