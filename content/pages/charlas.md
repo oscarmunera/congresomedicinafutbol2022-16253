@@ -294,7 +294,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Antonio Gomez.png
+        image: /images/Agregar un título (29).png
       - title: Ángel Áceña
         subtitle: Reino Unido
         title_align: left
