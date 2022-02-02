@@ -73,7 +73,7 @@ sections:
             icon_position: center
             new_window: true
             no_follow: true
-          - label: Est
+          - label: Estudiantes haga clic aquí
             url: '#'
             style: link
             has_icon: false
