@@ -531,19 +531,8 @@ sections:
       - title: Fernando Pastrana
         subtitle: Colombia
         title_align: left
-        content: >
-          ###### Médico traumatólogo Club Deportivo La Equidad Seguros.
-
-
-          ###### Director MedSport Colombia.
-
-
-          ###### Médico Especialista en Ortopedia y Traumatología Deportiva
-          miembro de ISAKOS (Internacional Society of Arthroscopy, Knee Surgery
-          and Orthopaedics Sports Medicine).
-
-
-          ###### Especialista en cirugía de rodilla Clínica El Country.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
