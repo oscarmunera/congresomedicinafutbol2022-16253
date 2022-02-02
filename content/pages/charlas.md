@@ -235,7 +235,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Agregar un título (23) (2).png
+        image: /images/Daniel Cohen.png
       - title: Antonio Gómez
         subtitle: Polonia
         title_align: left
