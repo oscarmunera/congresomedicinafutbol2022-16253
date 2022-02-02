@@ -353,7 +353,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/5 (2).png
+        image: /images/Agregar un título (30).png
       - title: Ángel Áceña
         subtitle: Reino Unido
         title_align: left
