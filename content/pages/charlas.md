@@ -347,7 +347,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/19.png
+        image: /images/Hernan Giuria.png
       - title: Juan Carlos Quiceno
         subtitle: Paraguay
         title_align: left
