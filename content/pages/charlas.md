@@ -3,7 +3,6 @@ title: Charlas
 sections:
   - section_id: lorem-ipsum
     title: Workshops
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title_align: left
