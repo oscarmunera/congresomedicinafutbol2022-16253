@@ -65,14 +65,22 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Haga clic aquí
-            url: 'https://app.rebus.com.co/congreso'
+          - label: Profesionales haga clic aquí
+            url: 'https://mpago.li/258HvsJ'
             style: primary
             has_icon: false
             icon: arrow-left
             icon_position: center
             new_window: true
             no_follow: true
+          - label: Estudiantes haga clic aquí
+            url: 'https://mpago.li/2XEmXeT'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: center
+            new_window: true
+            no_follow: false
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum

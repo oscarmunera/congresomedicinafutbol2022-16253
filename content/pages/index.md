@@ -144,15 +144,20 @@ sections:
           efectivo y en Bancos.
         subtitle: Marzo 24-25 de 2022.
         title_align: left
-        content: >
+        content: >+
           $ COP 460.000
 
 
           \* Se solicitará vía correo electrónico certificación vigente de
           estudiante, antes de confirmar su cupo en el evento.
+
+
+          \* Si tiene dificultades para procesar su pago, nos puede escribir al
+          +573002000206
+
         content_align: left
         actions:
-          - label: Regístrese aquí
+          - label: Pagar
             url: 'https://biz.payulatam.com/L0c376f6C5C6E28'
             style: primary
             new_window: true
@@ -163,12 +168,17 @@ sections:
           efectivo y en Bancos.
         subtitle: Marzo 24-25 de 2022.
         title_align: left
-        content: >
+        content: >+
           $ COP 600.000
 
 
           Acceso completo a todas las charlas, conferencias, rueda comercial y
           networking.
+
+
+          \* Si tiene dificultades para procesar su pago, nos puede escribir al
+          +573002000206
+
         content_align: left
         actions:
           - label: Regístrese aquí
@@ -182,7 +192,7 @@ sections:
           Colombia y el exterior.
         subtitle: Marzo 24-25 de 2022
         title_align: left
-        content: >
+        content: >+
           $COP 460.000(estudiantes)
 
 
@@ -191,16 +201,29 @@ sections:
 
           Acceso completo a todas las charlas, conferencias, rueda comercial y
           networking.
+
+
+          \* Si tiene dificultades para procesar su pago, nos puede escribir al
+          +573002000206
+
         content_align: left
         actions:
-          - label: Regístrese aquí
-            url: 'https://app.rebus.com.co/congreso'
+          - label: Profesionales haga clic aquí
+            url: 'https://mpago.li/258HvsJ'
             style: primary
             has_icon: false
             icon: arrow-left
             icon_position: center
             new_window: true
             no_follow: true
+          - label: Estudiantes haga clic aquí
+            url: 'https://mpago.li/2XEmXeT'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: center
+            new_window: true
+            no_follow: false
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
