@@ -174,7 +174,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/WhatsApp Image 2021-11-20 at 10.02.25 AM.jpeg
+        image: /images/Pedro Alcaraz.png
         content: >
           ###### Presidente Ejecutivo de Strength & Conditioning Society.
 
