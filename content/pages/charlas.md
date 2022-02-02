@@ -2,7 +2,7 @@
 title: Charlas
 sections:
   - type: grid_section
-    title: Conferencias
+    title: Charlas
     subtitle: La mejor alineación de conferencistas nacionales e internacionales.
     grid_items:
       - title: Christian Quiceno
