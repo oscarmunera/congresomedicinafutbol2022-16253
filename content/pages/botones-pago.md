@@ -66,7 +66,7 @@ sections:
         content_align: left
         actions:
           - label: Profesionales clic aquí
-            url: 'https://app.rebus.com.co/congreso'
+            url: 'https://mpago.li/258HvsJ'
             style: primary
             has_icon: false
             icon: arrow-left
