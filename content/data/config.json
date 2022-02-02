@@ -64,12 +64,6 @@
                 "no_follow": false
             },
             {
-                "label": "Inscripciones",
-                "url": "/botones-pago",
-                "style": "primary",
-                "new_window": true
-            },
-            {
                 "label": "charlas",
                 "url": "/charlas",
                 "style": "link",
@@ -78,6 +72,12 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Inscripciones",
+                "url": "/botones-pago",
+                "style": "primary",
+                "new_window": true
             }
         ],
         "primary_nav_links": []
