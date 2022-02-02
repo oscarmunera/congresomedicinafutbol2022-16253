@@ -17,7 +17,9 @@ sections:
     media_position: top
     background_image_repeat: no-repeat
     media_width: sixty
-    background_image: /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1920 x 700 px) (6).png
+    background_image: >-
+      /images/Copia de Cooming Soon 1 (1920 x 1080 px) (1500 x 500 px) (851 x
+      315 px) (820 x 380 px) (2) (1).png
     section_id: banner
     has_border: false
   - type: grid_section
@@ -76,7 +78,7 @@ sections:
         actions:
           - label: Descarga la revista oficial aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2022/01/RevistaCongreso2022.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2022/02/II-Congreso-Revista.pdf
             style: primary
             has_icon: false
             icon: arrow-left
@@ -128,7 +130,7 @@ sections:
           ### ***Comparte conocimientos con los líderes mundiales de opinión en
           ciencias del deporte.***
         align: center
-        image: /images/Temática Congreso (1920 x 1080 px) (9).png
+        image: /images/Temática Congreso (1920 x 1080 px) (10).png
         media_width: fourty
     feature_padding_vert: medium
     align: center
