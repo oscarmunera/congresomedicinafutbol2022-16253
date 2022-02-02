@@ -157,7 +157,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Regístrese aquí
+          - label: Pagar
             url: 'https://biz.payulatam.com/L0c376f6C5C6E28'
             style: primary
             new_window: true
