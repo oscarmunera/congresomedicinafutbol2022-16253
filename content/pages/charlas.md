@@ -338,19 +338,8 @@ sections:
       - title: Juan Carlos Quiceno
         subtitle: Paraguay
         title_align: left
-        content: >
-          ###### Coordinador del Centro de Ciencias Aplicadas al deporte del
-          Comité Olímpico Paraguayo.
-
-
-          ###### Médico y cirujano de la Universidad de Antioquia.
-
-
-          ###### Especialista en medicina aplicada a la actividad física y el
-          deporte Universidad de Antioquia.
-
-
-          ###### Ex Director médico Coldeportes y Comité Olímpico Colombiano.
+        content: |
+          ######
         content_align: left
         actions:
           - label: ' '
