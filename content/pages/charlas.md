@@ -21,7 +21,7 @@ sections:
 
           ###### Ponente y asesor en medicina deportiva a nivel nacional e
           internacional.
-        image: /images/14.png
+        image: /images/Christian Quiceno (1).png
         image_alt: Speaker 2 photo
         image_position: top
         actions:
