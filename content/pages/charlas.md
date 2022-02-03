@@ -265,7 +265,7 @@ sections:
         image_has_padding: false
         image: /images/Daniel Cohen.png
       - title: Antonio Gómez
-        subtitle: Polonia
+        subtitle: Brasil
         title_align: left
         content: |
           ######

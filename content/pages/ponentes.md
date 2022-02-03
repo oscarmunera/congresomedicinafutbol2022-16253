@@ -316,7 +316,7 @@ sections:
         image_has_padding: false
         image: /images/Agregar un título (23) (2).png
       - title: Antonio Gómez
-        subtitle: Polonia
+        subtitle: Brasil
         title_align: left
         content: |
           ###### Preparador Físico Selección Nacional Polonia.
