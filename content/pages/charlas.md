@@ -566,7 +566,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Andrés Zapata.png
+        image: /images/53.png
       - title: Fernando Pastrana
         subtitle: Colombia
         title_align: left
