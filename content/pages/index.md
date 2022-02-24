@@ -539,7 +539,7 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://www.lgchem.com/product/PD00000205'
             style: link
             has_icon: false
             icon: arrow-left
