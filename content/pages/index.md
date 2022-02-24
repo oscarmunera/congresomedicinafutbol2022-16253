@@ -540,7 +540,7 @@ sections:
         actions:
           - label: ' '
             url: 'https://www.lgchem.com/product/PD00000205'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
