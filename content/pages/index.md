@@ -519,7 +519,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: 'https://www.comedal.com.co/'
             style: link
             has_icon: false
