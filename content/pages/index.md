@@ -368,6 +368,25 @@ sections:
         content_align: left
         actions:
           - label: ' '
+            url: 'https://fcf.com.co/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: true
+            no_follow: true
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: "/images/LogoFCF (300 × 300\_px).png"
+      - title_align: left
+        content_align: left
+        actions:
+          - label: ' '
             url: 'https://www.mysportscience.com/'
             style: primary
             has_icon: true
@@ -501,7 +520,7 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: 'https://fcf.com.co/'
+            url: 'https://www.comedal.com.co/'
             style: primary
             has_icon: true
             icon: arrow-right
@@ -515,7 +534,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: "/images/LogoFCF (300 × 300\_px).png"
+        image: "/images/comedal (300 × 300\_px).png"
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
