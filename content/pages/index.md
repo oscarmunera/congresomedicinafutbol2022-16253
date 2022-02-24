@@ -543,9 +543,9 @@ sections:
             style: primary
             has_icon: true
             icon: arrow-right
-            icon_position: right
-            new_window: true
-            no_follow: false
+            icon_position: center
+            new_window: false
+            no_follow: true
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
