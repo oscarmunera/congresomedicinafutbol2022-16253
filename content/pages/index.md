@@ -76,7 +76,7 @@ sections:
         actions:
           - label: Descarga la revista oficial aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2022/02/II-Congreso-Revista.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2022/02/RevistaIICongreso.pdf
             style: primary
             has_icon: false
             icon: arrow-left
