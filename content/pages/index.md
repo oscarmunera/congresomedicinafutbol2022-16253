@@ -481,7 +481,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: ' '
             url: 'https://www.arthromeds.com/'
             style: primary
             has_icon: true
