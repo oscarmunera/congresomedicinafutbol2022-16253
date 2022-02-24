@@ -488,7 +488,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Logo_arthromeds (1).png
+        image: "/images/Logo_arthromeds (300 × 300\_px).png"
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
