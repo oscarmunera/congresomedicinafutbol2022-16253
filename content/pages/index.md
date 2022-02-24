@@ -488,7 +488,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Feliz dia (56).png
+        image: /images/Feliz dia (55).png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
