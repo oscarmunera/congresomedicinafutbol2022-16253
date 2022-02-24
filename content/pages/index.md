@@ -535,6 +535,25 @@ sections:
         image_align: left
         image_has_padding: false
         image: "/images/comedal (300 × 300\_px).png"
+      - title_align: left
+        content_align: left
+        actions:
+          - label: ' '
+            url: 'https://www.lgchem.com/product/PD00000205'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: true
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/LG_chems.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
