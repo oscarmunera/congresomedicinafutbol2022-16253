@@ -516,8 +516,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: "/images/LogoFCF (300 × 300\_px).png"
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
