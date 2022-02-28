@@ -78,7 +78,7 @@ sections:
         actions:
           - label: Descarga la revista oficial aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2022/02/RevistaIICongreso.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2022/02/Revista-II-Congreso-Medicina.-1.pdf
             style: primary
             has_icon: false
             icon: arrow-left
