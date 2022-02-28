@@ -209,7 +209,7 @@ sections:
         content_align: left
         actions:
           - label: Profesionales haga clic aquí
-            url: 'https://mpago.li/258HvsJ'
+            url: 'https://biz.payulatam.com/L0c376fD6D7C6B6'
             style: primary
             has_icon: false
             icon: arrow-left
@@ -217,7 +217,7 @@ sections:
             new_window: true
             no_follow: true
           - label: Estudiantes haga clic aquí
-            url: 'https://mpago.li/2XEmXeT'
+            url: 'https://biz.payulatam.com/L0c376f8F032FE9'
             style: primary
             has_icon: false
             icon: arrow-left
