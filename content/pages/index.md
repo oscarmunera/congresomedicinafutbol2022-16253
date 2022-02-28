@@ -217,7 +217,7 @@ sections:
             new_window: true
             no_follow: true
           - label: Estudiantes haga clic aquí
-            url: 'https://mpago.li/2XEmXeT'
+            url: 'https://biz.payulatam.com/L0c376f8F032FE9'
             style: primary
             has_icon: false
             icon: arrow-left
