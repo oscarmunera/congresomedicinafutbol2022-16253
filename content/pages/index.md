@@ -209,7 +209,7 @@ sections:
         content_align: left
         actions:
           - label: Profesionales haga clic aquí
-            url: 'https://mpago.li/258HvsJ'
+            url: 'https://biz.payulatam.com/L0c376fD6D7C6B6'
             style: primary
             has_icon: false
             icon: arrow-left
