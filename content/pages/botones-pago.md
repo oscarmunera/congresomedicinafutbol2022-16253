@@ -81,7 +81,7 @@ sections:
             icon_position: center
             new_window: true
             no_follow: false
-          - label: Para pagos desde el exterior
+          - label: Para pagos desde el exterior ingrese
             url: 'https://app.rebus.com.co/congreso'
             style: primary
             has_icon: false
