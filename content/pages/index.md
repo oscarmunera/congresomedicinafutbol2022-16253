@@ -224,7 +224,7 @@ sections:
             icon_position: center
             new_window: true
             no_follow: false
-          - label: lorem-ipsum
+          - label: Para pagos desde el exterior
             url: '#'
             style: link
             has_icon: false
