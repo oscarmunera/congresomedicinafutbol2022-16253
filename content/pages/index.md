@@ -562,7 +562,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         image: /images/1.png
       - title_align: left
         content_align: left
