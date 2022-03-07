@@ -576,6 +576,8 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/5 (10).png
+        content: |
+          ![](/images/5%20\(10\).png)
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
