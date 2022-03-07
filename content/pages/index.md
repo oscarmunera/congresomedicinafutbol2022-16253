@@ -544,7 +544,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: "/images/Logo_arthromeds (300 × 300\_px).png"
+        image: /images/3.png
       - title_align: left
         content_align: left
         actions:
