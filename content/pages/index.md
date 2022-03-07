@@ -603,7 +603,7 @@ sections:
         image_has_padding: false
         image: /images/2.png
       - title: ' '
-        subtitle: lorem-ipsum
+        subtitle: ' '
         title_align: left
         content_align: left
         actions: []
