@@ -431,6 +431,27 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/5 (4).png
+      - title: ' '
+        subtitle: ' '
+        title_align: left
+        content_align: left
+        actions:
+          - label: ' '
+            url: 'https://www.latam.abbott/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        image: /images/6.png
       - title_align: left
         content_align: left
         actions:
@@ -469,27 +490,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/8 (2).png
-      - title: ' '
-        subtitle: ' '
-        title_align: left
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.latam.abbott/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        image: /images/6.png
       - title_align: left
         content_align: left
         actions:
