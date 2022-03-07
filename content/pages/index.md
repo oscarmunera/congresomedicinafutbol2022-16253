@@ -563,7 +563,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: "/images/comedal (300 × 300\_px).png"
+        image: /images/1.png
       - title_align: left
         content_align: left
         actions:
