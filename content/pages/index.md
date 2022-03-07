@@ -412,6 +412,25 @@ sections:
         image_align: center
         image_has_padding: true
         image: /images/5.png
+      - title_align: left
+        content_align: left
+        actions:
+          - label: ' '
+            url: 'https://www.arthromeds.com/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: true
+            no_follow: true
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        image: /images/3.png
       - title: ' '
         subtitle: ' '
         title_align: left
@@ -566,25 +585,6 @@ sections:
         image_align: center
         image_has_padding: true
         image: /images/2 (10).png
-      - title_align: left
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.arthromeds.com/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: true
-            no_follow: true
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        image: /images/3.png
       - title_align: left
         content_align: left
         actions:
