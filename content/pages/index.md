@@ -416,6 +416,84 @@ sections:
         content_align: left
         actions:
           - label: ' '
+            url: 'https://www.arthromeds.com/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: true
+            no_follow: true
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        image: /images/3.png
+      - title_align: left
+        content_align: left
+        actions:
+          - label: ' '
+            url: 'https://www.lgchem.com/product/PD00000205'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: true
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        image: /images/4-b35144fb.png
+      - title: ' '
+        subtitle: ' '
+        title_align: left
+        content_align: left
+        actions:
+          - label: ' '
+            url: 'https://www.latam.abbott/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: false
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        image: /images/6.png
+      - title_align: left
+        content_align: left
+        actions:
+          - label: ' '
+            url: '#'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: false
+            no_follow: true
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        image: /images/2.png
+      - title_align: left
+        content_align: left
+        actions:
+          - label: ' '
             url: 'https://www.mysportscience.com/'
             style: primary
             has_icon: true
@@ -530,25 +608,6 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: 'https://www.arthromeds.com/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: true
-            no_follow: true
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        image: /images/3.png
-      - title_align: left
-        content_align: left
-        actions:
-          - label: ' '
             url: 'https://www.comedal.com.co/'
             style: primary
             has_icon: true
@@ -564,65 +623,6 @@ sections:
         image_align: left
         image_has_padding: true
         image: /images/1.png
-      - title_align: left
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.lgchem.com/product/PD00000205'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: true
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        image: /images/4-b35144fb.png
-      - title_align: left
-        content_align: left
-        actions:
-          - label: ' '
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: true
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        image: /images/2.png
-      - title: ' '
-        subtitle: ' '
-        title_align: left
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.latam.abbott/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        image: /images/6.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
