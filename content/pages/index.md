@@ -614,6 +614,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/6.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
