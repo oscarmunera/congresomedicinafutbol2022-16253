@@ -391,7 +391,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         image: "/images/Sin título (1080 × 500\_px).png"
       - title_align: left
         content_align: left
