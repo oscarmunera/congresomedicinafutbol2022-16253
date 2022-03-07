@@ -599,7 +599,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: bottom
         image_width: fourty
-        image_align: center
+        image_align: left
         image_has_padding: false
         image: /images/2.png
       - title: lorem-ipsum
