@@ -570,7 +570,7 @@ sections:
           - label: lorem-ipsum
             url: 'https://fisiomedica.com/'
             style: primary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
