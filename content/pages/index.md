@@ -392,7 +392,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: "/images/LogoFCF (300 × 300\_px).png"
+        image: "/images/Sin título (1080 × 500\_px).png"
       - title_align: left
         content_align: left
         actions:
