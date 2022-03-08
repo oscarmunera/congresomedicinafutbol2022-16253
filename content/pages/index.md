@@ -160,7 +160,7 @@ sections:
         content_align: left
         actions:
           - label: Pagar
-            url: 'https://biz.payulatam.com/L0c376f6C5C6E28'
+            url: 'https://biz.payulatam.com/L0c376fED0A9693'
             style: primary
             new_window: true
         actions_align: center
