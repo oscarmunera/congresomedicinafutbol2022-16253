@@ -219,7 +219,7 @@ sections:
             new_window: true
             no_follow: true
           - label: Estudiantes haga clic aquí
-            url: 'https://biz.payulatam.com/L0c376f8F032FE9'
+            url: 'https://biz.payulatam.com/L0c376fED0A9693'
             style: primary
             has_icon: false
             icon: arrow-left
