@@ -724,39 +724,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/20.png
-      - title: Astrid Quinchia
-        subtitle: Colombia
-        title_align: left
-        content: >
-          ###### Nutricionista del Comité Olímpico Colombiano.
-
-
-          ###### Nutricionista y Dietista de la Universidad Nacional de
-          Colombia.
-
-
-          ###### MSc en deporte y actividad física de la Universidad Nacional.
-
-
-          ###### Ex-Coordinadora del área de nutrición de Coldeportes.
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.instagram.com/astrid.quinchia/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/23 (1).png
       - title: Alexis García
         subtitle: Colombia
         title_align: left
