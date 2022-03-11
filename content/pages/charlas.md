@@ -567,29 +567,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Fernando Pastrana.png
-      - title: Astrid Quinchia
-        subtitle: Colombia
-        title_align: left
-        content: |
-          ######
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.instagram.com/astrid.quinchia/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Astrid Quinchia.png
       - title: Alexis García
         subtitle: Colombia
         title_align: left
