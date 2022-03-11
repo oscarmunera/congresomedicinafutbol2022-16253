@@ -603,36 +603,6 @@ sections:
 
 
           ###### Participación como pesista para la selección de Suecia.
-      - title: Javier Mallo
-        subtitle: España
-        title_align: left
-        content: >
-          ###### Preparador físico de fútbol en equipos profesionales élite de
-          España e Inglaterra.
-
-
-          ###### Doctor en Ciencias de la Actividad física y deporte & Diplomado
-          en Fisioterapia.
-
-
-          ###### Máster en Alto Rendimiento Deportivo.
-
-
-          ###### Autor de varios libros y artículos de investigación sobre el
-          entrenamiento en el fútbol y deportes de equipo.
-
-
-          ###### Ponente en congresos Internacionales.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/18 (1).png
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
@@ -675,51 +645,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/4 (3)-ea1c66cb.png
-      - title: Mireia Porta
-        subtitle: España
-        title_align: left
-        content: >
-          ###### Nutricionista de equipos de fútbol de la Liga Española.
-
-
-          ###### Dietista- Nutricionista y Tecnóloga Alimentaria por la
-          Universidad de Barcelona.
-
-
-          ###### Profesora Asociada de la Universidad  Autónoma de Barcelona.
-
-
-          ###### Antropometrista ISAK 3.
-
-
-          ###### Vocal de la Asociación de Dietistas Nutricionistas de Equipos
-          de Fútbol Español.&#xA;&#xA;
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.instagram.com/mireiaportaoliva/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-          - label: ' '
-            url: 'https://twitter.com/MireiaPorta'
-            style: primary
-            has_icon: true
-            icon: twitter
-            icon_position: center
-            new_window: true
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/11.png
       - title: Andrés Zapata
         subtitle: Colombia
         title_align: left
@@ -799,39 +724,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/20.png
-      - title: Astrid Quinchia
-        subtitle: Colombia
-        title_align: left
-        content: >
-          ###### Nutricionista del Comité Olímpico Colombiano.
-
-
-          ###### Nutricionista y Dietista de la Universidad Nacional de
-          Colombia.
-
-
-          ###### MSc en deporte y actividad física de la Universidad Nacional.
-
-
-          ###### Ex-Coordinadora del área de nutrición de Coldeportes.
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.instagram.com/astrid.quinchia/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/23 (1).png
       - title: Alexis García
         subtitle: Colombia
         title_align: left
