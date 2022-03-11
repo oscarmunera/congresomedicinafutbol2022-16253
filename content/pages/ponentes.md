@@ -645,51 +645,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/4 (3)-ea1c66cb.png
-      - title: Mireia Porta
-        subtitle: España
-        title_align: left
-        content: >
-          ###### Nutricionista de equipos de fútbol de la Liga Española.
-
-
-          ###### Dietista- Nutricionista y Tecnóloga Alimentaria por la
-          Universidad de Barcelona.
-
-
-          ###### Profesora Asociada de la Universidad  Autónoma de Barcelona.
-
-
-          ###### Antropometrista ISAK 3.
-
-
-          ###### Vocal de la Asociación de Dietistas Nutricionistas de Equipos
-          de Fútbol Español.&#xA;&#xA;
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.instagram.com/mireiaportaoliva/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-          - label: ' '
-            url: 'https://twitter.com/MireiaPorta'
-            style: primary
-            has_icon: true
-            icon: twitter
-            icon_position: center
-            new_window: true
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/11.png
       - title: Andrés Zapata
         subtitle: Colombia
         title_align: left
