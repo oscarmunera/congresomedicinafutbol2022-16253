@@ -467,21 +467,6 @@ sections:
         subtitle: Suecia
         content: |
           ######
-      - title: Javier Mallo
-        subtitle: España
-        title_align: left
-        content: |
-          ######
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Javier Mallo.png
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
@@ -513,37 +498,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Agregar un título (42).png
-      - title: Mireia Porta
-        subtitle: España
-        title_align: left
-        content: |
-          ###### &#xA;&#xA;
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.instagram.com/mireiaportaoliva/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-          - label: ' '
-            url: 'https://twitter.com/MireiaPorta'
-            style: primary
-            has_icon: true
-            icon: twitter
-            icon_position: center
-            new_window: true
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Mireia Porta 1.png
       - title: Andrés Zapata
         subtitle: Colombia
         title_align: left
@@ -598,29 +552,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Fernando Pastrana.png
-      - title: Astrid Quinchia
-        subtitle: Colombia
-        title_align: left
-        content: |
-          ######
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.instagram.com/astrid.quinchia/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Astrid Quinchia.png
       - title: Alexis García
         subtitle: Colombia
         title_align: left
