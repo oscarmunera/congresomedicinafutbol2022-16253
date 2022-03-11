@@ -133,7 +133,7 @@ sections:
         subtitle: Suiza
         content: |
           ######
-        image: /images/Luis Suarez.png
+        image: '/images/Luis Suarez A,.png'
         image_alt: Speaker 5 photo
         image_position: top
         actions:
