@@ -49,11 +49,6 @@
                 "no_follow": false
             },
             {
-                "label": "Programa Académico",
-                "url": "/agenda",
-                "style": "link"
-            },
-            {
                 "label": "I Congreso",
                 "url": "/icongreso",
                 "style": "link",
@@ -80,7 +75,18 @@
                 "new_window": true
             }
         ],
-        "primary_nav_links": []
+        "primary_nav_links": [
+            {
+                "label": "menu",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "footer": {
         "has_primary_nav": false,
