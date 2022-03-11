@@ -435,7 +435,7 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: 'https://www.lgchem.com/product/PD00000205'
+            url: 'https://www.hyruanone.com/'
             style: primary
             has_icon: true
             icon: arrow-right
