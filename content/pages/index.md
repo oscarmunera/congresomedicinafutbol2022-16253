@@ -211,7 +211,7 @@ sections:
         content_align: left
         actions:
           - label: Profesionales haga clic aquí
-            url: 'https://biz.payulatam.com/L0c376f7FDD4E04'
+            url: 'https://biz.payulatam.com/L0c376f9C9F17B6'
             style: primary
             has_icon: false
             icon: arrow-left
