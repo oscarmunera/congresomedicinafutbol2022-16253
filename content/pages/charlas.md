@@ -512,7 +512,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Asker Jeukendrup (1).png
+        image: /images/Agregar un título (42).png
       - title: Mireia Porta
         subtitle: España
         title_align: left
