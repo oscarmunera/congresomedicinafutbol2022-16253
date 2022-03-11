@@ -467,21 +467,6 @@ sections:
         subtitle: Suecia
         content: |
           ######
-      - title: Javier Mallo
-        subtitle: España
-        title_align: left
-        content: |
-          ######
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Javier Mallo.png
       - title: Asker Jeukendrup
         subtitle: Reino Unido
         title_align: left
