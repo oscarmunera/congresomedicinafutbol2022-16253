@@ -513,37 +513,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/Agregar un título (42).png
-      - title: Mireia Porta
-        subtitle: España
-        title_align: left
-        content: |
-          ###### &#xA;&#xA;
-        content_align: left
-        actions:
-          - label: ' '
-            url: 'https://www.instagram.com/mireiaportaoliva/'
-            style: primary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: true
-          - label: ' '
-            url: 'https://twitter.com/MireiaPorta'
-            style: primary
-            has_icon: true
-            icon: twitter
-            icon_position: center
-            new_window: true
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/Mireia Porta 1.png
       - title: Andrés Zapata
         subtitle: Colombia
         title_align: left
