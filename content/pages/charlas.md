@@ -263,7 +263,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: /images/Daniel Cohen.png
+        image: /images/Agregar un título (40).png
       - title: Antonio Gómez
         subtitle: Brasil
         title_align: left
