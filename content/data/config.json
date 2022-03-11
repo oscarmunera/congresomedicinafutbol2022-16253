@@ -49,11 +49,6 @@
                 "no_follow": false
             },
             {
-                "label": "Programa Académico",
-                "url": "/agenda",
-                "style": "link"
-            },
-            {
                 "label": "I Congreso",
                 "url": "/icongreso",
                 "style": "link",
