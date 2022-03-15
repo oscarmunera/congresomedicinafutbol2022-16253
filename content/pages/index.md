@@ -528,6 +528,25 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/6 (4).png
+      - title_align: left
+        content_align: center
+        actions:
+          - label: ' '
+            url: 'https://www.scs.academy/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: true
+            no_follow: false
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/8 (2).png
       - title: ' '
         title_align: left
         content_align: left
@@ -548,25 +567,6 @@ sections:
         image_align: left
         image_has_padding: true
         image: "/images/Sin título (1080 × 500\_px) (4).png"
-      - title_align: left
-        content_align: center
-        actions:
-          - label: ' '
-            url: 'https://www.scs.academy/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-            new_window: true
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: /images/8 (2).png
       - title_align: left
         content_align: left
         actions:
