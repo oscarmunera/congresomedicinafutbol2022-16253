@@ -628,7 +628,7 @@ sections:
         content_align: left
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://www.laboratoriovejarano.com/'
             style: link
             has_icon: false
             icon: arrow-left
