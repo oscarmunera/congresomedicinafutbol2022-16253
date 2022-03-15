@@ -647,14 +647,14 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
+            url: 'https://faesfarma.com/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+            new_window: true
             no_follow: false
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
