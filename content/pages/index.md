@@ -643,8 +643,7 @@ sections:
         image_align: left
         image_has_padding: true
         image: "/images/Sin título (1080 × 500\_px) (4).png"
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
