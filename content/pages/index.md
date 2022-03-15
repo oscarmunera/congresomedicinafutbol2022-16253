@@ -633,7 +633,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         image: "/images/Sin título (1080 × 500\_px) (4).png"
     grid_cols: three
     grid_gap_vert: small
