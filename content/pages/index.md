@@ -57,7 +57,7 @@ sections:
         actions:
           - label: Descarga programa aquí
             url: >-
-              https://equidadclubdeportivo.coop/wp-content/uploads/2022/03/Programa-Academico-11.pdf
+              https://equidadclubdeportivo.coop/wp-content/uploads/2022/03/Programa-II-Congreso.pdf
             style: primary
             has_icon: false
             icon: arrow-left
