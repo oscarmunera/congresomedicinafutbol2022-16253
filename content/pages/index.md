@@ -662,7 +662,7 @@ sections:
         image_align: left
         image_has_padding: true
         image: /images/1.png
-      - title: lorem-ipsum
+      - title: ' '
         subtitle: lorem-ipsum
         title_align: left
         content: >-
