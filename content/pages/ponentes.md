@@ -391,7 +391,7 @@ sections:
 
           ###### Docente escuela de entrenadores [RFFM](https://www.rffm.es/) y
           [FEB](https://www.feb.es/inicio.aspx).
-        image: /images/7 (3).png
+        image: /images/11.png
         image_alt: Speaker 8 photo
         image_position: top
         title: Elena Isla
