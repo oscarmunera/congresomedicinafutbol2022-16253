@@ -374,23 +374,11 @@ sections:
         image: /images/10.png
       - subtitle: España
         content: >
-          ###### Responsable Área Médica de la Federación Española de
-          Baloncesto.
-
-
-          ###### Médico de selecciones femeninas de fútbol madrileño y español.
-
-
-          ###### Selección Absoluta Fútbol Sala Femenino
-          [RFEF](https://www.rfef.es/).
-
-
-          ###### Servicios Médicos Cantera Masculina y Femenina clubes de fútbol
-          español.
-
-
-          ###### Docente escuela de entrenadores [RFFM](https://www.rffm.es/) y
-          [FEB](https://www.feb.es/inicio.aspx).
+          ###### Nutricionista del Barcelona F.C.&#xA;Dietista- Nutricionista y
+          Tecnóloga Alimentaria por la Universidad de Barcelona.&#xA;Profesora
+          Asociada de la Universidad Autónoma de Barcelona.&#xA;Antropometrista
+          ISAK 3.&#xA;Vocal de la Asociación de Dietistas Nutricionistas de
+          Equipos de Fútbol Español
         image: /images/11.png
         image_alt: Speaker 8 photo
         image_position: top
