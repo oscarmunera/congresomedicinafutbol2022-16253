@@ -318,7 +318,7 @@ sections:
         title: Mireia Porta
         actions:
           - label: ' '
-            url: 'https://twitter.com/islandwalls'
+            url: 'https://twitter.com/MireiaPorta'
             style: primary
             has_icon: true
             icon: twitter
