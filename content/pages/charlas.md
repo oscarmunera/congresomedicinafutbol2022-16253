@@ -312,7 +312,7 @@ sections:
       - subtitle: España
         content: |
           ######
-        image: /images/Elena Isla (1).png
+        image: /images/Mireia Porta 1.png
         image_alt: Speaker 8 photo
         image_position: top
         title: Elena Isla
