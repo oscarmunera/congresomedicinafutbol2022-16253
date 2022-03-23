@@ -74,7 +74,6 @@ sections:
         subtitle: Gran Bretaña
         content: |
           ######
-        image: /images/Gary Odriscoll.png
         image_alt: Speaker 7 photo
         image_position: top
         actions_align: center
