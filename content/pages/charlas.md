@@ -312,13 +312,13 @@ sections:
       - subtitle: España
         content: |
           ######
-        image: /images/Elena Isla (1).png
+        image: /images/Mireia Porta 1.png
         image_alt: Speaker 8 photo
         image_position: top
-        title: Elena Isla
+        title: Mireia Porta
         actions:
           - label: ' '
-            url: 'https://twitter.com/islandwalls'
+            url: 'https://twitter.com/MireiaPorta'
             style: primary
             has_icon: true
             icon: twitter
@@ -326,7 +326,7 @@ sections:
             new_window: true
             no_follow: true
           - label: ' '
-            url: 'https://www.instagram.com/islandwalls/'
+            url: 'https://www.instagram.com/mireiaportaoliva/'
             style: primary
             has_icon: true
             icon: instagram
