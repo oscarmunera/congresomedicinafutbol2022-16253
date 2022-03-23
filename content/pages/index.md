@@ -668,7 +668,7 @@ sections:
         actions:
           - label: ' '
             url: 'https://gimnasiolospinos.edu.co/'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-left
             icon_position: right
