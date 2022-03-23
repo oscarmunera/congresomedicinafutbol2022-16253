@@ -116,7 +116,7 @@ sections:
   - section_id: lorem-ipsum
     subtitle: >-
       * Si tiene dificultades para procesar su pago, nos puede escribir al
-      +573002000206
+      +573002000206.
     features: []
     feature_padding_vert: medium
     align: center
