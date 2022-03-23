@@ -770,25 +770,17 @@ sections:
         subtitle: Colombia
         title_align: left
         content: >
-          Médico cirujano universidad libre.
-
-          Especialista Medicina Interna universidad j. N corpas.
-
-          Especialista en cardiologia universidad el bosque
-
-          Especialista en Ecocardiografia Hospital militar
-
-          Especialista en Ecocardiografia universidad CES.
+          ###### Médico cirujano Universidad Libre.&#xA;Especialista Medicina
+          Interna Universidad j. N corpas.&#xA;Especialista en cardiología
+          universidad El Bosque&#xA;Especialista en Ecocardiografia, Hospital
+          Militar&#xA;Especialista en Ecocardiografia, Universidad CES.
 
 
-          Cardiología deportiva.
+          ###### Fellow Sociedad Interamericana de Cardiología.
 
 
-          Fellow Sociedad interamericana de cardiologia.
-
-
-          Presidente del capitulo central de la sociedad colombiana de
-          cardiologia.
+          ###### Presidente del capítulo central de la sociedad colombiana de
+          cardiología.
         content_align: left
         actions: []
         actions_align: left
