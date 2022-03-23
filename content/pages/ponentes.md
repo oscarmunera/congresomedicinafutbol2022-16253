@@ -394,7 +394,7 @@ sections:
         image: /images/11.png
         image_alt: Speaker 8 photo
         image_position: top
-        title: Elena Isla
+        title: Mire
         actions:
           - label: ' '
             url: 'https://twitter.com/islandwalls'
