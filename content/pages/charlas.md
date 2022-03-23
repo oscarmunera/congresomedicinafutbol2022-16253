@@ -70,23 +70,6 @@ sections:
             no_follow: false
         actions_width: auto
         actions_align: center
-      - title: Gary O´Driscoll
-        subtitle: Gran Bretaña
-        content: |
-          ######
-        image: /images/Gary Odriscoll.png
-        image_alt: Speaker 7 photo
-        image_position: top
-        actions_align: center
-        actions:
-          - label: ' '
-            url: 'https://twitter.com/docgaryod'
-            style: primary
-            has_icon: true
-            icon: twitter
-            icon_position: center
-            new_window: true
-            no_follow: true
       - title: José María Villalón
         subtitle: España
         content: |

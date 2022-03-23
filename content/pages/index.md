@@ -65,7 +65,7 @@ sections:
             new_window: false
             no_follow: false
         actions_align: center
-      - title: 24 ponentes de 10 países.
+      - title: 21 ponentes de 10 países.
         title_align: center
         content: |
           Más de 30 conferencias académicas
@@ -130,7 +130,7 @@ sections:
           ### ***Comparte conocimientos con los líderes mundiales de opinión en
           ciencias del deporte.***
         align: center
-        image: /images/Diseño sin título (50).png
+        image: /images/Temática Congreso (1920 x 1080 px) (1600 x 900 px) (4).png
         media_width: fourty
     feature_padding_vert: medium
     align: center
@@ -566,7 +566,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: true
-        image: "/images/Sin título (1080 × 500\_px) (4).png"
+        image: "/images/Sin título (1080 × 500\_px) (5) (1).png"
       - title_align: left
         content_align: left
         actions:
