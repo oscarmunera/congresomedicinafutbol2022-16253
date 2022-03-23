@@ -596,6 +596,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/Agregar un título (51).png
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
