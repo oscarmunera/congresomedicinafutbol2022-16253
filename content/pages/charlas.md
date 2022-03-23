@@ -585,7 +585,7 @@ sections:
         content_align: left
         actions_align: center
       - title: Antonio Saltarín
-        subtitle: lorem-ipsum
+        subtitle: Colombia
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
