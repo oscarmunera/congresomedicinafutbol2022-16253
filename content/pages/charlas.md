@@ -315,7 +315,7 @@ sections:
         image: /images/Mireia Porta 1.png
         image_alt: Speaker 8 photo
         image_position: top
-        title: Elena Isla
+        title: Mireia Porta
         actions:
           - label: ' '
             url: 'https://twitter.com/islandwalls'
