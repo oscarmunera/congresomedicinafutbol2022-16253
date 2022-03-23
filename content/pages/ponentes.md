@@ -374,11 +374,21 @@ sections:
         image: /images/10.png
       - subtitle: España
         content: >
-          ###### Nutricionista del Barcelona F.C.&#xA;Dietista- Nutricionista y
-          Tecnóloga Alimentaria por la Universidad de Barcelona.&#xA;Profesora
-          Asociada de la Universidad Autónoma de Barcelona.&#xA;Antropometrista
-          ISAK 3.&#xA;Vocal de la Asociación de Dietistas Nutricionistas de
-          Equipos de Fútbol Español
+          ###### Nutricionista del Barcelona F.C.
+
+
+          ###### Dietista- Nutricionista y Tecnóloga Alimentaria por la
+          Universidad de Barcelona.
+
+
+          ###### Profesora Asociada de la Universidad Autónoma de Barcelona.
+
+
+          ###### Antropometrista ISAK 3.
+
+
+          ###### Vocal de la Asociación de Dietistas Nutricionistas de Equipos
+          de Fútbol Español
         image: /images/11.png
         image_alt: Speaker 8 photo
         image_position: top
