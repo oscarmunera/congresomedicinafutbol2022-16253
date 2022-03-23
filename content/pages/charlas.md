@@ -584,7 +584,7 @@ sections:
             no_follow: false
         content_align: left
         actions_align: center
-      - title: Antonio Saltari
+      - title: Antonio Saltarín
         subtitle: lorem-ipsum
         title_align: left
         content: >-
