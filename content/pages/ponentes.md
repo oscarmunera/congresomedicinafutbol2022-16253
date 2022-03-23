@@ -43,33 +43,6 @@ sections:
             no_follow: false
         actions_width: auto
         actions_align: center
-      - title: Gary O´Driscoll
-        subtitle: Gran Bretaña
-        content: >
-          ###### Director médico y rendimiento Arsenal FC-Inglaterra.
-
-
-          ###### Miembro actual del grupo médico de la Premier League.
-
-
-          ###### Miembro de los paneles de disciplina y dopaje de Rugby.
-
-
-          ###### Anteriormente, jefe de servicios médicos del equipo de rugby de
-          Irlanda.
-        image: /images/3 (3).png
-        image_alt: Speaker 7 photo
-        image_position: top
-        actions_align: center
-        actions:
-          - label: ' '
-            url: 'https://twitter.com/docgaryod'
-            style: primary
-            has_icon: true
-            icon: twitter
-            icon_position: center
-            new_window: true
-            no_follow: true
       - title: José María Villalón
         subtitle: España
         content: >
@@ -793,6 +766,31 @@ sections:
             no_follow: false
         content_align: left
         actions_align: center
+      - title: Antonio Saltarín
+        subtitle: Colombia
+        title_align: left
+        content: >
+          ###### Médico cirujano Universidad Libre.&#xA;Especialista Medicina
+          Interna Universidad j. N corpas.&#xA;Especialista en cardiología
+          universidad El Bosque&#xA;Especialista en Ecocardiografia, Hospital
+          Militar&#xA;Especialista en Ecocardiografia, Universidad CES.
+
+
+          ###### Fellow Sociedad Interamericana de Cardiología.
+
+
+          ###### Presidente del capítulo central de la sociedad colombiana de
+          cardiología.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/Agregar un título (50).png
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large

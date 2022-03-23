@@ -584,6 +584,19 @@ sections:
             no_follow: false
         content_align: left
         actions_align: center
+      - title: Antonio Saltarín
+        subtitle: Colombia
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: /images/Agregar un título (51).png
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
