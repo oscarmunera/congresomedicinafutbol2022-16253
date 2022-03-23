@@ -393,7 +393,7 @@ sections:
             new_window: true
             no_follow: true
           - label: ' '
-            url: 'https://www.instagram.com/islandwalls/'
+            url: 'https://www.instagram.com/mireiaportaoliva/'
             style: primary
             has_icon: true
             icon: instagram
