@@ -566,7 +566,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: true
-        image: "/images/Sin título (1080 × 500\_px) (4).png"
+        image: "/images/Sin título (1080 × 500\_px) (5) (1).png"
       - title_align: left
         content_align: left
         actions:
